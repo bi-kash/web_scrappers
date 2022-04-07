@@ -47,7 +47,7 @@ def scrapper(page_depth: int = 2, search_url: str = "https://www.oddsshopper.com
 
     # Usually used to wait for loading process. Scrap after page is fully loaded
     wait = WebDriverWait(driver, 20)
-    '''
+    
     scrapped = []
     check_overlay(driver)
 
@@ -140,11 +140,11 @@ def scrapper(page_depth: int = 2, search_url: str = "https://www.oddsshopper.com
     df.to_csv(save_to)
     return df
 
-    '''
+    
 
 if __name__ == "__main__":
     page_depth = 30
-    search_url = "www.facebook.com"
+    search_url = "https://www.oddsshopper.com/odds/shop/nba"
     save_to = "nba_player.csv"
 
     df = scrapper(page_depth = page_depth, search_url= search_url, save_to=save_to)
