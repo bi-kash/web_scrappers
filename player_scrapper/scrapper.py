@@ -145,6 +145,6 @@ def scrapper(page_depth: int = 2, search_url: str = "https://www.oddsshopper.com
 if __name__ == "__main__":
     page_depth = 30
     search_url = "https://www.oddsshopper.com/odds/shop/nba"
-    save_to = "nba_player.csv"
+    save_to = "player_scrapper/nba_player.csv"
 
     df = scrapper(page_depth = page_depth, search_url= search_url, save_to=save_to)
