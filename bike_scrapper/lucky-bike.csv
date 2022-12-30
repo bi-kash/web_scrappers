@@ -1,87 +1,352 @@
 ,shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
-0,lucky-bike,de,2022,Cube,Cube Access WS Allroad 2022 | 20 Zoll | airymint´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+0,lucky-bike,de,2022,Axess,Axess STIPE 26 2022 | 13 Zoll | black matt/red/lime | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 13 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-STIPE-26-2022.html?varselid[1]=d4034fb4d0f86c0c13eb3154c5dadd61,"383,99","479,99"
+1,lucky-bike,de,2023,Cube,Cube Access WS SLX 2023 | L | shiftpurple´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-SLX-2023.html?varselid[1]=b5b442ad154f9396755aa255d906cdc7,"1.199,00",
+2,lucky-bike,de,2022,Scott,Scott Contessa Active 60 2022 | S | mineral blue/teal green | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-60-2022.html?varselid[1]=eb1729e981554ec433ccdcb96206f00b,"534,99","629,00"
+3,lucky-bike,de,2023,Cube,Cube Flying Circus 2023 | L | galactic´n´black | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Flying-Circus-2023.html?varselid[1]=032a6bf36b4d0f223f004e2c199dbd6b,"1.099,00",
+4,lucky-bike,de,2022,Scott,Scott Spark RC Team 2022 | high risk red,new,Mountainbike,1,Lieferzeiten,"Einzelstück: M
+Wenige Exemplare auf Lager - schnell bestellen! : L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Spark-RC-Team-2022.html?varselid[1]=806db66216a04eb2b6883abfc65995f7,"4.699,00",
+5,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=f9a33fc7449f5f9acfa9197e7b98e551,"662,99","779,00"
+6,lucky-bike,de,2022,Scott,Scott Aspect 760 2022 | 19 Zoll | florida red/black | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll
+Einzelstück: 19 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-760-2022.html?varselid[1]=81c04dc0c76242cf9571e997e594240f,"594,99","699,00"
+7,lucky-bike,de,2022,Cube,Cube Access WS Allroad 2022 | 20 Zoll | airymint´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
 ",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Allroad-2022.html?varselid[1]=8c94f80bd82f99e71ff252e529144693,"584,99","649,00"
-1,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | blushmetallic´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=9734b2ced3181a419c27a2c89be45494,"479,99","599,00"
-2,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | violetwhite´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=9734b2ced3181a419c27a2c89be45494,"479,99","599,00"
-3,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | blushmetallic´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=750027aea4bdca2fcfcfe2921174aba2,"479,99","599,00"
-4,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | blue´n´red | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=731ae32bd66f49925c001fc3ffaa2c29,"423,99","529,00"
-5,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | black´n´yellow | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=731ae32bd66f49925c001fc3ffaa2c29,"423,99","529,00"
-6,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | violetwhite´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=750027aea4bdca2fcfcfe2921174aba2,"479,99","599,00"
-7,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | blue´n´red | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=4497cebe05b725574015c1a45a83a1bd,"423,99","529,00"
-8,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | black´n´yellow | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=4497cebe05b725574015c1a45a83a1bd,"423,99","529,00"
-9,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | burntorange´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 16 Zoll
-Sofort lieferbar: 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=0bbdc0681b16f3b99e16eb57a6f8d677,"759,99","949,00"
-10,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | burntorange´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 16 Zoll
-Sofort lieferbar: 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=f4e065531e6f96a5ce0b0697fb41ded5,"759,99","949,00"
-11,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | indigoblack´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=0bbdc0681b16f3b99e16eb57a6f8d677,"759,99","949,00"
-12,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | indigoblack´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=f4e065531e6f96a5ce0b0697fb41ded5,"759,99","949,00"
-13,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 24 Zoll | grey´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=7556b694240c560a17ee98f4dfcd3093,"479,99","599,00"
-14,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 24 Zoll | olive´n´orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=7556b694240c560a17ee98f4dfcd3093,"479,99","599,00"
-15,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 24 Zoll | grey´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=3158a0f986da1c29dca30ca970f24922,"479,99","599,00"
-16,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 24 Zoll | olive´n´orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=3158a0f986da1c29dca30ca970f24922,"479,99","599,00"
-17,lucky-bike,de,2022,Cube,Cube Aim SL 2022 | 24 Zoll | graphite´n´metal | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SL-2022.html?varselid[1]=de13b84d39a76576fecfd7190dd05715,"599,99","749,00"
-18,lucky-bike,de,2022,Cube,Cube Aim SL 2022 | 24 Zoll | graphite´n´metal | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SL-2022.html?varselid[1]=8a2b8d81ad38dd327ea5601354fc4199,"599,99","749,00"
-19,lucky-bike,de,2022,Cube,Cube Aim SL 2022 | 24 Zoll | prismagrey´n´blue´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SL-2022.html?varselid[1]=de13b84d39a76576fecfd7190dd05715,"599,99","749,00"
-20,lucky-bike,de,2022,Cube,Cube Aim SL 2022 | 24 Zoll | prismagrey´n´blue´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SL-2022.html?varselid[1]=8a2b8d81ad38dd327ea5601354fc4199,"599,99","749,00"
-21,lucky-bike,de,2022,Cube,Cube Acid 260 Disc 2022 | 33 cm | green´n´blue | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-Disc-2022.html?varselid[1]=dee763bd739bb375e0f4db8b513f0e67,"479,99","599,00"
-22,lucky-bike,de,2022,Cube,Cube Acid 260 Disc 2022 | 33 cm | mint´n´blue | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
-",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-Disc-2022.html?varselid[1]=dee763bd739bb375e0f4db8b513f0e67,"479,99","599,00"
-23,lucky-bike,de,2022,Axess,Axess SANDEE 2022 | 21 Zoll | black matt/grey/neon yellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll
-Sofort lieferbar: 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-2022.html?varselid[1]=4915a1ee622763de23886e99e3b71083,"399,99","499,99"
-24,lucky-bike,de,2022,Cube,Cube Access WS Pro 2022 | 20 Zoll | metalpetrol´n´mint | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Pro-2022.html?varselid[1]=95af313a0688dec4e005d426707bcbd1,"599,99","749,00"
-25,lucky-bike,de,2022,Cube,Cube Access WS Pro 2022 | 20 Zoll | rubymetal´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Pro-2022.html?varselid[1]=95af313a0688dec4e005d426707bcbd1,"599,99","749,00"
-26,lucky-bike,de,2022,Axess,Axess SANDEE 2022 | 21 Zoll | lime matt/black/orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll
-Sofort lieferbar: 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-2022.html?varselid[1]=4915a1ee622763de23886e99e3b71083,"399,99","499,99"
-27,lucky-bike,de,2022,Cube,Cube Access WS Pro 2022 | 20 Zoll | metalpetrol´n´mint | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Pro-2022.html?varselid[1]=0ad98d95c61a83012eabe08dbb39e373,"599,99","749,00"
-28,lucky-bike,de,2022,Axess,Axess SANDEE 2022 | 21 Zoll | black matt/grey/neon yellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll
-Sofort lieferbar: 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-2022.html?varselid[1]=d07d842a5b390b14d84440f996997f62,"399,99","499,99"
-29,lucky-bike,de,2022,Cube,Cube Access WS Pro 2022 | 20 Zoll | rubymetal´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Pro-2022.html?varselid[1]=0ad98d95c61a83012eabe08dbb39e373,"599,99","749,00"
-30,lucky-bike,de,2022,Axess,Axess SANDEE 2022 | 21 Zoll | lime matt/black/orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll
-Sofort lieferbar: 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-2022.html?varselid[1]=d07d842a5b390b14d84440f996997f62,"399,99","499,99"
-31,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | black´n´azure | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+8,lucky-bike,de,2023,Focus,Focus Whistler 3.6 2023 | 50 cm | slate grey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 38 cm, 42 cm, 46 cm, 50 cm
+",https://www.lucky-bike.de/Fahrraeder/Focus-Whistler-3-6-2023.html?varselid[1]=69391f89e56bc7ceabc8158e74baf5f1,"749,00",
+9,lucky-bike,de,2023,Cube,Cube Attention SLX 2023 | XXL | sea´n´orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: S, M, XXL
+Sofort lieferbar: L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-SLX-2023.html?varselid[1]=5070ba953d02896e82765a6f3996f75e,"1.099,00",
+10,lucky-bike,de,2022,Scott,Scott Spark RC Team 2022 | L | raw carbon | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen! : M
+Einzelstück: L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Spark-RC-Team-2022.html?varselid[1]=806db66216a04eb2b6883abfc65995f7,"4.699,00",
+11,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | black´n´azure | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
 Sofort lieferbar: S, M, L, XL, XXL
 ",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-RACE-2023.html?varselid[1]=fdccae2ba398ecb010ddfbf720312bd5,"679,00",
-32,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=d3715f892ef10ab323965bdaa47131fd,"439,99","549,00"
-33,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | olive´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+12,lucky-bike,de,2022,Trek,Trek Fuel EX 7 2022 | 23 Zoll | trek black/radioactive red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 15.5 Zoll, 23 Zoll
+Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Fuel-EX-7-2022.html?varselid[1]=c0f361431fb3ee2faf55d479e69927be,"2.699,00","3.199,00"
+13,lucky-bike,de,2022,Cube,Cube Aim Race Allroad 2022 | 24 Zoll | blue´n´green | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+Wenige Exemplare auf Lager - schnell bestellen! : 16 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Race-Allroad-2022.html?varselid[1]=6768862f48a9e7eee1399ae5adefe6d2,"749,00",
+14,lucky-bike,de,2023,Cube,Cube Aim SLX 2023 | XXL | graphite´n´metal | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SLX-2023.html?varselid[1]=de13b84d39a76576fecfd7190dd05715,"799,00",
+15,lucky-bike,de,2023,Cube,Cube Acid 2023 | XXL | grey´n´pearlgrey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: M, XXL
+Sofort lieferbar: L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-2023.html?varselid[1]=95896934c15ee5d30fac743d15a0bb53,"1.199,00",
+16,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=f9a33fc7449f5f9acfa9197e7b98e551,"662,99","779,00"
+17,lucky-bike,de,2022,Scott,Scott Aspect 760 2022 | 19 Zoll | granite black | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 19 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-760-2022.html?varselid[1]=81c04dc0c76242cf9571e997e594240f,"594,99","699,00"
+18,lucky-bike,de,2022,Axess,Axess SANDEE STREET 2022 | 21 Zoll | black matt/grey/neon yellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-STREET-2022.html?varselid[1]=d07d842a5b390b14d84440f996997f62,"599,99",
+19,lucky-bike,de,2022,Scott,Scott Spark RC Team 2022 | high risk red,new,Mountainbike,1,Lieferzeiten,"Einzelstück: M
+Wenige Exemplare auf Lager - schnell bestellen! : L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Spark-RC-Team-2022.html?varselid[1]=9104baa4e5c02b8021dab2d81428843f,"4.699,00",
+20,lucky-bike,de,2023,Trek,Trek X-Caliber 8 2023 | XXL | satin lithium grey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: M, ML, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Trek-X-Caliber-8-2023.html?varselid[1]=a661f20627799d4172293ec05c2c578e,"1.499,00",
+21,lucky-bike,de,2022,Cube,Cube Aim EX 2022 | grey´n´red,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2022.html?varselid[1]=a7268b1613620b8ae2bb6a008df5c43c,"559,99","699,00"
+22,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | blushmetallic´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=750027aea4bdca2fcfcfe2921174aba2,"479,99","599,00"
+23,lucky-bike,de,2023,Cube,Cube Attention SLX 2023 | XXL | silvergrey´n´lime | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: S
+Sofort lieferbar: M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-SLX-2023.html?varselid[1]=5070ba953d02896e82765a6f3996f75e,"1.099,00",
+24,lucky-bike,de,2022,Scott,Scott Spark RC Team 2022 | L | raw carbon | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen! : M
+Einzelstück: L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Spark-RC-Team-2022.html?varselid[1]=9104baa4e5c02b8021dab2d81428843f,"4.699,00",
+25,lucky-bike,de,2023,Cube,Cube Acid 2023 | XXL | grey´n´pearlgrey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: M, XXL
+Sofort lieferbar: L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-2023.html?varselid[1]=95896934c15ee5d30fac743d15a0bb53,"1.199,00",
+26,lucky-bike,de,E 29,Axess,Axess SNIPE 29 | 17 Zoll | gunmetal grey/black/copper | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 17 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SNIPE-29.html?varselid[1]=43d02b34426d842dfcd3ec59687d4b30,"799,99","999,99"
+27,lucky-bike,de,2022,Scott,Scott Aspect 940 2022 | M | granite black/red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS
+Wenige Exemplare auf Lager - schnell bestellen!: M
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-940-2022.html?varselid[1]=9c45bfd3ea96398c6b2e95bfe62ae77e,"721,99","849,00"
+28,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | olive´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
 ",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-RACE-2023.html?varselid[1]=fdccae2ba398ecb010ddfbf720312bd5,"679,00",
-34,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | deepviolet´n´purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=d3715f892ef10ab323965bdaa47131fd,"439,99","549,00"
-35,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"439,99","549,00"
-36,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | black´n´azure | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+29,lucky-bike,de,2022,Cube,Cube Aim EX 2022 | 24 Zoll | desert´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 20 Zoll, 22 Zoll
+Einzelstück: 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2022.html?varselid[1]=a7268b1613620b8ae2bb6a008df5c43c,"559,99","699,00"
+30,lucky-bike,de,2022,Trek,Trek Fuel EX 7 2022 | 23 Zoll | dark prismatic | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll
+Einzelstück: 17.5 Zoll
+Wenige Exemplare auf Lager - schnell bestellen!: 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Fuel-EX-7-2022.html?varselid[1]=c0f361431fb3ee2faf55d479e69927be,"2.699,00","3.199,00"
+31,lucky-bike,de,2022,Cube,Cube Aim Race Allroad 2022 | 24 Zoll | flashgrey´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+Einzelstück: 16 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Race-Allroad-2022.html?varselid[1]=6768862f48a9e7eee1399ae5adefe6d2,"749,00",
+32,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=3cee59e97f47085f5a0d302f71dfa46b,"662,99","779,00"
+33,lucky-bike,de,2023,Cube,Cube Aim SLX 2023 | XXL | white´n´blue´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SLX-2023.html?varselid[1]=de13b84d39a76576fecfd7190dd05715,"799,00",
+34,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | violetwhite´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=750027aea4bdca2fcfcfe2921174aba2,"479,99","599,00"
+35,lucky-bike,de,2023,Trek,Trek Marlin 6 Gen 3 2023 | XL | matte dnister black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-Gen-3-2023.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"819,00",
+36,lucky-bike,de,2022,Scott,Scott Aspect 760 2022 | 19 Zoll | florida red/black | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll
+Einzelstück: 19 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-760-2022.html?varselid[1]=f9211785c8026c8c9a64e2942d58bc2b,"594,99","699,00"
+37,lucky-bike,de,2022,Axess,Axess SANDEE STREET 2022 | 21 Zoll | lime matt/black/orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-STREET-2022.html?varselid[1]=d07d842a5b390b14d84440f996997f62,"599,99",
+38,lucky-bike,de,2023,Cube,Cube Access WS PRO Allroad 2023 | L | flareblue´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-PRO-Allroad-2023.html?varselid[1]=d83002cae66eaed30d7f5f25205b267b,"899,00",
+39,lucky-bike,de,2023,Cube,Cube Acid 2023 | XXL | grey´n´pearlgrey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: M, XXL
+Sofort lieferbar: L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-2023.html?varselid[1]=2bb7cf896a695673c5776be907f7eacd,"1.199,00",
+40,lucky-bike,de,2022,Cube,Cube Stereo 140 HPC SLT 2022 | XL | carbon´n´black | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Stereo-140-HPC-SLT-2022.html?varselid[1]=9a0db75813b56e6c4eed45d7aad5547f,"3.899,00",
+41,lucky-bike,de,2022,Cube,Cube Aim EX 2022 | grey´n´red,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2022.html?varselid[1]=2ab07286285f4c92fa9132c519c19a3f,"559,99","699,00"
+42,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=3cee59e97f47085f5a0d302f71dfa46b,"662,99","779,00"
+43,lucky-bike,de,2022,Cube,Cube Stereo 150 C:62 Race 2022 | 21 Zoll | flashwhite´n´carbon | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 15 Zoll, 17 Zoll
+Sofort lieferbar: 19 Zoll
+Einzelstück: 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Stereo-150-C-62-Race-2022.html?varselid[1]=041e644c3838a5c955949aa39d3da619,"3.199,00",
+44,lucky-bike,de,2022,Scott,Scott Aspect 760 2022 | 19 Zoll | granite black | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 19 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-760-2022.html?varselid[1]=f9211785c8026c8c9a64e2942d58bc2b,"594,99","699,00"
+45,lucky-bike,de,2023,Trek,Trek Roscoe 8 2023 | XL | mulsanne blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S
+Sofort lieferbar: M, ML, L
+Wenige Exemplare auf Lager - schnell bestellen!: XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-8-2023.html?varselid[1]=9998cab73c4f28e23ec1a6d593d1c3b8,"2.449,00",
+46,lucky-bike,de,2023,Trek,Trek Marlin 8 Gen 3 2023 | ML | crimson | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S, M, ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-8-Gen-3-2023.html?varselid[1]=5fa3ccc64c973db27e9fcade0810423e,"1.329,00",
+47,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | blushmetallic´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=9734b2ced3181a419c27a2c89be45494,"479,99","599,00"
+48,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | black´n´azure | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
 Sofort lieferbar: S, M, L, XL, XXL
 ",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-RACE-2023.html?varselid[1]=1c2ecc39c7f34cb823a5bfb64a68df0a,"679,00",
-37,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | deepviolet´n´purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
-",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"439,99","549,00"
-38,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | olive´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+49,lucky-bike,de,2022,Cube,Cube Aim EX 2022 | 24 Zoll | desert´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 20 Zoll, 22 Zoll
+Einzelstück: 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2022.html?varselid[1]=2ab07286285f4c92fa9132c519c19a3f,"559,99","699,00"
+50,lucky-bike,de,2022,Cube,Cube Stereo 150 C:62 SL 2022 | 17 Zoll | actionteam | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 17 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Stereo-150-C-62-SL-2022.html?varselid[1]=c39bdd2e54877cd9a570f2b0d1a6f3fc,"3.999,00",
+51,lucky-bike,de,2022,Cube,Cube Aim Race Allroad 2022 | 24 Zoll | blue´n´green | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+Wenige Exemplare auf Lager - schnell bestellen! : 16 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Race-Allroad-2022.html?varselid[1]=6a266eb7df4dc87da72baf6858d05168,"749,00",
+52,lucky-bike,de,2023,Cube,Cube Access WS EAZ 2023 | L | blush´n´sliver | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S
+Sofort lieferbar: M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2023.html?varselid[1]=540b629e53763de39e48ba0aa667520b,"629,00",
+53,lucky-bike,de,2023,Cube,Cube Acid 2023 | XXL | grey´n´pearlgrey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: M, XXL
+Sofort lieferbar: L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-2023.html?varselid[1]=2bb7cf896a695673c5776be907f7eacd,"1.199,00",
+54,lucky-bike,de,2023,Cube,Cube Aim SLX 2023 | XXL | graphite´n´metal | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SLX-2023.html?varselid[1]=6dd6d7ac2b8889e77cdafb3acd4ff993,"799,00",
+55,lucky-bike,de,2022,Axess,Axess SANDEE STREET 2022 | 21 Zoll | black matt/grey/neon yellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-STREET-2022.html?varselid[1]=4915a1ee622763de23886e99e3b71083,"599,99",
+56,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=3cee59e97f47085f5a0d302f71dfa46b,"662,99","779,00"
+57,lucky-bike,de,2023,Trek,Trek Marlin 8 Gen 3 2023 | ML | crimson | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S, M, ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-8-Gen-3-2023.html?varselid[1]=5fa3ccc64c973db27e9fcade0810423e,"1.329,00",
+58,lucky-bike,de,2023,Focus,Focus THRON 6.8 2023 | 48 cm | slategrey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 39 cm, 42 cm, 45 cm, 48 cm
+",https://www.lucky-bike.de/Fahrraeder/Focus-THRON-6-8-2023.html?varselid[1]=167664a24ee7cbeef0c9e55d4692924d,"1.999,00","2.499,00"
+59,lucky-bike,de,2022,Cube,Cube Access WS EAZ 2022 | 20 Zoll | violetwhite´n´pink | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2022.html?varselid[1]=9734b2ced3181a419c27a2c89be45494,"479,99","599,00"
+60,lucky-bike,de,2023,Cube,Cube Aim 2023 | XL | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-2023.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"599,00",
+61,lucky-bike,de,2023,Trek,Trek Roscoe 8 2023 | XL | matt black olive | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+Wenige Exemplare auf Lager - schnell bestellen!: ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-8-2023.html?varselid[1]=9998cab73c4f28e23ec1a6d593d1c3b8,"2.449,00",
+62,lucky-bike,de,2023,Cube,Cube Access WS EAZ 2023 | L | shiftiris`n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2023.html?varselid[1]=540b629e53763de39e48ba0aa667520b,"629,00",
+63,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | blue´n´red | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=731ae32bd66f49925c001fc3ffaa2c29,"423,99","529,00"
+64,lucky-bike,de,2023,Cube,Cube Aim RACE 2023 | XXL | olive´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
 ",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-RACE-2023.html?varselid[1]=1c2ecc39c7f34cb823a5bfb64a68df0a,"679,00",
+65,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 1 2023 | XL | grey/black/roarange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-1-2023.html?varselid[1]=9d3ac04450b7b7b647e46994dce786ad,"599,00",
+66,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | black´n´yellow | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=731ae32bd66f49925c001fc3ffaa2c29,"423,99","529,00"
+67,lucky-bike,de,2022,Scott,Scott Contessa Active 40 2022 | L | nitro purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS
+Sofort lieferbar: S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Scott-Contessa-Active-40-2022.html?varselid[1]=3cee59e97f47085f5a0d302f71dfa46b,"662,99","779,00"
+68,lucky-bike,de,2022,Cube,Cube Aim Race Allroad 2022 | 24 Zoll | flashgrey´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+Einzelstück: 16 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Race-Allroad-2022.html?varselid[1]=6a266eb7df4dc87da72baf6858d05168,"749,00",
+69,lucky-bike,de,2023,Cube,Cube Aim SLX 2023 | XXL | white´n´blue´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-SLX-2023.html?varselid[1]=6dd6d7ac2b8889e77cdafb3acd4ff993,"799,00",
+70,lucky-bike,de,2022,Axess,Axess SANDEE STREET 2022 | 21 Zoll | lime matt/black/orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-STREET-2022.html?varselid[1]=4915a1ee622763de23886e99e3b71083,"599,99",
+71,lucky-bike,de,2023,Trek,Trek Marlin 8 Gen 3 2023 | ML | crimson | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S, M, ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-8-Gen-3-2023.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"1.329,00",
+72,lucky-bike,de,2023,Cube,Cube Aim 2023 | XL | mistygreen´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS, S
+Sofort lieferbar: M, L
+Einzelstück: XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-2023.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"599,00",
+73,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | blue´n´red | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=4497cebe05b725574015c1a45a83a1bd,"423,99","529,00"
+74,lucky-bike,de,2022,Cube,Cube Acid 260 2022 | 33 cm | black´n´yellow | 26 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 33 cm
+",https://www.lucky-bike.de/Fahrraeder/Cube-Acid-260-2022.html?varselid[1]=4497cebe05b725574015c1a45a83a1bd,"423,99","529,00"
+75,lucky-bike,de,2023,Cube,Cube Access WS EAZ 2023 | L | blush´n´sliver | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S
+Sofort lieferbar: M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2023.html?varselid[1]=35b1754347808a7ae51fbdb8cc09e821,"629,00",
+76,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | factory orange,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 15.5 Zoll, 21.5 Zoll
+Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"555,00","724,00"
+77,lucky-bike,de,2023,Trek,Trek Roscoe 8 2023 | XL | mulsanne blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S
+Sofort lieferbar: M, ML, L
+Wenige Exemplare auf Lager - schnell bestellen!: XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-8-2023.html?varselid[1]=a167ce905c7672c5d166f3606f1b658e,"2.449,00",
+78,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=d3715f892ef10ab323965bdaa47131fd,"439,99","549,00"
+79,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 1 2023 | XL | blue/off-white/roarange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-1-2023.html?varselid[1]=9d3ac04450b7b7b647e46994dce786ad,"599,00",
+80,lucky-bike,de,2023,Trek,Trek Marlin 8 Gen 3 2023 | ML | crimson | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: XS, S, M, ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-8-Gen-3-2023.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"1.329,00",
+81,lucky-bike,de,2023,Marin,Marin Bobcat Trail 5 2023 | XL | black/orange/silver | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bobcat-Trail-5-2023.html?varselid[1]=2db68e15f399ed0f748026ccc7f0441b,"1.149,00",
+82,lucky-bike,de,2023,Cube,Cube Access WS EAZ 2023 | L | shiftiris`n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-EAZ-2023.html?varselid[1]=35b1754347808a7ae51fbdb8cc09e821,"629,00",
+83,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | marigold to radioactive red fade | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=2c8550cf5ba70745c1d2d140d6956201,"749,00","924,00"
+84,lucky-bike,de,2023,Cube,Cube Aim EX 2023 | XXL | caramel´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2023.html?varselid[1]=a7268b1613620b8ae2bb6a008df5c43c,"749,00",
+85,lucky-bike,de,2023,Cube,Cube Aim 2023 | XL | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-2023.html?varselid[1]=8ab75a2b627a8ef658fe9eba7c68d17d,"599,00",
+86,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | deepviolet´n´purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=d3715f892ef10ab323965bdaa47131fd,"439,99","549,00"
+87,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | rage red to dnister black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"555,00","724,00"
+88,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | burntorange´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 16 Zoll
+Sofort lieferbar: 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=f4e065531e6f96a5ce0b0697fb41ded5,"759,99","949,00"
+89,lucky-bike,de,NDEE,Axess,Axess SANDEE | 16 Zoll | black matt/grey/neon yellow | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 16 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-SANDEE-lb.html?varselid[1]=4915a1ee622763de23886e99e3b71083,"319,99","399,99"
+90,lucky-bike,de,2023,Trek,Trek Roscoe 8 2023 | XL | matt black olive | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+Wenige Exemplare auf Lager - schnell bestellen!: ML
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-8-2023.html?varselid[1]=a167ce905c7672c5d166f3606f1b658e,"2.449,00",
+91,lucky-bike,de,2023,Trek,Trek Marlin 7 Gen 3 2023 | L | galactic grey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: S, M, ML, L
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-Gen-3-2023.html,"1.029,00",
+92,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 1 2023 | XL | grey/black/roarange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-1-2023.html?varselid[1]=03b74b15f365a13667340127150241de,"599,00",
+93,lucky-bike,de,Race,Cube,Cube Access WS Race | 19 Zoll | black´n´hazypurple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 19 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-Race-lb-2.html?varselid[1]=dae6eaa1ab166cbc14b3eeb5cfe4b004,"679,99","849,00"
+94,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | matte nautical navy/matte anthracite | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=2c8550cf5ba70745c1d2d140d6956201,"749,00","924,00"
+95,lucky-bike,de,2022,Scott,Scott Aspect 970 2022 | 23 Zoll | stellar blue/tangerine orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll, 23 Zoll
+Sofort lieferbar: 16 Zoll, 17 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-970-2022.html?varselid[1]=4b7624c44547e3fc980000bfac2e6d93,"529,00","629,00"
+96,lucky-bike,de,2023,Cube,Cube Aim 2023 | XL | mistygreen´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: XS, S
+Sofort lieferbar: M, L
+Einzelstück: XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-2023.html?varselid[1]=8ab75a2b627a8ef658fe9eba7c68d17d,"599,00",
+97,lucky-bike,de,2023,Cube,Cube Aim EX 2023 | XXL | grey´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2023.html?varselid[1]=a7268b1613620b8ae2bb6a008df5c43c,"749,00",
+98,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | black´n´blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"439,99","549,00"
+99,lucky-bike,de,2022,Cube,Cube Attention SL 2022 | 22 Zoll | grey´n´lime | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 22 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-SL-2022.html?varselid[1]=cbdcd4447a7ff71c2fc2890e03d27524,"799,99","999,00"
+100,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | indigoblack´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=f4e065531e6f96a5ce0b0697fb41ded5,"759,99","949,00"
+101,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | nautical navy | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll
+Einzelstück: 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"555,00","724,00"
+102,lucky-bike,de,2022,Trek,Trek Top Fuel 8 2022 | crimson,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 18.5 Zoll, 19.5 Zoll
+Sofort lieferbar: 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Top-Fuel-8-2022.html?varselid[1]=5fa3ccc64c973db27e9fcade0810423e,"4.099,00",
+103,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 1 2023 | XL | blue/off-white/roarange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-1-2023.html?varselid[1]=03b74b15f365a13667340127150241de,"599,00",
+104,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | gloss miami green | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=2c8550cf5ba70745c1d2d140d6956201,"749,00","924,00"
+105,lucky-bike,de,2022,Cube,Cube Access WS 2022 | 20 Zoll | deepviolet´n´purple | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Access-WS-2022.html?varselid[1]=1f454291710b4593670e0659bc576fa6,"439,99","549,00"
+106,lucky-bike,de,2022,Scott,Scott Aspect 970 2022 | 23 Zoll | stellar blue/tangerine orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll, 23 Zoll
+Sofort lieferbar: 16 Zoll, 17 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-970-2022.html?varselid[1]=4b7624c44547e3fc980000bfac2e6d93,"529,00","629,00"
+107,lucky-bike,de,2022,Trek,Trek Top Fuel 8 2022 | 23 Zoll | mulsanne blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 18.5 Zoll
+Einzelstück: 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Top-Fuel-8-2022.html?varselid[1]=5fa3ccc64c973db27e9fcade0810423e,"4.099,00",
+108,lucky-bike,de,2023,Cube,Cube Aim EX 2023 | XXL | caramel´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2023.html?varselid[1]=697d07af2549d02ee3da58c8d62c8028,"749,00",
+109,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | burntorange´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 16 Zoll
+Sofort lieferbar: 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=0bbdc0681b16f3b99e16eb57a6f8d677,"759,99","949,00"
+110,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | nautical navy | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll
+Einzelstück: 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=da3440f0b2c9b924c032ee495e58b174,"555,00","724,00"
+111,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | XL | miami green/trek black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=22c3aa5f603a1f3792a53a9e7417ade8,"1.749,00",
+112,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 2 2023 | XL | black/green/silver | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-2-2023.html?varselid[1]=dff75dc20acefc8c48ca9030a50f7c8d,"719,00",
+113,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | marigold to radioactive red fade | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=940b1c877168f296d51feb0b62002ae5,"749,00","924,00"
+114,lucky-bike,de,2022,Trek,Trek Top Fuel 8 2022 | crimson,new,Mountainbike,1,Lieferzeiten,"Einzelstück: 18.5 Zoll, 19.5 Zoll
+Sofort lieferbar: 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Top-Fuel-8-2022.html?varselid[1]=9998cab73c4f28e23ec1a6d593d1c3b8,"4.099,00",
+115,lucky-bike,de,2022,Scott,Scott Aspect 970 2022 | 23 Zoll | stellar blue/tangerine orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll, 23 Zoll
+Sofort lieferbar: 16 Zoll, 17 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-970-2022.html?varselid[1]=946e5b45f30cadadab6c297792180b06,"529,00","629,00"
+116,lucky-bike,de,2022,Axess,Axess DEBRIS 2022 | 23 Zoll | grey matt/black/red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 17 Zoll, 18 Zoll, 19 Zoll, 21 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Axess-DEBRIS-2022.html?varselid[1]=c3813d587fb5e0699b757a07626186e3,"499,99","599,99"
+117,lucky-bike,de,2022,Cube,Cube Attention 2022 | 24 Zoll | indigoblack´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Attention-2022.html?varselid[1]=0bbdc0681b16f3b99e16eb57a6f8d677,"759,99","949,00"
+118,lucky-bike,de,2023,Cube,Cube Aim EX 2023 | XXL | grey´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-EX-2023.html?varselid[1]=697d07af2549d02ee3da58c8d62c8028,"749,00",
+119,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 2 2023 | XL | blue/black/grey | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-2-2023.html?varselid[1]=dff75dc20acefc8c48ca9030a50f7c8d,"719,00",
+120,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | XL | matt trek black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=22c3aa5f603a1f3792a53a9e7417ade8,"1.749,00",
+121,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | matte nautical navy/matte anthracite | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=940b1c877168f296d51feb0b62002ae5,"749,00","924,00"
+122,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | factory orange,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 15.5 Zoll, 21.5 Zoll
+Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=60c56413e11a44edf1d0a8c9acdc634c,"555,00","724,00"
+123,lucky-bike,de,2022,Trek,Trek Top Fuel 8 2022 | 23 Zoll | mulsanne blue | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 18.5 Zoll
+Einzelstück: 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Top-Fuel-8-2022.html?varselid[1]=9998cab73c4f28e23ec1a6d593d1c3b8,"4.099,00",
+124,lucky-bike,de,2022,Scott,Scott Aspect 970 2022 | 23 Zoll | stellar blue/tangerine orange | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: 14 Zoll, 23 Zoll
+Sofort lieferbar: 16 Zoll, 17 Zoll, 19 Zoll, 21 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Scott-Aspect-970-2022.html?varselid[1]=946e5b45f30cadadab6c297792180b06,"529,00","629,00"
+125,lucky-bike,de,2022,Cube,Cube Aim Allroad 2022 | 22 Zoll | blue´n´red | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Allroad-2022.html?varselid[1]=b3f5681606d581b743d6b00cbaa3090b,"584,99","649,00"
+126,lucky-bike,de,2023,Cube,Cube Reaction PRO 2023 | XXL | metalblack´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Wenige Exemplare auf Lager - schnell bestellen!: S
+Sofort lieferbar: M, L, XL, XXL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Reaction-PRO-2023.html?varselid[1]=f8a2ab5e5631a7c71b99c092dd685b6b,"1.399,00",
+127,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | 23 Zoll | gloss miami green | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=940b1c877168f296d51feb0b62002ae5,"749,00","924,00"
+128,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | XL | teal/trek black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=22c3aa5f603a1f3792a53a9e7417ade8,"1.749,00",
+129,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 2 2023 | XL | black/green/silver | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-2-2023.html?varselid[1]=4fe5bbd21b9ebd03baaa4d633f2b13b2,"719,00",
+130,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 24 Zoll | grey´n´flashyellow | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll, 24 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=7556b694240c560a17ee98f4dfcd3093,"479,99","599,00"
+131,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | rage red to dnister black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=60c56413e11a44edf1d0a8c9acdc634c,"555,00","724,00"
+132,lucky-bike,de,2022,Cube,Cube Aim Allroad 2022 | 16 Zoll | desert´n´orange | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 14 Zoll, 16 Zoll, 18 Zoll, 20 Zoll, 22 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Allroad-2022.html?varselid[1]=b3f5681606d581b743d6b00cbaa3090b,"584,99","649,00"
+133,lucky-bike,de,2023,Cube,Cube Aim Allroad 2023 | XS | navyblack´n´blue | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Allroad-2023.html?varselid[1]=62d6be29210689417a609c43ee06ddea,"699,00",
+134,lucky-bike,de,2023,Marin,Marin Bolinas Ridge 2 2023 | S | blue/black/grey | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S, M, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Marin-Bolinas-Ridge-2-2023.html?varselid[1]=4fe5bbd21b9ebd03baaa4d633f2b13b2,"719,00",
+135,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | rage red to dnister black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=60c56413e11a44edf1d0a8c9acdc634c,"555,00","724,00"
+136,lucky-bike,de,2023,Cube,Cube Aim Allroad 2023 | XS | navyblack´n´blue | 27.5 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Allroad-2023.html?varselid[1]=62d6be29210689417a609c43ee06ddea,"699,00",
+137,lucky-bike,de,2022,Trek,Trek Marlin 6 2022 | 23 Zoll | rage red to dnister black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 15.5 Zoll, 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-6-2022.html?varselid[1]=60c56413e11a44edf1d0a8c9acdc634c,"555,00","724,00"
+138,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | gloss miami green,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=341986cb1cbd43b2481fd10b9d307ea8,"749,00","924,00"
+139,lucky-bike,de,2023,Cube,Cube Reaction PRO 2023 | M | switchblue´n´black | 29 Zoll,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: S
+",https://www.lucky-bike.de/Fahrraeder/Cube-Reaction-PRO-2023.html?varselid[1]=f8a2ab5e5631a7c71b99c092dd685b6b,"1.399,00",
+140,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | miami green/trek black,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=8fd72d5b5b4410dabf20bf41186326be,"1.749,00",
+141,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | gloss miami green,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=341986cb1cbd43b2481fd10b9d307ea8,"749,00","924,00"
+142,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | miami green/trek black,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=8fd72d5b5b4410dabf20bf41186326be,"1.749,00",
+143,lucky-bike,de,2022,Trek,Trek Marlin 7 2022 | gloss miami green,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: 17.5 Zoll, 18.5 Zoll, 19.5 Zoll, 21.5 Zoll, 23 Zoll
+",https://www.lucky-bike.de/Fahrraeder/Trek-Marlin-7-2022.html?varselid[1]=341986cb1cbd43b2481fd10b9d307ea8,"749,00","924,00"
+144,lucky-bike,de,2022,Cube,Cube Aim Pro 2022 | 14 Zoll | olive´n´orange | 27.5 Zoll,new,Mountainbike,0,Lieferzeiten,,https://www.lucky-bike.de/Fahrraeder/Cube-Aim-Pro-2022.html?varselid[1]=7556b694240c560a17ee98f4dfcd3093,"479,99","599,00"
+145,lucky-bike,de,2023,Trek,Trek Roscoe 7 2023 | miami green/trek black,new,Mountainbike,1,Lieferzeiten,"Sofort lieferbar: XS, S, M, ML, L, XL
+",https://www.lucky-bike.de/Fahrraeder/Trek-Roscoe-7-2023.html?varselid[1]=8fd72d5b5b4410dabf20bf41186326be,"1.749,00",

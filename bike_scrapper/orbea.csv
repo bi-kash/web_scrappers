@@ -1,0 +1,661 @@
+,shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
+0,orbea,de,,Laufey,LAUFEY H30 2023 | Dark Green Met (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30-2023,1.599,
+1,orbea,de,,Laufey,LAUFEY H30 2023 | Aluminium Raw (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30-2023,1.599,
+2,orbea,de,,Laufey,LAUFEY H30 2023 | Golden Sand (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30-2023,1.599,
+3,orbea,de,,Rallon,RALLON M-LTD | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd,8.549,9.499
+4,orbea,de,,Rallon,RALLON M-LTD | Golden Sand- Black (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd,8.549,9.499
+5,orbea,de,,Rallon,RALLON M-LTD | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd,8.549,9.499
+6,orbea,de,,Occam,OCCAM OMR LT+FOX X 2POS F 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-fox-x-2pos-f-2023,3.999,
+7,orbea,de,,Occam,OCCAM OMR LT+FOX X 2POS F 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-fox-x-2pos-f-2023,3.999,
+8,orbea,de,,Occam,OCCAM OMR LT+FOX X 2POS F 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-fox-x-2pos-f-2023,3.999,
+9,orbea,de,,Occam,OCCAM H30 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30,2.299,2.599
+10,orbea,de,,Occam,OCCAM H30 | Metallic Dark Green-Lime Green (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30,2.299,2.599
+11,orbea,de,,Occam,OCCAM H30 | Leo Orange-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30,2.299,2.599
+12,orbea,de,,ONNA,ONNA 30 | Violet Blue - White (Gloss),new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-30,849,
+13,orbea,de,,ONNA,ONNA 30 | Terracotta Red (Matt) - Green (Gloss),new,Mtb,1,,"XS: 09 Jan 23, 12 Jan 23
+S: Auf, Lager
+S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-30,849,
+14,orbea,de,,ONNA,ONNA 30 | Black (Gloss-Matt) ,new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-30,849,
+15,orbea,de,,alma,ALMA M LTD | Carbon Raw - Titan Gold (Matt),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-ltd,8.499,
+16,orbea,de,,alma,ALMA M LTD | Blue Carbon - Golden (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-ltd,8.499,
+17,orbea,de,,alma,ALMA M LTD | Factory,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-ltd,8.499,
+18,orbea,de,,Oiz,OIZ OMX+FOX I-LINE DPS REMOTE 2023 | Custom,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-i-line-dps-remote-2023,3.999,
+19,orbea,de,,Oiz,OIZ OMX+FOX I-LINE DPS REMOTE 2023 | Digital Lavender (Gloss)- Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-i-line-dps-remote-2023,3.999,
+20,orbea,de,,Oiz,OIZ OMX+FOX I-LINE DPS REMOTE 2023 | Tanzanite Carbon View-Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-i-line-dps-remote-2023,3.999,
+21,orbea,de,,Laufey,LAUFEY H-LTD | Dark Green Met (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd,1.999,2.299
+22,orbea,de,,Laufey,LAUFEY H-LTD | Aluminium Raw (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd,1.999,2.299
+23,orbea,de,,Laufey,LAUFEY H-LTD | Golden Sand (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd,1.999,2.299
+24,orbea,de,,Rallon,RALLON M-TEAM | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team,6.299,6.999
+25,orbea,de,,Rallon,RALLON M-TEAM | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team,6.299,6.999
+26,orbea,de,,Rallon,RALLON M-TEAM | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team,6.299,6.999
+27,orbea,de,,Occam,OCCAM M-LTD 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd-2023,8.999,
+28,orbea,de,,Occam,OCCAM M-LTD 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd-2023,8.999,
+29,orbea,de,,Occam,OCCAM M-LTD 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd-2023,8.999,
+30,orbea,de,,ONNA,ONNA 40 | Violet Blue - White (Gloss),new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-40,749,
+31,orbea,de,,ONNA,ONNA 40 | Terracotta Red (Matt) - Green (Gloss),new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-40,749,
+32,orbea,de,,ONNA,ONNA 40 | Black (Gloss-Matt) ,new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-40,749,
+33,orbea,de,,alma,ALMA M TEAM | Carbon Raw - Titan Gold (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-team,6.499,
+34,orbea,de,,alma,ALMA M TEAM | Blue Carbon - Golden (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-team,6.499,
+35,orbea,de,,alma,ALMA M TEAM | Factory,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-team,6.499,
+36,orbea,de,,Occam,OCCAM OMR+FOX DPS 3POS FK 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-fk-2023,3.599,
+37,orbea,de,,Occam,OCCAM OMR+FOX DPS 3POS FK 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-fk-2023,3.599,
+38,orbea,de,,Occam,OCCAM OMR+FOX DPS 3POS FK 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-fk-2023,3.599,
+39,orbea,de,,Laufey,LAUFEY H10 | Dark Green Met (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10,1.699,1.899
+40,orbea,de,,Laufey,LAUFEY H10 | Aluminium Raw (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10,1.699,1.899
+41,orbea,de,,Laufey,LAUFEY H10 | Golden Sand (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10,1.699,1.899
+42,orbea,de,,Occam,OCCAM M10 LT 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt-2023,5.999,
+43,orbea,de,,Occam,OCCAM M10 LT 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt-2023,5.999,
+44,orbea,de,,Occam,OCCAM M10 LT 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt-2023,5.999,
+45,orbea,de,,Rallon,RALLON M10 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,1,,"S: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10,5.099,5.699
+46,orbea,de,,Rallon,RALLON M10 | Golden Sand- Black (Matt),new,Mtb,1,,"S: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10,5.099,5.699
+47,orbea,de,,Rallon,RALLON M10 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10,5.099,5.699
+48,orbea,de,,ONNA,ONNA 50 | Violet Blue - White (Gloss),new,Mtb,1,,"XS: 17 Jan 23, 20 Jan 23
+S: 18 Jan 23, 23 Jan 23
+S: 12 Jan 23, 16 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-50,629,
+49,orbea,de,,ONNA,ONNA 50 | Terracotta Red (Matt) - Green (Gloss),new,Mtb,1,,"XS: 18 Jan 23, 23 Jan 23
+S: 09 Jan 23, 12 Jan 23
+S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-50,629,
+50,orbea,de,,ONNA,ONNA 50 | Black (Gloss-Matt) ,new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-50,629,
+51,orbea,de,,alma,ALMA M PRO | Carbon Raw - Titan Gold (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-pro,4.999,
+52,orbea,de,,alma,ALMA M PRO | Blue Carbon - Golden (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-pro,4.999,
+53,orbea,de,,alma,ALMA M PRO | Factory,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m-pro,4.999,
+54,orbea,de,,ARCHIVE SALES,OIZ H30 21 | Mouse Grey (Matte-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/archive-sales/cat/oiz-h30-21,2.499,
+55,orbea,de,,ARCHIVE SALES,OIZ H30 21 | Black (Matt-Gloss)- Ice Green (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/archive-sales/cat/oiz-h30-21,2.499,
+56,orbea,de,,ARCHIVE SALES,OIZ H30 21 | Magma Orange - Black (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/archive-sales/cat/oiz-h30-21,2.499,
+57,orbea,de,,Laufey,LAUFEY H30 | Dark Green Met (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30,1.349,1.499
+58,orbea,de,,Laufey,LAUFEY H30 | Aluminium Raw (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30,1.349,1.499
+59,orbea,de,,Laufey,LAUFEY H30 | Golden Sand (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h30,1.349,1.499
+60,orbea,de,,Rallon,RALLON M20 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20,4.099,4.599
+61,orbea,de,,Rallon,RALLON M20 | Golden Sand- Black (Matt),new,Mtb,1,,"S: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20,4.099,4.599
+62,orbea,de,,Rallon,RALLON M20 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20,4.099,4.599
+63,orbea,de,,Occam,OCCAM M10 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-2023,5.999,
+64,orbea,de,,Occam,OCCAM M10 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-2023,5.999,
+65,orbea,de,,Occam,OCCAM M10 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-2023,5.999,
+66,orbea,de,,alma,ALMA OMX FRAME | Carbon Raw - Titan Gold (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame,2.799,
+67,orbea,de,,alma,ALMA OMX FRAME | Blue Carbon - Golden (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame,2.799,
+68,orbea,de,,alma,ALMA OMX FRAME | Factory,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame,2.799,
+69,orbea,de,,Oiz,OIZ M LTD 2023 | Digital Lavender (Gloss)- Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd-2023,9.999,
+70,orbea,de,,Oiz,OIZ M LTD 2023 | Tanzanite Carbon View-Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd-2023,9.999,
+71,orbea,de,,Oiz,OIZ M LTD | Pink- Marble (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd,8.599,9.599
+72,orbea,de,,Oiz,OIZ M LTD | Carbon Blue- Gold (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd,8.599,9.599
+73,orbea,de,,Oiz,OIZ M LTD | Glitter Anthracite (Matt) - Coral (Gloss),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd,8.599,9.599
+74,orbea,de,,Oiz,OIZ M LTD | Factory,new,Mtb,1,,"M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd,8.599,9.599
+75,orbea,de,,Oiz,OIZ M LTD | Carbon Raw - Metallic Gold (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-ltd,8.599,9.599
+76,orbea,de,,Rallon,RALLON FRAME +X2 2POS FK | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-frame-x2-2pos-fk,3.699,4.099
+77,orbea,de,,Rallon,RALLON FRAME +X2 2POS FK | Golden Sand- Black (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-frame-x2-2pos-fk,3.699,4.099
+78,orbea,de,,Rallon,RALLON FRAME +X2 2POS FK | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-frame-x2-2pos-fk,3.699,4.099
+79,orbea,de,,alma,ALMA OMX FRAME + SPIRIT FORK | Carbon Raw - Titan Gold (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame--spirit-fork,3.299,
+80,orbea,de,,alma,ALMA OMX FRAME + SPIRIT FORK | Blue Carbon - Golden (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame--spirit-fork,3.299,
+81,orbea,de,,alma,ALMA OMX FRAME + SPIRIT FORK | Factory,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-omx-frame--spirit-fork,3.299,
+82,orbea,de,,Occam,OCCAM M30 LT 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt-2023,4.599,
+83,orbea,de,,Occam,OCCAM M30 LT 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt-2023,4.599,
+84,orbea,de,,Occam,OCCAM M30 LT 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt-2023,4.599,
+85,orbea,de,,Oiz,OIZ M-TEAM 2023 | Digital Lavender (Gloss)- Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-2023,7.999,
+86,orbea,de,,Oiz,OIZ M-TEAM 2023 | Tanzanite Carbon View-Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-2023,7.999,
+87,orbea,de,,Oiz,OIZ M TEAM TR | Pink- Marble (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-tr,6.799,7.599
+88,orbea,de,,Oiz,OIZ M TEAM TR | Carbon Blue- Gold (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-tr,6.799,7.599
+89,orbea,de,,Oiz,OIZ M TEAM TR | Glitter Anthracite (Matt) - Coral (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-tr,6.799,7.599
+90,orbea,de,,Oiz,OIZ M TEAM TR | Factory,new,Mtb,1,,"M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-tr,6.799,7.599
+91,orbea,de,,Oiz,OIZ M TEAM TR | Carbon Raw - Metallic Gold (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-team-tr,6.799,7.599
+92,orbea,de,,Occam,OCCAM M-LTD  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd,7.559,8.399
+93,orbea,de,,Occam,OCCAM M-LTD  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd,7.559,8.399
+94,orbea,de,,Occam,OCCAM M-LTD  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m-ltd,7.559,8.399
+95,orbea,de,,alma,SPIRIT FORK | Carbon Raw - Titan Gold (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/spirit-fork,699,
+96,orbea,de,,alma,SPIRIT FORK | Blue Carbon - Golden (Gloss),new,Mtb,1,,"U: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/spirit-fork,699,
+97,orbea,de,,alma,SPIRIT FORK | Factory,new,Mtb,1,,"U: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/spirit-fork,699,
+98,orbea,de,,Occam,OCCAM M30 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-2023,4.399,
+99,orbea,de,,Occam,OCCAM M30 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-2023,4.399,
+100,orbea,de,,Occam,OCCAM M30 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-2023,4.399,
+101,orbea,de,,Oiz,OIZ M-PRO AXS 2023 | Digital Lavender (Gloss)- Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-axs-2023,6.999,
+102,orbea,de,,Oiz,OIZ M-PRO AXS 2023 | Tanzanite Carbon View-Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-axs-2023,6.999,
+103,orbea,de,,Oiz,OIZ M PRO TR | Pink- Marble (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-tr,5.399,5.999
+104,orbea,de,,Oiz,OIZ M PRO TR | Carbon Blue- Gold (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-tr,5.399,5.999
+105,orbea,de,,Oiz,OIZ M PRO TR | Glitter Anthracite (Matt) - Coral (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-tr,5.399,5.999
+106,orbea,de,,Oiz,OIZ M PRO TR | Factory,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-tr,5.399,5.999
+107,orbea,de,,Oiz,OIZ M PRO TR | Carbon Raw - Metallic Gold (Matt),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-tr,5.399,5.999
+108,orbea,de,,Occam,OCCAM M10 LT  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt,5.399,5.999
+109,orbea,de,,Occam,OCCAM M10 LT  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt,5.399,5.999
+110,orbea,de,,Occam,OCCAM M10 LT  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10-lt,5.399,5.999
+111,orbea,de,,alma,ALMA M11-AXS | Green Savage-Bright Red (Matt),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m11-axs,3.999,
+112,orbea,de,,alma,ALMA M11-AXS | Glitter Anthracite-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m11-axs,3.999,
+113,orbea,de,,alma,ALMA M11-AXS | Ice Green (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m11-axs,3.999,
+114,orbea,de,,Oiz,OIZ M-PRO 2023 | Digital Lavender (Gloss)- Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-2023,6.299,
+115,orbea,de,,Oiz,OIZ M-PRO 2023 | Tanzanite Carbon View-Carbon Raw (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro-2023,6.299,
+116,orbea,de,,Occam,OCCAM M30-EAGLE 2023 | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle-2023,4.399,
+117,orbea,de,,Occam,OCCAM M30-EAGLE 2023 | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle-2023,4.399,
+118,orbea,de,,Occam,OCCAM M30-EAGLE 2023 | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle-2023,4.399,
+119,orbea,de,,Oiz,OIZ M PRO | Pink- Marble (Gloss),new,Mtb,1,,"XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro,5.399,5.999
+120,orbea,de,,Oiz,OIZ M PRO | Carbon Blue- Gold (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro,5.399,5.999
+121,orbea,de,,Oiz,OIZ M PRO | Glitter Anthracite (Matt) - Coral (Gloss),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro,5.399,5.999
+122,orbea,de,,Oiz,OIZ M PRO | Factory,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro,5.399,5.999
+123,orbea,de,,Oiz,OIZ M PRO | Carbon Raw - Metallic Gold (Matt),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m-pro,5.399,5.999
+124,orbea,de,,Occam,OCCAM M10  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10,4.999,5.599
+125,orbea,de,,Occam,OCCAM M10  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10,4.999,5.599
+126,orbea,de,,Occam,OCCAM M10  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m10,4.999,5.599
+127,orbea,de,,alma,ALMA M20  | Green Savage-Bright Red (Matt),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m20,2.999,
+128,orbea,de,,alma,ALMA M20  | Glitter Anthracite-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m20,2.999,
+129,orbea,de,,alma,ALMA M20  | Ice Green (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m20,2.999,
+130,orbea,de,,Oiz,OIZ M10 2023 | Powder Black - Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-2023,5.699,
+131,orbea,de,,Oiz,OIZ M10 2023 | Halo Silver-Blue Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-2023,5.699,
+132,orbea,de,,Oiz,OIZ M10 2023 | Chameleon Goblin Green  (Gloss)-Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-2023,5.699,
+133,orbea,de,,Occam,OCCAM H10 2023 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10-2023,3.799,
+134,orbea,de,,Occam,OCCAM H10 2023 | Metallic Dark Green-Lime Green (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10-2023,3.799,
+135,orbea,de,,Occam,OCCAM H10 2023 | Leo Orange-Black (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10-2023,3.799,
+136,orbea,de,,Oiz,OIZ OMX FRAME+FOX I-LINE DPS REMOTE | Pink- Marble (Gloss),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-frame-i-line-dps-remote,3.499,3.899
+137,orbea,de,,Oiz,OIZ OMX FRAME+FOX I-LINE DPS REMOTE | Carbon Blue- Gold (Gloss),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-frame-i-line-dps-remote,3.499,3.899
+138,orbea,de,,Oiz,OIZ OMX FRAME+FOX I-LINE DPS REMOTE | Glitter Anthracite (Matt) - Coral (Gloss),new,Mtb,1,,"S: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-frame-i-line-dps-remote,3.499,3.899
+139,orbea,de,,Oiz,OIZ OMX FRAME+FOX I-LINE DPS REMOTE | Factory,new,Mtb,1,,"M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-omx-fox-frame-i-line-dps-remote,3.499,3.899
+140,orbea,de,,Occam,OCCAM M30 LT  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt,3.899,4.299
+141,orbea,de,,Occam,OCCAM M30 LT  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt,3.899,4.299
+142,orbea,de,,Occam,OCCAM M30 LT  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-lt,3.899,4.299
+143,orbea,de,,alma,ALMA M30 | Green Savage-Bright Red (Matt),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m30,2.399,
+144,orbea,de,,alma,ALMA M30 | Glitter Anthracite-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m30,2.399,
+145,orbea,de,,alma,ALMA M30 | Ice Green (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m30,2.399,
+146,orbea,de,,Oiz,OIZ M11 AXS 2023 | Powder Black - Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs-2023,5.499,
+147,orbea,de,,Oiz,OIZ M11 AXS 2023 | Halo Silver-Blue Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs-2023,5.499,
+148,orbea,de,,Oiz,OIZ M11 AXS 2023 | Chameleon Goblin Green  (Gloss)-Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs-2023,5.499,
+149,orbea,de,,Occam,OCCAM H20 LT 2023 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt-2023,3.699,
+150,orbea,de,,Occam,OCCAM H20 LT 2023 | Metallic Dark Green-Lime Green (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt-2023,3.699,
+151,orbea,de,,Occam,OCCAM H20 LT 2023 | Leo Orange-Black (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt-2023,3.699,
+152,orbea,de,,Oiz,OIZ M10 TR | Lichen Green (Matte-Gloss) - Black (Matte),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-tr,4.859,5.399
+153,orbea,de,,Oiz,OIZ M10 TR | Coral- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-tr,4.859,5.399
+154,orbea,de,,Oiz,OIZ M10 TR | Antracita Glitter- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m10-tr,4.859,5.399
+155,orbea,de,,Occam,OCCAM M30  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30,3.599,3.999
+156,orbea,de,,Occam,OCCAM M30  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30,3.599,3.999
+157,orbea,de,,Occam,OCCAM M30  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30,3.599,3.999
+158,orbea,de,,alma,ALMA M51 | Green Savage-Bright Red (Matt),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m51,1.999,
+159,orbea,de,,alma,ALMA M51 | Glitter Anthracite-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m51,1.999,
+160,orbea,de,,alma,ALMA M51 | Ice Green (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m51,1.999,
+161,orbea,de,,Occam,OCCAM H20-EAGLE 2023 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle-2023,3.499,
+162,orbea,de,,Occam,OCCAM H20-EAGLE 2023 | Metallic Dark Green-Lime Green (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle-2023,3.499,
+163,orbea,de,,Occam,OCCAM H20-EAGLE 2023 | Leo Orange-Black (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle-2023,3.499,
+164,orbea,de,,Oiz,OIZ M20 2023 | Powder Black - Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-2023,4.799,
+165,orbea,de,,Oiz,OIZ M20 2023 | Halo Silver-Blue Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-2023,4.799,
+166,orbea,de,,Oiz,OIZ M20 2023 | Chameleon Goblin Green  (Gloss)-Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-2023,4.799,
+167,orbea,de,,Oiz,OIZ M11-AXS | Lichen Green (Matte-Gloss) - Black (Matte),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs,4.499,4.999
+168,orbea,de,,Oiz,OIZ M11-AXS | Coral- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs,4.499,4.999
+169,orbea,de,,Oiz,OIZ M11-AXS | Antracita Glitter- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m11-axs,4.499,4.999
+170,orbea,de,,Occam,OCCAM M30-EAGLE  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle,3.599,3.999
+171,orbea,de,,Occam,OCCAM M30-EAGLE  | Metallic Mulberry - Black Mat,new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle,3.599,3.999
+172,orbea,de,,Occam,OCCAM M30-EAGLE  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-m30-eagle,3.599,3.999
+173,orbea,de,,alma,ALMA M50 | Green Savage-Bright Red (Matt),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m50,1.899,
+174,orbea,de,,alma,ALMA M50 | Glitter Anthracite-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m50,1.899,
+175,orbea,de,,alma,ALMA M50 | Ice Green (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-m50,1.899,
+176,orbea,de,,Occam,OCCAM H30 2023 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30-2023,2.799,
+177,orbea,de,,Occam,OCCAM H30 2023 | Metallic Dark Green-Lime Green (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30-2023,2.799,
+178,orbea,de,,Occam,OCCAM H30 2023 | Leo Orange-Black (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h30-2023,2.799,
+179,orbea,de,,Oiz,OIZ M30 2023 | Powder Black - Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30-2023,3.999,
+180,orbea,de,,Oiz,OIZ M30 2023 | Halo Silver-Blue Carbon View (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30-2023,3.999,
+181,orbea,de,,Oiz,OIZ M30 2023 | Chameleon Goblin Green  (Gloss)-Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30-2023,3.999,
+182,orbea,de,,Oiz,OIZ M20 TR | Lichen Green (Matte-Gloss) - Black (Matte),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-tr,3.999,4.399
+183,orbea,de,,Oiz,OIZ M20 TR | Coral- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-tr,3.999,4.399
+184,orbea,de,,Oiz,OIZ M20 TR | Antracita Glitter- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m20-tr,3.999,4.399
+185,orbea,de,,Occam,OCCAM OMR FRAME+FOX DPS 3POS F  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-f,2.999,3.399
+186,orbea,de,,Occam,OCCAM OMR FRAME+FOX DPS 3POS F  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-f,2.999,3.399
+187,orbea,de,,Occam,OCCAM OMR FRAME+FOX DPS 3POS F  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-fox-dps-3pos-f,2.999,3.399
+188,orbea,de,,alma,ALMA H10-EAGLE | Black (Matt) - Ice Green (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h10-eagle,1.499,
+189,orbea,de,,alma,ALMA H10-EAGLE | Indigo Blue(Matt) - Bright Red (Gloss),new,Mtb,1,,"S: 17 Jan 23, 20 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h10-eagle,1.499,
+190,orbea,de,,alma,ALMA H10-EAGLE | White Grey - Metallic Red (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h10-eagle,1.499,
+191,orbea,de,,Oiz,OIZ H10 2023 | Apricot Orange-Limestone Beige (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-2023,3.699,
+192,orbea,de,,Oiz,OIZ H10 2023 | Moondust Blue-Leo Orange (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-2023,3.699,
+193,orbea,de,,Oiz,OIZ H10 2023 | White Chic- Shadow Coral (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-2023,3.699,
+194,orbea,de,,Rallon,RALLON M-LTD 2023 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd-2023,9.999,
+195,orbea,de,,Rallon,RALLON M-LTD 2023 | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd-2023,9.999,
+196,orbea,de,,Rallon,RALLON M-LTD 2023 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-ltd-2023,9.999,
+197,orbea,de,,Oiz,OIZ M30 | Lichen Green (Matte-Gloss) - Black (Matte),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30,3.499,3.899
+198,orbea,de,,Oiz,OIZ M30 | Coral- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30,3.499,3.899
+199,orbea,de,,Oiz,OIZ M30 | Antracita Glitter- Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-m30,3.499,3.899
+200,orbea,de,,Occam,OCCAM OMR LT FRAME+FLOAT X F K  | Ice Green-Jade Green Carbon View (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-float-x-f-k,3.399,3.799
+201,orbea,de,,Occam,OCCAM OMR LT FRAME+FLOAT X F K  | Metallic Mulberry - Black Mat,new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-float-x-f-k,3.399,3.799
+202,orbea,de,,Occam,OCCAM OMR LT FRAME+FLOAT X F K  | Infinity Green Carbon View (Matt-Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-omr-lt-float-x-f-k,3.399,3.799
+203,orbea,de,,alma,ALMA H20 | Black (Matt) - Ice Green (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h20,1.399,
+204,orbea,de,,alma,ALMA H20 | Indigo Blue(Matt) - Bright Red (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h20,1.399,
+205,orbea,de,,alma,ALMA H20 | White Grey - Metallic Red (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h20,1.399,
+206,orbea,de,,Oiz,OIZ H20 2023 | Apricot Orange-Limestone Beige (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20-2023,3.299,
+207,orbea,de,,Oiz,OIZ H20 2023 | Moondust Blue-Leo Orange (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20-2023,3.299,
+208,orbea,de,,Oiz,OIZ H20 2023 | White Chic- Shadow Coral (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20-2023,3.299,
+209,orbea,de,,Rallon,RALLON M-TEAM 2023 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team-2023,7.499,
+210,orbea,de,,Rallon,RALLON M-TEAM 2023 | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team-2023,7.499,
+211,orbea,de,,Rallon,RALLON M-TEAM 2023 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m-team-2023,7.499,
+212,orbea,de,,Oiz,OIZ H10 TR | Mouse Grey (Matte-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-tr,3.149,3.499
+213,orbea,de,,Oiz,OIZ H10 TR | Black (Matt-Gloss)- Ice Green (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-tr,3.149,3.499
+214,orbea,de,,Oiz,OIZ H10 TR | Magma Orange - Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h10-tr,3.149,3.499
+215,orbea,de,,Occam,OCCAM H10 | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10,3.199,3.599
+216,orbea,de,,Occam,OCCAM H10 | Metallic Dark Green-Lime Green (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10,3.199,3.599
+217,orbea,de,,Occam,OCCAM H10 | Leo Orange-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: 09 Jan 23, 12 Jan 23
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h10,3.199,3.599
+218,orbea,de,,alma,ALMA H30 | Black (Matt) - Ice Green (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h30,1.199,
+219,orbea,de,,alma,ALMA H30 | Indigo Blue(Matt) - Bright Red (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h30,1.199,
+220,orbea,de,,alma,ALMA H30 | White Grey - Metallic Red (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: 09 Jan 23, 12 Jan 23
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/alma/cat/alma-h30,1.199,
+221,orbea,de,,Oiz,OIZ H30 2023 | Apricot Orange-Limestone Beige (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30-2023,2.799,
+222,orbea,de,,Oiz,OIZ H30 2023 | Moondust Blue-Leo Orange (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30-2023,2.799,
+223,orbea,de,,Oiz,OIZ H30 2023 | White Chic- Shadow Coral (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30-2023,2.799,
+224,orbea,de,,Rallon,RALLON M10 2023 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10-2023,5.999,
+225,orbea,de,,Rallon,RALLON M10 2023 | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10-2023,5.999,
+226,orbea,de,,Rallon,RALLON M10 2023 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m10-2023,5.999,
+227,orbea,de,,Oiz,OIZ H20 | Mouse Grey (Matte-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20,2.699,2.999
+228,orbea,de,,Oiz,OIZ H20 | Black (Matt-Gloss)- Ice Green (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20,2.699,2.999
+229,orbea,de,,Oiz,OIZ H20 | Magma Orange - Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h20,2.699,2.999
+230,orbea,de,,Occam,OCCAM H20 LT | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt,3.149,3.499
+231,orbea,de,,Occam,OCCAM H20 LT | Metallic Dark Green-Lime Green (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt,3.149,3.499
+232,orbea,de,,Occam,OCCAM H20 LT | Leo Orange-Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-lt,3.149,3.499
+233,orbea,de,,ONNA,ONNA 10 | Violet Blue - White (Gloss),new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-10,1.099,
+234,orbea,de,,ONNA,ONNA 10 | Terracotta Red (Matt) - Green (Gloss),new,Mtb,1,,"XS: 09 Jan 23, 12 Jan 23
+S: Auf, Lager
+S: 09 Jan 23, 12 Jan 23
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-10,1.099,
+235,orbea,de,,ONNA,ONNA 10 | Black (Gloss-Matt) ,new,Mtb,1,,"XS: Auf, Lager
+S: 09 Jan 23, 12 Jan 23
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-10,1.099,
+236,orbea,de,,Laufey,LAUFEY H-LTD 2023 | Dark Green Met (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd-2023,2.499,
+237,orbea,de,,Laufey,LAUFEY H-LTD 2023 | Aluminium Raw (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd-2023,2.499,
+238,orbea,de,,Laufey,LAUFEY H-LTD 2023 | Golden Sand (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h-ltd-2023,2.499,
+239,orbea,de,,Rallon,RALLON M20 2023 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20-2023,4.999,
+240,orbea,de,,Rallon,RALLON M20 2023 | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20-2023,4.999,
+241,orbea,de,,Rallon,RALLON M20 2023 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-m20-2023,4.999,
+242,orbea,de,,Oiz,OIZ H30 | Mouse Grey (Matte-Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: 09 Jan 23, 12 Jan 23",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30,2.299,2.599
+243,orbea,de,,Oiz,OIZ H30 | Black (Matt-Gloss)- Ice Green (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30,2.299,2.599
+244,orbea,de,,Oiz,OIZ H30 | Magma Orange - Black (Gloss),new,Mtb,1,,"S: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/oiz/cat/oiz-h30,2.299,2.599
+245,orbea,de,,Occam,OCCAM H20-EAGLE | Glitter Anthracite-Metallic Red (Gloss),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle,2.999,3.299
+246,orbea,de,,Occam,OCCAM H20-EAGLE | Metallic Dark Green-Lime Green (Matt),new,Mtb,1,,"S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle,2.999,3.299
+247,orbea,de,,Occam,OCCAM H20-EAGLE | Leo Orange-Black (Gloss),new,Mtb,1,,"S: 09 Jan 23, 12 Jan 23
+M: 09 Jan 23, 12 Jan 23
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/occam/cat/occam-h20-eagle,2.999,3.299
+248,orbea,de,,Laufey,LAUFEY H10 2023 | Dark Green Met (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10-2023,1.999,
+249,orbea,de,,Laufey,LAUFEY H10 2023 | Aluminium Raw (Gloss),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10-2023,1.999,
+250,orbea,de,,Laufey,LAUFEY H10 2023 | Golden Sand (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/laufey/cat/laufey-h10-2023,1.999,
+251,orbea,de,,ONNA,ONNA 20 | Violet Blue - White (Gloss),new,Mtb,1,,"XS: Auf, Lager
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-20,999,
+252,orbea,de,,ONNA,ONNA 20 | Terracotta Red (Matt) - Green (Gloss),new,Mtb,1,,"XS: 18 Jan 23, 23 Jan 23
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-20,999,
+253,orbea,de,,ONNA,ONNA 20 | Black (Gloss-Matt) ,new,Mtb,1,,"XS: 09 Jan 23, 12 Jan 23
+S: Auf, Lager
+S: Auf, Lager
+M: Auf, Lager
+L: Auf, Lager
+XL: Auf, Lager",https://www.orbea.com/de-de/fahrrader/mountainbike/onna/cat/onna-29-20,999,
+254,orbea,de,,Rallon,RALLON+X2 2POS FK 2023 | Metallic Mulberry (Gloss) -Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-x2-2pos-fk-2023,4.299,
+255,orbea,de,,Rallon,RALLON+X2 2POS FK 2023 | Golden Sand- Black (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-x2-2pos-fk-2023,4.299,
+256,orbea,de,,Rallon,RALLON+X2 2POS FK 2023 | Jade Green Carbon View (Gloss)-Stone Silver (Matt),new,Mtb,0,,,https://www.orbea.com/de-de/fahrrader/mountainbike/rallon/cat/rallon-x2-2pos-fk-2023,4.299,

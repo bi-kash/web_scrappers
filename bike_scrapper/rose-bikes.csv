@@ -1,9 +1,327 @@
-,Shop_name,Language,Model,Category,Url-detail,Stock sizes,Price,rent_price
-0,rose-bikes,de,THE BRUCE 1 Midnight Green,MTB Hardtail,https://www.rosebikes.de/rose-the-bruce-1-2698588,"M: E-Mail bei Verfügbarkeit
-L: E-Mail bei Verfügbarkeit","799,00","20,70"
-1,rose-bikes,de,THE BRUCE 1 Mocha brown metallic,MTB Hardtail,https://www.rosebikes.de/rose-the-bruce-1-2698588,"M: E-Mail bei Verfügbarkeit
-L: Lieferzeit 6-10 Tage","799,00","20,70"
-2,rose-bikes,de,THE BRUCE 1 Splash Blue,MTB Hardtail,https://www.rosebikes.de/rose-the-bruce-1-2698588,"M: E-Mail bei Verfügbarkeit
-L: Lieferzeit 6-10 Tage","799,00","20,70"
-3,rose-bikes,de,THE BRUCE 1 Sterling Silver,MTB Hardtail,https://www.rosebikes.de/rose-the-bruce-1-2698588,"M: Lieferzeit 6-10 Tage
-L: Lieferzeit 6-10 Tage","799,00","20,70"
+,shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
+0,rose-bikes,de,,MTB Fully,SOUL FIRE 3 Matt Black/Yellow,new,MTB Fully,1,,"S: Ausverkauft
+M: Lieferzeit 6-10 Tage
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-soul-fire-3-2697043,"3.999,00","4.099,00"
+1,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 1 Herren matt off-white,new,E-Bike,1,,"19"": Ausverkauft
+21"": Lieferzeit 6-10 Tage
+23"": Lieferzeit 6-10 Tage
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-1-herren-2693408?article_size=8276&product_shape=18350,"3.149,00","3.499,00"
+2,rose-bikes,de,,MTB Fully,GROUND CONTROL 3 Matt Black/Light Olive,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: E-Mail bei Verfügbarkeit
+L: E-Mail bei Verfügbarkeit
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-ground-control-3-2707509?article_size=6847&product_shape=17611,"2.499,00","2.799,00"
+3,rose-bikes,de,,MTB Hardtail,THE BRUCE 1 Midnight Green,new,MTB Hardtail,1,,"M: E-Mail bei Verfügbarkeit
+L: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-the-bruce-1-2698588,"799,00","899,00"
+4,rose-bikes,de,,Rennrad,X-LITE FOUR DISC Ultegra Di2 UD-Carbon/Piano-Black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-di2-2693197?article_size=7816&product_shape=18810,"3.899,00","4.399,00"
+5,rose-bikes,de,,Rennrad,X-LITE FOUR Ultegra UD-Carbon/Piano-Black/Pure-White,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Lieferzeit 6-10 Tage
+55cm: Ausverkauft
+57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-ultegra-2661720?article_size=7753&product_shape=14991,"2.899,00","2.999,00"
+6,rose-bikes,de,,MTB Fully,GROUND CONTROL 3 *evil pepper green,new,MTB Fully,1,,"S: E-Mail bei Verfügbarkeit
+M: E-Mail bei Verfügbarkeit
+L: E-Mail bei Verfügbarkeit
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-ground-control-3-2707509?article_size=6847&product_shape=17611,"2.499,00","2.799,00"
+7,rose-bikes,de,,MTB Hardtail,THE BRUCE 1 Mocha brown metallic,new,MTB Hardtail,1,,"M: E-Mail bei Verfügbarkeit
+L: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-the-bruce-1-2698588,"799,00","899,00"
+8,rose-bikes,de,,Rennrad,PRO SL DISC Ultegra matt silvergrey,new,Rennrad,1,,"45cm: Lieferzeit 6-10 Tage
+48cm: Ausverkauft
+51cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+61cm: Ausverkauft
+63cm: Ausverkauft
+65cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-pro-sl-disc-ultegra-2693208,"1.949,00","1.999,00"
+9,rose-bikes,de,,Rennrad,X-LITE FOUR DISC Ultegra Di2 mother-of-pearl/matt-black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-di2-2693197?article_size=7816&product_shape=18810,"3.899,00","4.399,00"
+10,rose-bikes,de,,Rennrad,X-LITE FOUR Ultegra Grey/Lightning-Yellow,new,Rennrad,1,,"50cm: Ausverkauft
+57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-ultegra-2661720?article_size=7753&product_shape=14991,"2.899,00","2.999,00"
+11,rose-bikes,de,,MTB Fully,GROUND CONTROL 3 Mud Grey,new,MTB Fully,1,,"S: E-Mail bei Verfügbarkeit
+M: E-Mail bei Verfügbarkeit
+L: E-Mail bei Verfügbarkeit
+XL: Ausverkauft",https://www.rosebikes.de/rose-ground-control-3-2707509?article_size=6847&product_shape=17611,"2.499,00","2.799,00"
+12,rose-bikes,de,,MTB Hardtail,THE BRUCE 1 Splash Blue,new,MTB Hardtail,1,,"M: E-Mail bei Verfügbarkeit
+L: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-the-bruce-1-2698588,"799,00","899,00"
+13,rose-bikes,de,,Rennrad,PRO SL DISC Ultegra mandarin red,new,Rennrad,1,,"45cm: Lieferzeit 6-10 Tage
+48cm: Ausverkauft
+51cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+61cm: Ausverkauft
+63cm: Ausverkauft
+65cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-pro-sl-disc-ultegra-2693208,"1.949,00","1.999,00"
+14,rose-bikes,de,,Rennrad,X-LITE SIX DISC Force eTap AXS UD-Carbon/Aurora,new,Rennrad,1,,"59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-force-etap-axs-2693202?article_size=7816&product_shape=18814,"4.699,00","5.799,00"
+15,rose-bikes,de,,MTB Hardtail,THE BRUCE 1 Sterling Silver,new,MTB Hardtail,1,,"M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-the-bruce-1-2698588,"799,00","899,00"
+16,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra Di2 raw carbon/silver,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Lieferzeit 6-10 Tage
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-di2-2693200?article_size=7816&product_shape=18814,"4.799,00","5.649,00"
+17,rose-bikes,de,,E-Bike,XTRA WATT EVO ALLROAD AUTOMATIC DAMEN KOMFORT  Matt-Petrol/Shiny-White,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-allroad-automatic-damen-komfort-2681743?article_size=8276&product_shape=16479,"3.759,00","4.469,00"
+18,rose-bikes,de,,Rennrad,X-LITE SIX DISC Force eTap AXS UD-Carbon/Piano-Black,new,Rennrad,1,,"57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-force-etap-axs-2693202?article_size=7816&product_shape=18814,"4.699,00","5.799,00"
+19,rose-bikes,de,,MTB Fully,GROUND CONTROL 1 Mud Grey,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-ground-control-1-2693541,"1.949,00","1.999,00"
+20,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra Di2 UD-Carbon/Piano-Black,new,Rennrad,1,,62cm: E-Mail bei Verfügbarkeit,https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-di2-2693200?article_size=7816&product_shape=18814,"4.799,00","5.649,00"
+21,rose-bikes,de,,E-Bike,XTRA WATT EVO ALLROAD AUTOMATIC DAMEN KOMFORT  Matt-Silver,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-allroad-automatic-damen-komfort-2681743?article_size=8276&product_shape=16479,"3.759,00","4.469,00"
+22,rose-bikes,de,,MTB Hardtail,THE BRUCE 2 Mocha brown metallic ,new,MTB Hardtail,1,,"M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-the-bruce-2-2698591,"1.199,00","1.399,00"
+23,rose-bikes,de,,Rennrad,X-LITE SIX DISC Force eTap AXS raw carbon/silver,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-force-etap-axs-2693202?article_size=7816&product_shape=18814,"4.699,00","5.799,00"
+24,rose-bikes,de,,MTB Fully,GROUND CONTROL 1 Matt Black/Light Olive,new,MTB Fully,1,,"S: Ausverkauft
+M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-ground-control-1-2693541,"1.949,00","1.999,00"
+25,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra Di2 UD-Carbon/Aurora,new,Rennrad,1,,62cm: E-Mail bei Verfügbarkeit,https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-di2-2693200?article_size=7816&product_shape=18814,"4.799,00","5.649,00"
+26,rose-bikes,de,,MTB Hardtail,THE BRUCE 2 Sterling Silver,new,MTB Hardtail,1,,"M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-the-bruce-2-2698591,"1.199,00","1.399,00"
+27,rose-bikes,de,,Rennrad,REVEAL SIX DISC Ultegra Matt Carbon/Shiny Laser Gray,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+61cm: Ausverkauft
+64cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-reveal-six-disc-ultegra-2693189?article_size=7444&product_shape=17578,"3.449,00","3.849,00"
+28,rose-bikes,de,,MTB Fully,GROUND CONTROL 1 Evil Pepper Green,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Lieferzeit 6-10 Tage
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-ground-control-1-2693541,"1.949,00","1.999,00"
+29,rose-bikes,de,,MTB Hardtail,COUNT SOLO 1 Matt Black/Shiny Black,new,MTB Hardtail,1,,"XS: Ausverkauft
+S: Ausverkauft
+M: Lieferzeit 3 Wochen
+L: Lieferzeit 6-10 Tage
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-count-solo-1-2693321,"699,00","799,00"
+30,rose-bikes,de,,Gravel,BACKROAD Force 1x11 *blue haze,new,Gravel,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-backroad-force-1x11-2693158?article_size=7816&product_shape=19742,"2.799,00","3.649,00"
+31,rose-bikes,de,,E-Bike,SNEAK PLUS LTD all Black ,new,E-Bike,1,,"S: Ausverkauft
+M: Ausverkauft
+L: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-sneak-plus-ltd-2697074?article_size=6847&product_shape=18980,"2.199,00","2.349,00"
+32,rose-bikes,de,,MTB Fully,GROUND CONTROL 4 Matt Black/Light Olive,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-ground-control-4-2697041,"3.249,00",
+33,rose-bikes,de,,MTB Hardtail,COUNT SOLO 1 Matt Petrol/Neon Orange,new,MTB Hardtail,1,,"XS: Lieferzeit 6-10 Tage
+S: Ausverkauft
+M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-count-solo-1-2693321,"699,00","799,00"
+34,rose-bikes,de,,Gravel,BACKROAD Force 1x11 deepest purple,new,Gravel,1,,"50cm: Ausverkauft
+55cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-backroad-force-1x11-2693158?article_size=7816&product_shape=19742,"2.799,00","3.649,00"
+35,rose-bikes,de,,E-Bike,XTRA WATT EVO ROHLOFF HERREN  Matt-Petrol/Shiny-White,new,E-Bike,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-rohloff-herren-2681754?article_size=7411&product_shape=16479,"4.699,00","5.599,00"
+36,rose-bikes,de,,E-Bike,SNEAK PLUS LTD all White,new,E-Bike,1,,"S: Ausverkauft
+M: Ausverkauft
+L: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-sneak-plus-ltd-2697074?article_size=6847&product_shape=18980,"2.199,00","2.349,00"
+37,rose-bikes,de,,MTB Hardtail,COUNT SOLO 1 Matt Grey/Neon Yellow,new,MTB Hardtail,1,,"XS: Lieferzeit 6-10 Tage
+S: Ausverkauft
+M: Lieferzeit 6-10 Tage
+L: Lieferzeit 6-10 Tage
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-count-solo-1-2693321,"699,00","799,00"
+38,rose-bikes,de,,MTB Fully,GROUND CONTROL 4 Mud Grey,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: Lieferzeit 6-10 Tage
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-ground-control-4-2697041,"3.249,00",
+39,rose-bikes,de,,Gravel,BACKROAD Force 1x11 *evil pepper green,new,Gravel,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-backroad-force-1x11-2693158?article_size=7816&product_shape=19742,"2.799,00","3.649,00"
+40,rose-bikes,de,,E-Bike,XTRA WATT EVO ROHLOFF HERREN  Matt-Silver,new,E-Bike,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-rohloff-herren-2681754?article_size=7411&product_shape=16479,"4.699,00","5.599,00"
+41,rose-bikes,de,,MTB Fully,GROUND CONTROL 4 Evil Pepper Green,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-ground-control-4-2697041,"3.249,00",
+42,rose-bikes,de,,MTB Fully,SOUL FIRE DH Matt Black/Yellow,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-soul-fire-dh-2693524?article_size=7646&product_shape=8890,"2.499,00","2.849,00"
+43,rose-bikes,de,,MTB Fully,ROOT MILLER 1 Light Olive,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-root-miller-1-2693526,"1.999,00","2.299,00"
+44,rose-bikes,de,,Fitness,MULTISPORT 3 Fitness Herren Matt-Black/Shiny-Grey,new,Fitness,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-multisport-3-fitness-herren-2693500?article_size=7411&product_shape=14836,"1.599,00","1.749,00"
+45,rose-bikes,de,,Rennrad,X-LITE FOUR DISC Ultegra UD-Carbon/Piano-Black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-2693196?article_size=7816&product_shape=18810,"2.999,00","3.299,00"
+46,rose-bikes,de,,MTB Fully,ROOT MILLER 1 Matt Aurora,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-root-miller-1-2693526,"1.999,00","2.299,00"
+47,rose-bikes,de,,Rennrad,X-LITE SIX DISC Red eTap AXS UD-Carbon/Piano-Black,new,Rennrad,1,,62cm: E-Mail bei Verfügbarkeit,https://www.rosebikes.de/rose-x-lite-six-disc-red-etap-axs-2693204?article_size=7816&product_shape=18814,"5.999,00","7.399,00"
+48,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 3 Komfort matt off-white,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-3-komfort-2693431?article_size=8276&product_shape=18350,"4.349,00","4.599,00"
+49,rose-bikes,de,,Rennrad,X-LITE FOUR DISC Ultegra mother-of-pearl/matt-black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-ultegra-2693196?article_size=7816&product_shape=18810,"2.999,00","3.299,00"
+50,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 1 Herren matt off-white,new,E-Bike,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-1-herren-2693407,"3.399,00","3.799,00"
+51,rose-bikes,de,,Fitness,MULTISPORT 3 Fitness Herren stone-grey/shiny-orange ,new,Fitness,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-multisport-3-fitness-herren-2693500?article_size=7411&product_shape=14836,"1.599,00","1.749,00"
+52,rose-bikes,de,,MTB Fully,ROOT MILLER 1 Miami Ice,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-root-miller-1-2693526,"1.999,00","2.299,00"
+53,rose-bikes,de,,Rennrad,X-LITE SIX DISC Red eTap AXS UD-Carbon/Aurora,new,Rennrad,1,,"55cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-red-etap-axs-2693204?article_size=7816&product_shape=18814,"5.999,00","7.399,00"
+54,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 3 Komfort matt silver-grey,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-3-komfort-2693431?article_size=8276&product_shape=18350,"4.349,00","4.599,00"
+55,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 1 Herren matt silver-grey,new,E-Bike,1,,"19"": Lieferzeit 6-10 Tage
+21"": Ausverkauft
+23"": Lieferzeit 6-10 Tage
+25"": Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-1-herren-2693407,"3.399,00","3.799,00"
+56,rose-bikes,de,,Rennrad,X-LITE SIX DISC Red eTap AXS raw carbon/silver,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-red-etap-axs-2693204?article_size=7816&product_shape=18814,"5.999,00","7.399,00"
+57,rose-bikes,de,,MTB Fully,ROOT MILLER 2 Miami Ice,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-root-miller-2-2696897,"2.799,00","2.999,00"
+58,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra UD-Carbon/Piano-Black,new,Rennrad,1,,"57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-2693199?article_size=7136&product_shape=18814,"4.699,00","4.799,00"
+59,rose-bikes,de,,Rennrad,X-LITE FOUR DISC 105 UD-Carbon/Emergency-Orange,new,Rennrad,1,,"53cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-105-2693195?article_size=7816&product_shape=14989,"2.799,00","2.999,00"
+60,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 2 Unisex matt silver-grey,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-xtra-watt-evo-plus-2-unisex-2694051?article_size=8276&product_shape=18350,"3.749,00","3.999,00"
+61,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 1 Komfort matt off-white,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-xtra-watt-evo-plus-1-komfort-2693410,"3.149,00","3.299,00"
+62,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 2 Unisex matt off-white,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-2-unisex-2694051?article_size=8276&product_shape=18350,"3.749,00","3.999,00"
+63,rose-bikes,de,,MTB Fully,ROOT MILLER 2 Matt Aurora,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-root-miller-2-2696897,"2.799,00","2.999,00"
+64,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra raw carbon/silver,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Lieferzeit 6-10 Tage
+57cm: Lieferzeit 6-10 Tage
+59cm: Lieferzeit 6-10 Tage
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-2693199?article_size=7136&product_shape=18814,"4.699,00","4.799,00"
+65,rose-bikes,de,,Rennrad,X-LITE FOUR DISC 105 mother-of-pearl/matt-black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-105-2693195?article_size=7816&product_shape=14989,"2.799,00","2.999,00"
+66,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 1 Komfort matt silver-grey,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-xtra-watt-evo-plus-1-komfort-2693410,"3.149,00","3.299,00"
+67,rose-bikes,de,,MTB Fully,ROOT MILLER 2 Light Olive,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-root-miller-2-2696897,"2.799,00","2.999,00"
+68,rose-bikes,de,,Rennrad,X-LITE SIX DISC Ultegra UD-Carbon/Aurora,new,Rennrad,1,,62cm: E-Mail bei Verfügbarkeit,https://www.rosebikes.de/rose-x-lite-six-disc-ultegra-2693199?article_size=7136&product_shape=18814,"4.699,00","4.799,00"
+69,rose-bikes,de,,Rennrad,X-LITE FOUR DISC 105 UD-Carbon/Piano-Black,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+55cm: Ausverkauft
+57cm: Ausverkauft
+59cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-105-2693195?article_size=7816&product_shape=14989,"2.799,00","2.999,00"
+70,rose-bikes,de,,Rennrad,X-LITE FOUR DISC 105 Grey/Lightning-Yellow,new,Rennrad,1,,"57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-disc-105-2693195?article_size=7816&product_shape=14989,"2.799,00","2.999,00"
+71,rose-bikes,de,,MTB Fully,ROOT MILLER 3 Miami Ice,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-root-miller-3-2697004,"3.399,00","3.899,00"
+72,rose-bikes,de,,Rennrad,X-LITE FOUR Ultegra Di2 UD-Carbon/Piano-Black/Pure-White,new,Rennrad,1,,"50cm: Ausverkauft
+53cm: Ausverkauft
+57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-ultegra-di2-2661729?article_size=7816&product_shape=14991,"3.599,00","3.749,00"
+73,rose-bikes,de,,MTB Fully,ROOT MILLER 3 Matt Aurora,new,MTB Fully,1,,"S: Ausverkauft
+M: Ausverkauft
+L: Ausverkauft
+XL: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-root-miller-3-2697004,"3.399,00","3.899,00"
+74,rose-bikes,de,,Rennrad,X-LITE FOUR Ultegra Di2 Grey/Lightning-Yellow,new,Rennrad,1,,"50cm: Ausverkauft
+57cm: Ausverkauft
+62cm: E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-x-lite-four-ultegra-di2-2661729?article_size=7816&product_shape=14991,"3.599,00","3.749,00"
+75,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS 2 Herren matt off-white,new,E-Bike,1,,"19"": Lieferzeit 6-10 Tage
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-2-herren-2694049?article_size=6564&product_shape=18350,"3.999,00","4.199,00"
+76,rose-bikes,de,,MTB Fully,ROOT MILLER 3 Light Olive,new,MTB Fully,1,,"S: Lieferzeit 6-10 Tage
+M: Ausverkauft
+L: Ausverkauft
+XL: Lieferzeit 6-10 Tage",https://www.rosebikes.de/rose-root-miller-3-2697004,"3.399,00","3.899,00"
+77,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 3 Herren matt silver-grey,new,E-Bike,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-3-herren-2693419,"4.749,00","4.999,00"
+78,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 3 Herren matt off-white,new,E-Bike,1,,"19"": Ausverkauft
+21"": Ausverkauft
+23"": Ausverkauft
+25"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-3-herren-2693419,"4.749,00","4.999,00"
+79,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 1 Unisex matt silver-grey,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-1-unisex-2693443,"3.399,00","3.799,00"
+80,rose-bikes,de,,E-Bike,XTRA WATT EVO PLUS ALLROAD 1 Unisex matt off-white,new,E-Bike,1,,"17"": Ausverkauft
+19"": Ausverkauft
+21"": Ausverkauft
+23"": E-Mail bei Verfügbarkeit",https://www.rosebikes.de/rose-xtra-watt-evo-plus-allroad-1-unisex-2693443,"3.399,00","3.799,00"

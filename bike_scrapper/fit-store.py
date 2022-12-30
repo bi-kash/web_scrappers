@@ -30,7 +30,7 @@ dict_data = []
 
 def sel_scrap_dynamic(page):
     base_url = "https://www.fitstore24.com/de/radsport/mountainbikes?page="
-    driver= get_driver()
+    driver = get_driver()
     base_url += str(page)
     driver.get(base_url)
     wait = WebDriverWait(driver, 10)
@@ -55,17 +55,17 @@ def sel_scrap_dynamic(page):
         except:
             year = ""
 
-        price = bike.find_element(By.CLASS_NAME, "price-new").text.strip().split(' ')[0]
+        price = bike.find_element(By.CLASS_NAME, "price-new").text.strip().split(" ")[0]
         rrp = bike.find_elements(By.CLASS_NAME, "price-old")
         if rrp:
-            rrp = rrp[0].text.strip().split(' ')[0]
-        else: 
-            rrp=''
+            rrp = rrp[0].text.strip().split(" ")[0]
+        else:
+            rrp = ""
         ship_info = bike.find_element(By.CLASS_NAME, "product-shipping").text.strip()
         stock_text = bike.find_element(
             By.CLASS_NAME, "product-shipping-time"
         ).text.strip()
-        stock_text+='\n'+ship_info
+        stock_text += "\n" + ship_info
         # stock_text = ' '.join(re.findall(r'[0-9A-Za-z/: ]+', stock_text))
         language = "de"
         shop_name = "fit-store"
@@ -77,7 +77,7 @@ def sel_scrap_dynamic(page):
                 "brand": "",
                 "modell": model,
                 "condition": "new",
-                "category_shop": '',
+                "category_shop": "",
                 "stock_status": 1,
                 "stock_text": stock_text,
                 "stock_sizes": "",
@@ -96,19 +96,29 @@ def sel_scrap_dynamic(page):
             .get_attribute("title")
         )
 
-        brand = driver.find_element(By.CLASS_NAME, 'manufacturer-logo').find_element(By.TAG_NAME, 'img').get_attribute('alt')
+        brand = (
+            driver.find_element(By.CLASS_NAME, "manufacturer-logo")
+            .find_element(By.TAG_NAME, "img")
+            .get_attribute("alt")
+        )
 
         for item in driver.find_elements(By.TAG_NAME, "option"):
             stock_sizes.append(item.get_attribute("innerText").strip())
 
-        stock_status=1
-        
-        
-        stock_sizes = "\n".join(stock_sizes[1:-2])
-        if stock_sizes.strip()=='':
-            stock_status=0
+        stock_status = 1
 
-        row.update({"category_shop": category, "stock_sizes": stock_sizes, "stock_status": stock_status, "brand": brand})
+        stock_sizes = "\n".join(stock_sizes[1:-2])
+        if stock_sizes.strip() == "":
+            stock_status = 0
+
+        row.update(
+            {
+                "category_shop": category,
+                "stock_sizes": stock_sizes,
+                "stock_status": stock_status,
+                "brand": brand,
+            }
+        )
 
         dict_data.append(row)
 

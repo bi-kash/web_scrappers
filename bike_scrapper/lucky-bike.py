@@ -15,7 +15,7 @@ def get_driver():
     chromeOptions = webdriver.ChromeOptions()
 
     # Headless is faster. If headless is False then it opens a browser and you can see action of web driver. You can try making it False
-    chromeOptions.headless = False
+    chromeOptions.headless = True
     chromeOptions.add_argument("--log-level=3")
 
     # installs chrome driver automatically if not present
@@ -46,7 +46,7 @@ def sel_scrap_dynamic(rows):
 
     driver = get_driver()
     driver.maximize_window()
-    driver.get(rows[0]['url-detail'])
+    driver.get(rows[0]["url-detail"])
     wait = WebDriverWait(driver, 10)
     wait.until(lambda driver: driver.find_element(By.ID, "usercentrics-root"))
     shadow_host = driver.find_element(By.ID, "usercentrics-root")
@@ -64,18 +64,21 @@ def sel_scrap_dynamic(rows):
             time.sleep(2)
     for row in rows:
         driver.get(row["url-detail"])
-
-        print(row["url-detail"])
-
-        variants = driver.find_element(By.CLASS_NAME, 'kmt-variantselection-list').find_elements(By.TAG_NAME, 'span')
+        variants = driver.find_element(
+            By.CLASS_NAME, "kmt-variantselection-list"
+        ).find_elements(By.TAG_NAME, "span")
         for i in range(len(variants)):
-            driver.find_element(By.CLASS_NAME, 'kmt-variantselection-list').find_elements(By.TAG_NAME, 'span')[i].click()
+            driver.find_element(
+                By.CLASS_NAME, "kmt-variantselection-list"
+            ).find_elements(By.TAG_NAME, "span")[i].click()
             stock_sizes = []
 
             for item in driver.find_element(By.CLASS_NAME, "kmt-select").find_elements(
                 By.TAG_NAME, "option"
             )[1:]:
-                stock_sizes.append(item.get_attribute("innerText").strip().split("\n")[0])
+                stock_sizes.append(
+                    item.get_attribute("innerText").strip().split("\n")[0]
+                )
             status_dict = {}
             count_stock = 0
             no_status = []
@@ -109,25 +112,26 @@ def sel_scrap_dynamic(rows):
                         status_dict[status].append(stock_size)
                 except:
                     no_status.append(stock_size)
-                    print(
-                        "No status for this stock size:",
-                        stock_size,
-                        " at "
-                    )
+                    print("No status for this stock size:", stock_size, " at ")
 
             stock_sizes = ""
             for status, values in status_dict.items():
                 stock_sizes += status + ": " + ", ".join(values) + "\n"
-            stock_status=1
-            if stock_sizes.strip() == '':
-                stock_status=0
+            stock_status = 1
+            if stock_sizes.strip() == "":
+                stock_status = 0
 
-            model = driver.find_element(By.CLASS_NAME, "kmt-productmain-title").text.strip()
+            model = driver.find_element(
+                By.CLASS_NAME, "kmt-productmain-title"
+            ).text.strip()
             year = model.split("|")[0].strip()[-4:]
-            color = driver.find_element(By.CLASS_NAME, 'kmt-productmain-variants').find_element(By.TAG_NAME, 'span').text
-            print(color)
+            color = (
+                driver.find_element(By.CLASS_NAME, "kmt-productmain-variants")
+                .find_element(By.TAG_NAME, "span")
+                .text
+            )
             if color not in model:
-                model+=" | "+color
+                model += " | " + color
 
             stock_text = (
                 driver.find_element(By.CLASS_NAME, "kmt-iconlistitem")
@@ -135,9 +139,15 @@ def sel_scrap_dynamic(rows):
                 .get_attribute("innerText")
             )
             row.update(
-                {"year":year, "stock_sizes": stock_sizes, "stock_text": stock_text, "modell": model, "stock_status":stock_status}
+                {
+                    "year": year,
+                    "stock_sizes": stock_sizes,
+                    "stock_text": stock_text,
+                    "modell": model,
+                    "stock_status": stock_status,
+                }
             )
-        
+
             dict_data.append(deepcopy(row))
 
     print("Total handled bikes: ", len(dict_data))
@@ -166,11 +176,18 @@ def scrap_link(link=None, category=""):
             time.sleep(2)
 
     rows = []
-    n_page = int(
-        driver.find_element(By.CLASS_NAME, "kmt-paging-pagenr")
-        .find_elements(By.TAG_NAME, "li")[-1]
-        .text
-    )
+    for i in range(5):
+        try:
+            n_page = int(
+                driver.find_element(By.CLASS_NAME, "kmt-paging-pagenr")
+                .find_elements(By.TAG_NAME, "li")[-1]
+                .text
+            )
+        except:
+            time.sleep(1)
+            continue
+        break
+
     print("number of page:", n_page)
     category = "Mountainbike"
 
@@ -185,7 +202,7 @@ def scrap_link(link=None, category=""):
         bikes = driver.find_elements(By.CLASS_NAME, "kmt-productlist-item")
         for bike in bikes:
             model = ""
-            
+
             url_brand = bike.find_element(
                 By.CLASS_NAME, "kmt-productbox-manufacturer"
             ).find_element(By.TAG_NAME, "a")
@@ -214,7 +231,7 @@ def scrap_link(link=None, category=""):
                 {
                     "shop_name": shop_name,
                     "language": language,
-                    "year": '',
+                    "year": "",
                     "brand": brand,
                     "modell": model,
                     "condition": "new",
