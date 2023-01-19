@@ -1,0 +1,788 @@
+,shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
+0,fahrrad-xxl,de,2023,Carver,Strict 100 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-100-x0047504,359.99,549.99
+1,fahrrad-xxl,de,2023,Carver,"Strict 100 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"40 CM, 42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-100-x0047503,359.99,549.99
+2,fahrrad-xxl,de,2023,Carver,Strict 150 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-150-m000009320,799.99,999.99
+3,fahrrad-xxl,de,2023,Carver,Strict 100 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"36 CM, 40 CM",https://www.fahrrad-xxl.de/carver-strict-100-x0047502,359.99,549.99
+4,fahrrad-xxl,de,2023,Carver,Strict 130 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-130-p00056993m001,599.99,749.99
+5,fahrrad-xxl,de,2023,Carver,Strict 110 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-110-m000009304,479.99,599.99
+6,fahrrad-xxl,de,2023,Carver,Strict 120 Street - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-120-street-m000009307,699.99,
+7,fahrrad-xxl,de,2023,Carver,Strict 100 W - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM",https://www.fahrrad-xxl.de/carver-strict-100-w-x0047507,359.99,549.99
+8,fahrrad-xxl,de,2023,Carver,Strict 140 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-140-m000009318,679.99,849.99
+9,fahrrad-xxl,de,2023,Carver,Strict 160 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-160-p00056997m002,1199.99,
+10,fahrrad-xxl,de,2023,Carver,"Strict 120 Street - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-120-street-m000009306,559.99,699.99
+11,fahrrad-xxl,de,2023,Carver,Strict 120 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-120-p00056990m002,519.99,649.99
+12,fahrrad-xxl,de,2023,Carver,"Strict 100 W - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM",https://www.fahrrad-xxl.de/carver-strict-100-w-x0047506,359.99,549.99
+13,fahrrad-xxl,de,2023,Carver,Strict 100 W - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"36 CM, 40 CM",https://www.fahrrad-xxl.de/carver-strict-100-w-x0047505,359.99,549.99
+14,fahrrad-xxl,de,2023,Carver,Strict 170 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM, 54 CM, 58 CM",https://www.fahrrad-xxl.de/carver-strict-170-m000009326,1299.99,
+15,fahrrad-xxl,de,2023,Carver,"Strict 110 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"40 CM, 42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-110-m000009303,479.99,599.99
+16,fahrrad-xxl,de,2023,Carver,Strict 110 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"36 CM, 40 CM",https://www.fahrrad-xxl.de/carver-strict-110-m000009302,479.99,599.99
+17,fahrrad-xxl,de,2023,Carver,"Strict 150 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-150-m000009319,799.99,999.99
+18,fahrrad-xxl,de,2023,Carver,Strict 110 W - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM",https://www.fahrrad-xxl.de/carver-strict-110-w-m000009301,479.99,599.99
+19,fahrrad-xxl,de,2023,Carver,"Strict 130 W - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM",https://www.fahrrad-xxl.de/carver-strict-130-w-p00056994m001,599.99,749.99
+20,fahrrad-xxl,de,2023,Carver,Strict 130 W - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM",https://www.fahrrad-xxl.de/carver-strict-130-w-p00056994m002,599.99,749.99
+21,fahrrad-xxl,de,2023,Carver,"Strict 120 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-120-m000009311,519.99,649.99
+22,fahrrad-xxl,de,2023,Carver,Strict 110 W - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"36 CM, 40 CM",https://www.fahrrad-xxl.de/carver-strict-110-w-m000009299,479.99,599.99
+23,fahrrad-xxl,de,2023,Carver,"Strict 170 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-170-m000009325,1299.99,
+24,fahrrad-xxl,de,2023,Carver,"Strict 160 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-160-p00056997m001,1199.99,
+25,fahrrad-xxl,de,2023,Carver,"Strict 140 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-140-m000009317,679.99,849.99
+26,fahrrad-xxl,de,2023,Carver,"Strict 130 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"42 CM, 46 CM",https://www.fahrrad-xxl.de/carver-strict-130-p00056993m002,599.99,749.99
+27,fahrrad-xxl,de,2023,Carver,"Strict 110 W - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM",https://www.fahrrad-xxl.de/carver-strict-110-w-m000009300,479.99,599.99
+28,fahrrad-xxl,de,2023,Carver,Strict 120 W - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM",https://www.fahrrad-xxl.de/carver-strict-120-w-m000009309,519.99,649.99
+29,fahrrad-xxl,de,2023,Carver,"Strict 120 W - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM",https://www.fahrrad-xxl.de/carver-strict-120-w-m000009308,519.99,649.99
+30,fahrrad-xxl,de,2023,Cube,Stereo ONE22 Pro - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/cube-stereo-one22-pro-m000065547,1999.,
+31,fahrrad-xxl,de,2021,Ghost,"Lanao Base 27.5 AL W - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-base-27-5-al-w-p00057601m001,399.99,499.
+32,fahrrad-xxl,de,2022,KTM,Ultra Fun 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL, XXL",https://www.fahrrad-xxl.de/ktm-ultra-fun-29-m000041735,679.99,849.
+33,fahrrad-xxl,de,2022,Cube,Stereo 120 Race - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/cube-stereo-120-race-m000042121,2199.,
+34,fahrrad-xxl,de,2022,Cube,Aim Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-pro-m000041872,599.,
+35,fahrrad-xxl,de,2021,Ghost,Kato Essential 29 AL U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-essential-29-al-u-p00057618m001,439.99,549.
+36,fahrrad-xxl,de,2022,Scott,Scale 930 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/scott-scale-930-m000043117,1769.99,2099.
+37,fahrrad-xxl,de,2022,Trek,"Remedy 8 XT - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-remedy-8-xt-m000045109,3099.99,3699.
+38,fahrrad-xxl,de,2022,Trek,Marlin 6 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-6-p00063167m001,579.99,724.
+39,fahrrad-xxl,de,2022,Trek,Procaliber 9.5 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-procaliber-9-5-m000045097,1599.99,2049.
+40,fahrrad-xxl,de,2022,Orbea,Oiz M10 TR - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-m10-tr-m000041246,4859.99,5399.
+41,fahrrad-xxl,de,2022,Trek,Marlin 7 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-7-p00056964m002,739.99,924.
+42,fahrrad-xxl,de,2022,Trek,Marlin 4 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-4-p00063171m001,419.99,524.
+43,fahrrad-xxl,de,2022,Cube,Aim EX - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-ex-m000041870,699.,
+44,fahrrad-xxl,de,2022,Scott,Aspect 970 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-970-m000043006,499.99,629.
+45,fahrrad-xxl,de,2022,Scott,Genius 950 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/scott-genius-950-m000043079,2459.99,2899.
+46,fahrrad-xxl,de,2023,Focus,Jam 6.9 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 47 CM",https://www.fahrrad-xxl.de/focus-jam-6-9-m000044364,2599.99,3299.
+47,fahrrad-xxl,de,2022,Cube,Aim SL - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-sl-m000041880,749.,
+48,fahrrad-xxl,de,2022,Specialized,Chisel Comp - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/specialized-chisel-comp-m000046768,1919.99,2300.
+49,fahrrad-xxl,de,2022,Specialized,Rockhopper 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/specialized-rockhopper-29-m000046805,499.99,625.
+50,fahrrad-xxl,de,2022,Specialized,Rockhopper 26 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,XXS,https://www.fahrrad-xxl.de/specialized-rockhopper-26-m000046803,499.99,625.
+51,fahrrad-xxl,de,2022,Cube,Acid - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-acid-m000041859,989.99,1099.
+52,fahrrad-xxl,de,2021,Ghost,Riot AM AL Universal - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-am-al-universal-p00057575m002,2599.99,2999.
+53,fahrrad-xxl,de,2023,Cube,Stereo ONE22 Race - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/cube-stereo-one22-race-m000065549,2399.,
+54,fahrrad-xxl,de,2022,Trek,"Remedy 7 - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-remedy-7-p00057738m001,2709.99,3099.
+55,fahrrad-xxl,de,2022,Scott,Spark 970 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/scott-spark-970-m000043148,2259.99,2599.
+56,fahrrad-xxl,de,2022,Scott,Aspect 930 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-930-m000043001,759.99,949.
+57,fahrrad-xxl,de,2022,Scott,Scale 940 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/scott-scale-940-m000043118,1569.99,1899.
+58,fahrrad-xxl,de,2022,Specialized,"Rockhopper 27.5 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/specialized-rockhopper-27-5-m000046804,499.99,625.
+59,fahrrad-xxl,de,2023,Raymon,HardRay Nine 2.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM, 52 CM",https://www.fahrrad-xxl.de/raymon-hardray-nine-2-0-p00059400m001,499.99,629.
+60,fahrrad-xxl,de,2021,Giant,Trance 3 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, XL",https://www.fahrrad-xxl.de/giant-trance-3-p00058940m001,1999.99,2299.
+61,fahrrad-xxl,de,2022,Scott,Spark 930 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/scott-spark-930-m000043144,3739.99,4199.
+62,fahrrad-xxl,de,2021,Haibike,Seet 8 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"44 CM, 48 CM",https://www.fahrrad-xxl.de/haibike-seet-8-p00058814m001,519.99,649.
+63,fahrrad-xxl,de,2022,Cannondale,Scalpel HT Carbon 4 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-ht-carbon-4-m000048474,2119.99,2699.
+64,fahrrad-xxl,de,2023,Specialized,Stumpjumper Alloy - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S3, S4, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-alloy-m000067544,2700.,2800.
+65,fahrrad-xxl,de,2022,Trek,Marlin 8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-8-p00063169m001,829.99,1024.
+66,fahrrad-xxl,de,2023,Ghost,Kato FS - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-fs-m000047246,1699.,
+67,fahrrad-xxl,de,2022,Trek,Procaliber 9.6 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L",https://www.fahrrad-xxl.de/trek-procaliber-9-6-m000045098,1959.99,2499.
+68,fahrrad-xxl,de,2022,Cube,Aim Race - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-race-m000041876,649.,
+69,fahrrad-xxl,de,2022,Trek,X-Caliber 9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-x-caliber-9-m000045149,1439.99,1649.
+70,fahrrad-xxl,de,2023,Cube,Stereo ONE22 HPC TM 29 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/cube-stereo-one22-hpc-tm-29-m000065545,3199.,
+71,fahrrad-xxl,de,2023,Cube,Reaction Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-pro-m000065484,1399.,
+72,fahrrad-xxl,de,2022,Scott,Scale 965 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-scale-965-p00058430m001,1149.99,1399.
+73,fahrrad-xxl,de,2022,Cube,"Access WS EAZ - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-eaz-m000041840,599.,
+74,fahrrad-xxl,de,2022,Trek,Fuel EX 8 XT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-fuel-ex-8-xt-m000045044,3189.99,3799.
+75,fahrrad-xxl,de,2022,Specialized,Epic Comp - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, L, XL",https://www.fahrrad-xxl.de/specialized-epic-comp-m000046781,4519.99,5700.
+76,fahrrad-xxl,de,2021,Ghost,"Lanao Essential 27.5 AL W - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-essential-27-5-al-w-p00057599m001,439.99,549.
+77,fahrrad-xxl,de,2022,Cube,"Aim Pro - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-pro-m000041871,599.,
+78,fahrrad-xxl,de,2023,Raymon,HardRay Nine 5.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"48 CM, 52 CM",https://www.fahrrad-xxl.de/raymon-hardray-nine-5-0-p00059405m001,779.99,979.
+79,fahrrad-xxl,de,2022,Scott,Scale 980 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-scale-980-m000043122,849.99,1049.
+80,fahrrad-xxl,de,2023,Cube,Attention SLX - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-attention-slx-m000065257,1099.,
+81,fahrrad-xxl,de,2022,KTM,Chicago 292 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ktm-chicago-292-m000041532,559.99,699.
+82,fahrrad-xxl,de,2022,Cube,Race One - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL, 22 ZOLL",https://www.fahrrad-xxl.de/cube-race-one-m000042022,1119.99,1249.
+83,fahrrad-xxl,de,2022,Specialized,Chisel - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/specialized-chisel-m000046769,1619.99,1950.
+84,fahrrad-xxl,de,2022,Scott,Scale 970 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-scale-970-m000043121,1059.99,1299.
+85,fahrrad-xxl,de,2021,Bergamont,Revox 3 orange - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-3-orange-p00057980m002,399.99,499.
+86,fahrrad-xxl,de,2022,Orbea,Rallon M20 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-rallon-m20-m000041292,4139.99,4599.
+87,fahrrad-xxl,de,2022,Specialized,Stumpjumper Comp - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S4, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-comp-m000046827,5000.,
+88,fahrrad-xxl,de,2022,Trek,Supercaliber 9.8 XT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML, L",https://www.fahrrad-xxl.de/trek-supercaliber-9-8-xt-m000045132,5999.99,6699.
+89,fahrrad-xxl,de,2022,Scott,Spark 960 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/scott-spark-960-m000043147,2419.99,2899.
+90,fahrrad-xxl,de,2022,Specialized,Epic Evo Expert - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/specialized-epic-evo-expert-m000046783,6439.99,8100.
+91,fahrrad-xxl,de,2022,Orbea,Oiz H10 TR - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-h10-tr-m000041239,3149.99,3499.
+92,fahrrad-xxl,de,2022,Merida,Big.Nine LTD HP2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-big-nine-limited-p00059354m001,1029.99,1249.
+93,fahrrad-xxl,de,2023,Giant,Stance 2 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-stance-2-m000020372,1999.99,2199.
+94,fahrrad-xxl,de,2022,BMC,Speedfox AL Two - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/bmc-speedfox-al-two-m000001672,1949.99,2299.
+95,fahrrad-xxl,de,2023,Raymon,HardRay Nine 3.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM, 52 CM",https://www.fahrrad-xxl.de/raymon-hardray-nine-3-0-p00059401m001,579.99,729.
+96,fahrrad-xxl,de,2022,Ghost,Riot EN AL Essential - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-en-al-essential-m000047291,2659.99,2999.
+97,fahrrad-xxl,de,2021,Ghost,Kato Advanced 29 AL U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-advanced-29-al-u-p00057612m001,599.99,749.
+98,fahrrad-xxl,de,2021,Ghost,"Kato Universal 27.5 AL U - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-universal-27-5-al-u-p00057622m001,499.99,649.
+99,fahrrad-xxl,de,2021,Ghost,Kato Universal 29 AL U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-universal-29-al-u-p00057617m001,519.99,649.
+100,fahrrad-xxl,de,2022,Trek,X-Caliber 8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL, XXL",https://www.fahrrad-xxl.de/trek-x-caliber-8-m000045147,1109.99,1349.
+101,fahrrad-xxl,de,2023,Trek,Fuel EX 8 XT Gen 6 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-fuel-ex-8-xt-gen-6-m000061106,4699.,
+102,fahrrad-xxl,de,2022,Giant,Fathom 2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-fathom-2-m000020338,1219.99,1399.
+103,fahrrad-xxl,de,2022,Specialized,Epic Hardtail Comp - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/specialized-epic-hardtail-comp-m000046787,2949.99,3500.
+104,fahrrad-xxl,de,2022,Cube,Attention - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-attention-m000041899,949.,
+105,fahrrad-xxl,de,2023,Cube,Reaction TM - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-tm-m000065485,1399.,
+106,fahrrad-xxl,de,2022,Specialized,Stumpjumper Evo Expert - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3",https://www.fahrrad-xxl.de/specialized-stumpjumper-evo-expert-m000046829,5999.99,7350.
+107,fahrrad-xxl,de,2022,Cannondale,Scalpel Carbon 3 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-carbon-3-m000048465,3879.99,4899.
+108,fahrrad-xxl,de,2022,Cube,Access WS EAZ - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-eaz-m000041841,599.,
+109,fahrrad-xxl,de,2022,Specialized,Epic Expert - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/specialized-epic-expert-m000046786,6439.99,8100.
+110,fahrrad-xxl,de,2023,Trek,Roscoe 7 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-roscoe-7-m000045112,1549.99,1749.
+111,fahrrad-xxl,de,2022,Cannondale,Scalpel HT Carbon 2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-ht-carbon-2-m000048472,3999.99,4699.
+112,fahrrad-xxl,de,2021,Specialized,Stumpjumper Comp Alloy - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S4, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-comp-alloy-p00061780m001,3379.99,3750.
+113,fahrrad-xxl,de,2022,Lapierre,Zesty TR 3.9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,43 CM,https://www.fahrrad-xxl.de/lapierre-zesty-tr-3-9-p00060623m001,1959.99,2099.
+114,fahrrad-xxl,de,2023,Ghost,Kato FS Essential - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-fs-essential-m000047242,1999.,
+115,fahrrad-xxl,de,2023,Cube,Reaction C:62 Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-c-62-pro-m000065419,1999.,
+116,fahrrad-xxl,de,2022,Orbea,Alma M30 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-m30-m000041180,2159.99,2399.
+117,fahrrad-xxl,de,2023,Cube,Aim Race - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-race-m000065238,679.,
+118,fahrrad-xxl,de,2022,Orbea,Occam H30 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h30-m000041232,2339.99,2599.
+119,fahrrad-xxl,de,2022,Cube,Aim - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL, 22 ZOLL",https://www.fahrrad-xxl.de/cube-aim-m000041882,549.,
+120,fahrrad-xxl,de,2022,Specialized,Rockhopper Sport 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XXL",https://www.fahrrad-xxl.de/specialized-rockhopper-sport-29-m000046811,579.99,725.
+121,fahrrad-xxl,de,2022,Cannondale,Scalpel HT Carbon 3 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-ht-carbon-3-m000048473,2759.99,3499.
+122,fahrrad-xxl,de,2022,Orbea,Laufey H30 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-laufey-h30-m000041218,1349.99,1499.
+123,fahrrad-xxl,de,2021,Ghost,Kato Pro 29 AL U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-pro-29-al-u-p00057611m001,679.99,849.
+124,fahrrad-xxl,de,2022,Giant,"Fathom 2 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-fathom-2-27-5-m000020337,1219.99,1399.
+125,fahrrad-xxl,de,2022,Orbea,Laufey H10 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-laufey-h10-m000041217,1709.99,1899.
+126,fahrrad-xxl,de,2021,Ghost,Riot Trail AL Full Party - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-trail-al-full-party-p00057577m002,2999.99,3699.
+127,fahrrad-xxl,de,2023,Raymon,SixRay 1.0 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,38 CM,https://www.fahrrad-xxl.de/raymon-sixray-1-0-p00059382m002,419.99,529.
+128,fahrrad-xxl,de,2022,Cube,Analog - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-analog-m000041889,849.,
+129,fahrrad-xxl,de,2023,Cube,"Access WS EXC - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-exc-m000065185,699.,
+130,fahrrad-xxl,de,2022,Cube,"Aim - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-m000041881,549.,
+131,fahrrad-xxl,de,2022,Scott,Genius 940 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-genius-940-m000043078,2759.99,3299.
+132,fahrrad-xxl,de,2022,KTM,Ultra Flite 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL, XXL",https://www.fahrrad-xxl.de/ktm-ultra-flite-29-m000041734,759.99,949.
+133,fahrrad-xxl,de,2022,Specialized,Stumpjumper Evo Comp - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S4, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-evo-comp-m000046828,4989.99,5700.
+134,fahrrad-xxl,de,2023,Raymon,"HardRay Seven 2.0 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM, 46 CM",https://www.fahrrad-xxl.de/raymon-hardray-seven-2-0-p00059395m001,499.99,629.
+135,fahrrad-xxl,de,2021,Ghost,"Nirvana Tour SF Essential - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-essential-p00057569m001,989.99,1099.
+136,fahrrad-xxl,de,2023,Cube,Aim EX - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-ex-m000065232,749.,
+137,fahrrad-xxl,de,2021,Trek,Slash 9.8 GX AXS - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML",https://www.fahrrad-xxl.de/trek-slash-9-8-gx-axs-p00062442m001,5999.99,7599.
+138,fahrrad-xxl,de,2023,Ghost,"Kato FS - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-kato-fs-al-m000047240,1699.,
+139,fahrrad-xxl,de,2022,Orbea,Occam H20 LT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h20-lt-m000041231,3149.99,3499.
+140,fahrrad-xxl,de,2022,Trek,Top Fuel 5 Deore - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-top-fuel-5-deore-m000045135,2169.99,2599.
+141,fahrrad-xxl,de,2022,NS Bikes,Define AL 150 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/define-al-150-2-m000030116,2999.99,3499.
+142,fahrrad-xxl,de,2022,Giant,Reign - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-reign-m000020356,2999.99,3399.
+143,fahrrad-xxl,de,2022,Scott,Contessa Active 60 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-60-m000043037,499.99,629.
+144,fahrrad-xxl,de,2022,Orbea,Oiz H30 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-h30-m000041241,2339.99,2599.
+145,fahrrad-xxl,de,2022,Cannondale,Scalpel Carbon SE 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-carbon-se-2-m000048468,3879.99,4899.
+146,fahrrad-xxl,de,2022,Giant,Fathom 1 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-fathom-1-m000020336,1489.99,1699.
+147,fahrrad-xxl,de,2022,Scott,"Aspect 770 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/scott-aspect-770-m000042998,499.99,629.
+148,fahrrad-xxl,de,2022,Orbea,Alma H30 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-h30-m000041174,1069.99,1199.
+149,fahrrad-xxl,de,2022,Trek,"Marlin 6 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-6-p00063167m002,579.99,724.
+150,fahrrad-xxl,de,2023,Raymon,HardRay Nine 4.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM, 52 CM",https://www.fahrrad-xxl.de/raymon-hardray-nine-4-0-p00059402m001,699.99,879.
+151,fahrrad-xxl,de,2022,Trek,"Marlin 4 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-4-p00063171m002,419.99,524.
+152,fahrrad-xxl,de,2022,KTM,Ultra Ride 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ktm-ultra-ride-29-m000041739,799.99,999.
+153,fahrrad-xxl,de,2023,Trek,X-Caliber 9 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-x-caliber-9-m000061220,1799.,
+154,fahrrad-xxl,de,2022,Orbea,Oiz M30 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-m30-m000041249,3509.99,3899.
+155,fahrrad-xxl,de,2023,BMC,Twostroke AL Two - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-two-m000001709,1599.99,1799.
+156,fahrrad-xxl,de,2022,Trek,"Marlin 7 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-7-p00056964m001,739.99,924.
+157,fahrrad-xxl,de,2022,Scott,Aspect 940 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-940-m000043002,679.99,849.
+158,fahrrad-xxl,de,2022,Orbea,Alma M50 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-m50-m000041182,1709.99,1899.
+159,fahrrad-xxl,de,2022,KTM,"Penny Lane 271 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ktm-penny-lane-271-m000041707,599.99,749.
+160,fahrrad-xxl,de,2022,Ghost,Lector LC - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ghost-lector-lc-m000047268,1799.99,2099.
+161,fahrrad-xxl,de,2022,Liv,Pique - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/liv-pique-2-m000020818,1999.99,2699.
+162,fahrrad-xxl,de,2023,BMC,Twostroke 01 Four - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-01-four-m000001696,2599.,
+163,fahrrad-xxl,de,2022,Scott,Aspect 960 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-960-m000043005,559.99,699.
+164,fahrrad-xxl,de,2022,Scott,Aspect 950 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-950-m000043004,619.99,779.
+165,fahrrad-xxl,de,2021,Ghost,Riot Enduro AL Essential - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-enduro-al-essential-p00057573m001,2339.99,2599.
+166,fahrrad-xxl,de,2023,Trek,Procaliber 9.5 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-procaliber-9-5-m000061178,2049.99,2299.
+167,fahrrad-xxl,de,2022,KTM,Myroon Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ktm-myroon-pro-m000041706,1759.99,1999.
+168,fahrrad-xxl,de,2023,Eightshot,"X-Coady 275 SL Disc - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,36 CM,https://www.fahrrad-xxl.de/eightshot-x-coady-275-sl-disc-m000058583,619.99,
+169,fahrrad-xxl,de,2023,Focus,Jam 6.8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 47 CM",https://www.fahrrad-xxl.de/focus-jam-6-8-m000044363,2699.,
+170,fahrrad-xxl,de,2023,Trek,Procaliber 9.8 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"L, XL, XXL",https://www.fahrrad-xxl.de/trek-procaliber-9-8-m000061181,4399.,
+171,fahrrad-xxl,de,2022,Scott,Scale 960 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/scott-scale-960-m000043120,1489.99,1699.
+172,fahrrad-xxl,de,2022,Orbea,Occam M30 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-m30-m000041238,3599.99,3999.
+173,fahrrad-xxl,de,2022,Bergamont,"Revox 2 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS7,https://www.fahrrad-xxl.de/bergamont-revox-2-m000046224,499.99,629.
+174,fahrrad-xxl,de,2023,Cube,Acid - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-acid-m000065217,1199.,
+175,fahrrad-xxl,de,2022,Cube,"Access WS Pro - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-pro-m000041846,749.,
+176,fahrrad-xxl,de,2022,Cannondale,Jekyll 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-jekyll-1-m000010096,5999.99,6999.
+177,fahrrad-xxl,de,2022,Scott,Aspect 920 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/scott-aspect-920-m000043000,919.99,1099.
+178,fahrrad-xxl,de,2023,Marin,"San Quentin 1 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/marin-san-quentin-1-m000055893,1049.,
+179,fahrrad-xxl,de,2022,Cube,"Aim Race - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-race-m000041875,649.,
+180,fahrrad-xxl,de,2021,Ghost,"Lanao Universal 27.5 AL W - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-universal-27-5-al-w-p00057598m001,519.99,649.
+181,fahrrad-xxl,de,2022,Centurion,Backfire Pro 600 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/centurion-backfire-pro-600-p00060182m001,1129.99,1379.
+182,fahrrad-xxl,de,2022,Orbea,Alma M Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/orbea-alma-m-pro-m000041176,4499.99,4999.
+183,fahrrad-xxl,de,2022,Centurion,Backfire Pro 800 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M (48),https://www.fahrrad-xxl.de/centurion-backfire-pro-800-p00060181m001,1299.99,1699.
+184,fahrrad-xxl,de,2022,Orbea,Occam M30 LT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-m30-lt-m000041237,3869.99,4299.
+185,fahrrad-xxl,de,2022,Cube,"Analog - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-analog-m000041888,849.,
+186,fahrrad-xxl,de,2022,Orbea,Oiz M20 TR - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-m20-tr-m000041248,3959.99,4399.
+187,fahrrad-xxl,de,2022,Giant,Trance X 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-trance-x-2-m000020424,2929.99,3299.
+188,fahrrad-xxl,de,2023,Focus,Thron 6.9 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 48 CM",https://www.fahrrad-xxl.de/focus-thron-6-9-m000044382,2699.99,2999.
+189,fahrrad-xxl,de,2022,BH Bikes,Lynx Race Evo Carbon 8.0 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"MD, LA",https://www.fahrrad-xxl.de/bh-bikes-lynx-race-evo-carbon-8-0-m000055757,3479.99,4399.90
+190,fahrrad-xxl,de,2022,Lapierre,Spicy CF 6.9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"43 CM, 46 CM",https://www.fahrrad-xxl.de/lapierre-spicy-cf-6-9-m000049592,3759.99,4599.
+191,fahrrad-xxl,de,2022,Orbea,Laufey H LTD - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-laufey-h-ltd-m000041216,2069.99,2299.
+192,fahrrad-xxl,de,2023,Trek,Top Fuel 5 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-top-fuel-5-m000061205,2599.99,2999.
+193,fahrrad-xxl,de,2022,Orbea,"Onna 27 XS Junior 40 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-onna-27-xs-junior-40-m000041258,749.,
+194,fahrrad-xxl,de,2023,Specialized,Rockhopper Elite 29 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/specialized-rockhopper-elite-29-m000046808,1150.,1200.
+195,fahrrad-xxl,de,2022,BMC,Fourstroke 01 LT Two - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-fourstroke-01-lt-two-m000001657,5159.99,6499.
+196,fahrrad-xxl,de,2023,Trek,Roscoe 8 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-roscoe-8-m000045114,2299.99,2449.
+197,fahrrad-xxl,de,2023,Cube,Aim SLX - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-slx-m000065242,799.,
+198,fahrrad-xxl,de,2022,Bianchi,Magma 9.0 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM, 53 CM",https://www.fahrrad-xxl.de/bianchi-magma-9-0-m000043815,769.99,966.
+199,fahrrad-xxl,de,2022,Scott,"Aspect 760 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/scott-aspect-760-m000042997,559.99,699.
+200,fahrrad-xxl,de,2022,Cannondale,Trail SL 3 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-women-s-sl-3-p00061117m001,1119.99,1399.
+201,fahrrad-xxl,de,2022,Bergamont,Revox 8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, XL",https://www.fahrrad-xxl.de/bergamont-revox-8-m000046248,1149.99,1399.
+202,fahrrad-xxl,de,2022,Orbea,Alma H20 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-h20-m000041173,1259.99,1399.
+203,fahrrad-xxl,de,2023,Giant,ARX 26 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/giant-arx-26-m000020290,549.,
+204,fahrrad-xxl,de,2023,BMC,Twostroke 01 Five - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-01-five-m000001695,2199.,
+205,fahrrad-xxl,de,2023,BMC,Twostroke AL Three - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/bmc-twostroke-al-three-m000001708,1599.,
+206,fahrrad-xxl,de,2021,Giant,Trance 2 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-trance-2-p00058941m001,2499.99,2799.
+207,fahrrad-xxl,de,2022,Orbea,Oiz H20 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-oiz-h20-m000041240,2699.99,2999.
+208,fahrrad-xxl,de,2022,Specialized,Stumpjumper Expert - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S4",https://www.fahrrad-xxl.de/specialized-stumpjumper-expert-m000046832,5839.99,6900.
+209,fahrrad-xxl,de,2022,Orbea,Occam M10 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-m10-m000041235,5039.99,5599.
+210,fahrrad-xxl,de,2022,Specialized,"Rockhopper Comp 27.5 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/specialized-rockhopper-comp-27-5-m000046806,659.99,825.
+211,fahrrad-xxl,de,2022,Cube,"Access WS - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-m000041852,549.,
+212,fahrrad-xxl,de,2022,KTM,"Chicago 272 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ktm-chicago-272-m000041530,559.99,699.
+213,fahrrad-xxl,de,2022,Merida,Big.Nine 400 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-big-nine-400-m000050938,1019.99,1249.
+214,fahrrad-xxl,de,2022,Cube,Access WS - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-m000041853,549.,
+215,fahrrad-xxl,de,2022,KTM,Chicago 291 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ktm-chicago-291-m000041531,599.99,749.
+216,fahrrad-xxl,de,2023,Ghost,"Riot Youth Pro - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/ghost-riot-youth-pro-al-u-m000047302,1999.,
+217,fahrrad-xxl,de,2023,Trek,Marlin 4 Gen 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-marlin-4-gen-2-m000061144,569.,
+218,fahrrad-xxl,de,2022,Ghost,Riot Trail Essential AL - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ghost-riot-trail-essential-al-m000047301,2659.99,2999.
+219,fahrrad-xxl,de,2023,Cube,Attention - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-attention-m000065259,999.,
+220,fahrrad-xxl,de,2023,Trek,Fuel EX 5 Deore Gen 5 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-fuel-ex-5-m000045040,2799.,
+221,fahrrad-xxl,de,2022,Orbea,Alma M25 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-m25-m000041179,2699.99,2999.
+222,fahrrad-xxl,de,2022,Lapierre,Edge 7.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"40 CM, 44 CM, 48 CM",https://www.fahrrad-xxl.de/lapierre-edge-7-9-p00060643m001,699.99,899.
+223,fahrrad-xxl,de,2022,Focus,Whistler 3.8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"38 CM, 42 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/focus-whistler-3-8-m000046944,699.99,869.
+224,fahrrad-xxl,de,2023,Focus,Jam 8.8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 47 CM",https://www.fahrrad-xxl.de/focus-jam-8-8-m000046923,3299.99,3899.
+225,fahrrad-xxl,de,2023,Trek,Procaliber 9.6 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L",https://www.fahrrad-xxl.de/trek-procaliber-9-6-m000061179,2499.99,2749.
+226,fahrrad-xxl,de,2022,Bianchi,Magma 9.2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"38 CM, 43 CM, 48 CM",https://www.fahrrad-xxl.de/bianchi-magma-9-2-m000043816,549.99,691.
+227,fahrrad-xxl,de,2022,Cube,Access WS Race - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-race-m000041849,949.,
+228,fahrrad-xxl,de,2022,Trek,Slash 9.8 GX - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-slash-9-8-gx-m000045121,5959.99,7199.
+229,fahrrad-xxl,de,2023,Eightshot,"X-Coady 275 SL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,36 CM,https://www.fahrrad-xxl.de/eightshot-x-coady-275-sl-m000058584,539.99,
+230,fahrrad-xxl,de,2023,Cube,Analog - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-analog-m000065249,899.,
+231,fahrrad-xxl,de,2023,Focus,Thron 6.8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 48 CM",https://www.fahrrad-xxl.de/focus-thron-6-8-m000044381,2499.,
+232,fahrrad-xxl,de,2023,Trek,Marlin 6 Gen 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-marlin-6-gen-3-m000061146,819.,
+233,fahrrad-xxl,de,2022,Giant,"Fathom 1 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-fathom-1-27-5-m000020335,1489.99,1699.
+234,fahrrad-xxl,de,2023,Cube,"Access WS Pro - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-pro-m000065189,799.,
+235,fahrrad-xxl,de,2021,Ghost,Lector FS SF LC U Essential - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-fs-sf-lc-u-essential-p00057590m001,3299.99,3699.
+236,fahrrad-xxl,de,2023,Trek,X-Caliber 8 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-x-caliber-8-m000061218,1499.,
+237,fahrrad-xxl,de,2023,Trek,Marlin 5 Gen 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-5-p00063170m003,669.,
+238,fahrrad-xxl,de,2023,Cube,"Access WS - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-m000065195,599.,
+239,fahrrad-xxl,de,2022,Giant,XtC Advanced 3 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/giant-xtc-advanced-3-m000020438,1899.99,2299.
+240,fahrrad-xxl,de,2023,Trek,Marlin 5 Gen 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-marlin-5-p00063170m003,669.,
+241,fahrrad-xxl,de,2023,Giant,XtC SLR 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-xtc-slr-2-m000020441,1399.,
+242,fahrrad-xxl,de,2022,Orbea,Occam M10 LT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-m10-lt-m000041234,5399.99,5999.
+243,fahrrad-xxl,de,2022,Scott,Contessa Scale 930 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/scott-contessa-scale-930-m000043053,1159.99,1399.
+244,fahrrad-xxl,de,2021,Orbea,MX 29 50 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-mx-29-50-p00057457m001,489.99,549.
+245,fahrrad-xxl,de,2023,Ghost,Lector SF - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ghost-lector-sf-lc-m000047271,2799.,
+246,fahrrad-xxl,de,2021,Ghost,Riot Enduro AL Full Party - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/ghost-riot-enduro-al-full-party-p00057571m002,3329.99,3699.
+247,fahrrad-xxl,de,2022,KTM,Ultra Gloriette 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ktm-ultra-gloriette-29-m000041737,679.99,849.
+248,fahrrad-xxl,de,2022,Bianchi,Magma 9.S - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"38 CM, 43 CM",https://www.fahrrad-xxl.de/bianchi-magma-9-s-m000043817,999.99,1128.
+249,fahrrad-xxl,de,2023,Cube,Aim Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-aim-pro-m000065234,629.,
+250,fahrrad-xxl,de,2023,Ghost,Lector SF Universal - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-sf-lc-universal-m000047270,3799.,
+251,fahrrad-xxl,de,2022,Focus,Raven 8.8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"42 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/focus-raven-8-8-m000044379,3099.,
+252,fahrrad-xxl,de,2022,Bergamont,Revox 7 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/bergamont-revox-7-m000046247,889.99,1099.
+253,fahrrad-xxl,de,2022,Lapierre,"Edge 2.7 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"36 CM, 44 CM",https://www.fahrrad-xxl.de/lapierre-edge-2-7-p00060633m001,469.99,589.
+254,fahrrad-xxl,de,2021,Orbea,MX 29 20 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-mx-29-20-p00057462m001,699.99,849.
+255,fahrrad-xxl,de,2023,Giant,Trance X 2 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-trance-x-2-m000066201,2999.99,3299.
+256,fahrrad-xxl,de,2023,Ghost,Lector SF Essential - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-sf-lc-essential-m000047269,2999.,
+257,fahrrad-xxl,de,2022,Lapierre,Zesty TR 4.9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 43 CM",https://www.fahrrad-xxl.de/lapierre-zesty-tr-4-9-p00060624m001,2249.99,2699.
+258,fahrrad-xxl,de,2023,Ghost,Kato FS Universal - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-fs-universal-m000047244,2199.,
+259,fahrrad-xxl,de,2022,NS Bikes,Zircus 26 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/zircus-26-m000030153,699.99,879.
+260,fahrrad-xxl,de,2022,Scott,Contessa Spark 930 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/scott-contessa-spark-930-m000043057,2419.99,2899.
+261,fahrrad-xxl,de,2023,Cube,Access WS SLX - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-slx-m000065194,1199.,
+262,fahrrad-xxl,de,2023,Ghost,Kato Essential 29 AL - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-essential-29-al-m000047239,729.,
+263,fahrrad-xxl,de,2022,Merida,Big.Nine 60 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-big-nine-60-m000050940,669.99,899.
+264,fahrrad-xxl,de,2022,Bergamont,Revox 2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-2-m000046225,499.99,629.
+265,fahrrad-xxl,de,2023,Raymon,HardRay Nine 6.5 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM, 52 CM",https://www.fahrrad-xxl.de/raymon-hardray-nine-6-5-p00059409m001,1549.,
+266,fahrrad-xxl,de,2022,Orbea,Occam H10 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h10-m000041229,3239.99,3599.
+267,fahrrad-xxl,de,2022,Lapierre,"Edge 2.7 W - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"36 CM, 40 CM, 44 CM",https://www.fahrrad-xxl.de/lapierre-edge-2-7-w-p00060631m001,469.99,589.
+268,fahrrad-xxl,de,2023,Trek,Marlin 8 Gen 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L",https://www.fahrrad-xxl.de/trek-marlin-8-gen-3-m000061151,1329.,
+269,fahrrad-xxl,de,2022,Orbea,"Onna 27 XS Junior 50 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-onna-27-xs-junior-50-m000041259,569.99,629.
+270,fahrrad-xxl,de,2023,Giant,Talon 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL, XXL",https://www.fahrrad-xxl.de/giant-talon-3-m000020391,ab,
+271,fahrrad-xxl,de,2022,Trek,"Marlin 8 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-8-p00063169m002,879.99,1024.
+272,fahrrad-xxl,de,2022,BMC,Speedfox One - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/bmc-speedfox-one-m000001673,3359.99,3999.
+273,fahrrad-xxl,de,2022,Giant,Trance X 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-trance-x-1-m000020423,3559.99,3999.
+274,fahrrad-xxl,de,2023,Trek,Supercaliber 9.6 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, XL",https://www.fahrrad-xxl.de/trek-supercaliber-9-6-m000061199,4099.99,4299.
+275,fahrrad-xxl,de,2022,Trek,Fuel EX 9.7 SLX/XT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, L",https://www.fahrrad-xxl.de/trek-fuel-ex-9-7-slx-xt-m000045046,4149.99,4599.
+276,fahrrad-xxl,de,2023,Cube,Access WS - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-m000065196,599.,
+277,fahrrad-xxl,de,2023,Giant,Trance 1 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-trance-1-m000020417,3399.,
+278,fahrrad-xxl,de,2022,Ghost,"Riot EN AL Essential - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-riot-en-al-essential-m000047290,2659.99,2999.
+279,fahrrad-xxl,de,2021,Ghost,"Kato Pro 27.5 AL U - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ghost-kato-pro-27-5-al-u-p00057620m001,679.99,849.
+280,fahrrad-xxl,de,2023,Marin,"Rift Zone 2 27.5 - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/marin-rift-zone-2-27-5-m000055885,2599.,
+281,fahrrad-xxl,de,2022,Lapierre,Zesty AM CF 7.9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"43 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/lapierre-zesty-am-cf-7-9-m000049607,3479.99,4399.
+282,fahrrad-xxl,de,2022,Orbea,Alma H10 Eagle - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-h10-eagle-m000041172,1349.99,1499.
+283,fahrrad-xxl,de,2023,BMC,Twostroke AL Five - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-five-m000001704,1099.99,1199.
+284,fahrrad-xxl,de,2022,Giant,Reign SX - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-reign-sx-m000020355,3999.99,4599.
+285,fahrrad-xxl,de,2023,BMC,Twostroke 01 Two - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-01-two-m000060926,4999.,
+286,fahrrad-xxl,de,2022,BH Bikes,Lynx Race Carbon RC 6.0 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"MD, LA",https://www.fahrrad-xxl.de/bh-bikes-lynx-race-carbon-rc-6-0-m000055750,2959.99,3299.90
+287,fahrrad-xxl,de,2022,Orbea,Occam H20 Eagle - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h20-eagle-m000041230,2969.99,3299.
+288,fahrrad-xxl,de,2021,Orbea,"MX 27 ENT 50 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/orbea-mx-27-ent-50-p00057464m001,479.99,549.
+289,fahrrad-xxl,de,2023,Eightshot,"X-Coady 275 FS - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,36 CM,https://www.fahrrad-xxl.de/eightshot-x-coady-275-fs-m000058581,589.99,
+290,fahrrad-xxl,de,2022,Cube,"Attention - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-attention-m000041898,949.,
+291,fahrrad-xxl,de,2022,Specialized,Stumpjumper Evo S-Works - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-evo-s-works-m000046831,10519.99,13200.
+292,fahrrad-xxl,de,2022,Lapierre,Prorace CF 5.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 47 CM, 51 CM",https://www.fahrrad-xxl.de/lapierre-prorace-cf-5-9-m000049577,1799.99,1999.
+293,fahrrad-xxl,de,2022,Lapierre,Prorace CF 6.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 47 CM, 51 CM",https://www.fahrrad-xxl.de/lapierre-prorace-cf-6-9-m000049578,2429.99,2699.
+294,fahrrad-xxl,de,2022,Orbea,Occam M30 Eagle - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-m30-eagle-m000041236,3599.99,3999.
+295,fahrrad-xxl,de,2023,Cube,"Reaction Pro - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-pro-m000065483,1399.,
+296,fahrrad-xxl,de,2023,Cube,"Access WS EAZ - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-eaz-m000065183,629.,
+297,fahrrad-xxl,de,2021,Ghost,"Kato Advanced 27.5 AL U - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-advanced-27-5-al-u-p00057621m001,599.99,749.
+298,fahrrad-xxl,de,2022,Centurion,"Backfire Fit Comp 50.27 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS (38), S (43)",https://www.fahrrad-xxl.de/centurion-backfire-fit-comp-50-p00060195m002,499.99,699.
+299,fahrrad-xxl,de,2022,Cannondale,Trail SL 2 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-sl-2-p00061106m001,1359.99,1649.
+300,fahrrad-xxl,de,2022,Trek,Slash 9.8 GX AXS - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-slash-9-8-gx-axs-m000045120,6279.99,7899.
+301,fahrrad-xxl,de,2022,Orbea,Alma H10 Eagle - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-alma-h10-eagle-m000041172,1349.99,1499.
+302,fahrrad-xxl,de,2022,Scott,"Aspect 740 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/scott-aspect-740-m000042994,679.99,849.
+303,fahrrad-xxl,de,2022,KTM,"Penny Lane 272 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ktm-penny-lane-272-m000041708,559.99,699.
+304,fahrrad-xxl,de,2022,Merida,Big.Nine 300 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-big-nine-300-m000050936,839.99,1049.
+305,fahrrad-xxl,de,2021,Merida,Big.Nine 60-2x - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-big-nine-60-2x-p00060426m001,599.99,749.
+306,fahrrad-xxl,de,2023,Cube,Access WS Race - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-race-m000065192,999.,
+307,fahrrad-xxl,de,2023,Giant,Stance 1 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-stance-1-m000020371,2499.,
+308,fahrrad-xxl,de,2022,Orbea,Occam H20 Eagle - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h20-eagle-m000041230,2969.99,3299.
+309,fahrrad-xxl,de,2022,Trek,"Remedy 9.8 GX - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,"ML, L, XL",https://www.fahrrad-xxl.de/trek-remedy-9-8-gx-m000045110,5079.99,6399.
+310,fahrrad-xxl,de,2022,Merida,"Matts 7.80 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S (15), M (17), L (18.5)",https://www.fahrrad-xxl.de/merida-matts-7-80-p00060390m001,749.99,999.
+311,fahrrad-xxl,de,2023,Marin,Rift Zone 1 29 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/marin-rift-zone-1-29-m000055884,2599.,
+312,fahrrad-xxl,de,2022,Scott,"Aspect 750 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/scott-aspect-750-m000042995,619.99,779.
+313,fahrrad-xxl,de,2022,Scott,"Aspect 760 EQ - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/scott-aspect-760-eq-m000042996,599.99,749.
+314,fahrrad-xxl,de,2023,Ghost,"Kato FS Essential - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-kato-fs-essential-m000047241,1999.,
+315,fahrrad-xxl,de,2022,Bergamont,Revox 4 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-4-m000046243,599.99,749.
+316,fahrrad-xxl,de,2023,Cube,"Aim - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-m000064165,599.,
+317,fahrrad-xxl,de,2023,Giant,Talon 4 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/giant-talon-4-m000020395,599.,
+318,fahrrad-xxl,de,2021,Cannondale,Trail 7 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"MD, LG",https://www.fahrrad-xxl.de/cannondale-trail-7-p00061060m001,559.99,699.
+319,fahrrad-xxl,de,2021,Trek,Top Fuel 9.7 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, L",https://www.fahrrad-xxl.de/trek-top-fuel-9-7-p00057922m001,3999.99,4499.
+320,fahrrad-xxl,de,2022,Bergamont,Revox 5 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-5-m000046245,679.99,849.
+321,fahrrad-xxl,de,2023,Raymon,"HardRay Seven 3.0 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 42 CM, 46 CM",https://www.fahrrad-xxl.de/raymon-hardray-seven-3-0-p00059396m001,579.99,729.
+322,fahrrad-xxl,de,2022,Cube,"Aim SL - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-sl-m000041879,749.,
+323,fahrrad-xxl,de,2023,Giant,XtC SLR 1 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/giant-xtc-slr-1-m000020440,1799.,
+324,fahrrad-xxl,de,2023,Raymon,"SevenRay 1.0 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"38 CM, 46 CM, 420 CM",https://www.fahrrad-xxl.de/raymon-sevenray-1-0-m000019208,419.99,529.
+325,fahrrad-xxl,de,2023,Cube,"Aim EX - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-ex-m000065231,749.,
+326,fahrrad-xxl,de,2023,Trek,"Roscoe 6 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-roscoe-6-p00056962m001,1249.,
+327,fahrrad-xxl,de,2023,Cube,Aim - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL, 22 ZOLL",https://www.fahrrad-xxl.de/cube-aim-m000064166,599.,
+328,fahrrad-xxl,de,2022,Scott,Aspect 950 EQ - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/scott-aspect-950-eq-m000043003,659.99,829.
+329,fahrrad-xxl,de,2022,KTM,"Chicago 271 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/ktm-chicago-271-m000041529,599.99,749.
+330,fahrrad-xxl,de,2023,Liv,Embolden 2 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/liv-embolden-2-m000020789,1999.99,2199.
+331,fahrrad-xxl,de,2023,Giant,Talon 3+ - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL, XXL",https://www.fahrrad-xxl.de/giant-talon-3-m000020393,799.,
+332,fahrrad-xxl,de,2023,BMC,Twostroke AL Six - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-six-m000001707,999.,
+333,fahrrad-xxl,de,2022,Bergamont,Revox 3 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-3-m000046239,559.99,699.
+334,fahrrad-xxl,de,2021,NS Bikes,Clash - 2021 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-clash-p00057258m001,689.99,859.
+335,fahrrad-xxl,de,2023,Cube,"Attention - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-attention-m000065258,999.,
+336,fahrrad-xxl,de,2023,Cube,Access WS EAZ - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-eaz-m000065184,629.,
+337,fahrrad-xxl,de,2023,Ghost,Riot EN AL Full Party - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-en-al-full-party-m000047293,4699.,
+338,fahrrad-xxl,de,2022,Scott,"Contessa Active 40 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/scott-contessa-active-40-m000043030,619.99,779.
+339,fahrrad-xxl,de,2023,Giant,Talon 1 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"XL, XXL",https://www.fahrrad-xxl.de/giant-talon-1-m000020387,999.,
+340,fahrrad-xxl,de,2022,NS Bikes,Movement 3 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/movement-3-m000030141,739.99,919.
+341,fahrrad-xxl,de,2023,Cube,"Aim Pro - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-pro-m000065233,629.,
+342,fahrrad-xxl,de,2023,Cube,"Aim Race - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-race-m000065237,679.,
+343,fahrrad-xxl,de,2022,Cannondale,Trail 5 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-women-s-5-p00061102m002,799.99,999.
+344,fahrrad-xxl,de,2023,Liv,"Embolden 2 - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/liv-embolden-2-m000020788,2199.,
+345,fahrrad-xxl,de,2023,Giant,Talon 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-talon-2-m000020389,899.,
+346,fahrrad-xxl,de,2022,Orbea,Onna 29 50 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-onna-29-50-m000041264,569.99,629.
+347,fahrrad-xxl,de,2023,Focus,Whistler 3.9 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"42 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/focus-whistler-3-9-m000060975,999.99,1149.
+348,fahrrad-xxl,de,2023,Trek,"X-Caliber 9 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-x-caliber-9-m000061219,1799.,
+349,fahrrad-xxl,de,2022,Cannondale,Trail 8 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-women-s-8-p00061074m001,559.99,699.
+350,fahrrad-xxl,de,2023,Ghost,"Kato 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-27-5-al-m000047232,629.,
+351,fahrrad-xxl,de,2023,Giant,Talon 0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/giant-talon-0-m000020385,1099.,
+352,fahrrad-xxl,de,2022,Cube,Access WS Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-pro-m000041847,749.,
+353,fahrrad-xxl,de,2022,Giant,Reign Advanced Pro 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-reign-advanced-pro-1-m000020349,6799.99,7599.
+354,fahrrad-xxl,de,2023,BMC,Twostroke AL One - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-one-m000001706,1699.99,1999.
+355,fahrrad-xxl,de,2022,NS Bikes,Eccentric Cromo 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/eccentric-cromo-29-m000030123,1999.99,2299.
+356,fahrrad-xxl,de,2023,Ghost,Nirvana 4X - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ghost-nirvana-4x-m000047272,1499.,
+357,fahrrad-xxl,de,2022,NS Bikes,Define AL 130 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/define-al-130-2-m000030114,2999.99,3499.
+358,fahrrad-xxl,de,2022,Rocky Mountain,Reaper 26 - 2022 - 26 Zoll - Fully,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/rocky-mountain-reaper-26-m000056305,2900.,
+359,fahrrad-xxl,de,2022,Scott,"Scale 700 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/scott-scale-700-m000043112,1149.99,1399.
+360,fahrrad-xxl,de,2022,Cube,"Access WS EXC - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-exc-m000041842,649.,
+361,fahrrad-xxl,de,2022,Orbea,"Onna 27 50 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/orbea-onna-27-50-m000041254,569.99,629.
+362,fahrrad-xxl,de,2023,Ghost,Kato Pro 29 AL - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-pro-29-al-m000062883,1049.,
+363,fahrrad-xxl,de,2023,Orbea,Occam H30 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-occam-h30-m000061847,2799.,
+364,fahrrad-xxl,de,2022,Orbea,Onna 29 10 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-onna-29-10-m000041260,989.99,1099.
+365,fahrrad-xxl,de,2022,Specialized,"Rockhopper Sport 27.5 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/specialized-rockhopper-sport-27-5-m000046810,579.99,725.
+366,fahrrad-xxl,de,2021,Orbea,MX 29 ENT 50 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/orbea-mx-29-ent-50-p00057467m001,479.99,549.
+367,fahrrad-xxl,de,2022,Scott,Voltage YZ 0.1 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/scott-voltage-yz-0-1-p00058463m001,1319.99,1599.
+368,fahrrad-xxl,de,2023,Cube,"Analog - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-analog-m000065248,899.,
+369,fahrrad-xxl,de,2023,Marin,"Rift Zone 1 27.5 - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"XS, M, L",https://www.fahrrad-xxl.de/marin-rift-zone-1-27-5-m000055882,1999.,
+370,fahrrad-xxl,de,2022,Cannondale,Dave - 2022 - 26 Zoll - Dirt,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/cannondale-dave-dirt-jump-p00061049m001,1059.99,1299.
+371,fahrrad-xxl,de,2022,Cube,Access WS EXC - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-exc-m000041843,649.,
+372,fahrrad-xxl,de,2022,Giant,Reign Advanced Pro 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-reign-advanced-pro-2-m000020350,4639.99,5199.
+373,fahrrad-xxl,de,2022,Giant,Trance Advanced Pro 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-trance-advanced-pro-2-m000020421,4459.99,4999.
+374,fahrrad-xxl,de,2023,Trek,Top Fuel 7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/trek-top-fuel-7-m000061206,3599.,3799.
+375,fahrrad-xxl,de,2022,Scott,"Contessa Active 50 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/scott-contessa-active-50-m000043034,559.99,699.
+376,fahrrad-xxl,de,2022,Scott,Contessa Scale 940 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-scale-940-m000043054,1149.99,1299.
+377,fahrrad-xxl,de,2023,Giant,Trance 2 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-trance-2-m000020418,2899.,
+378,fahrrad-xxl,de,2023,Trek,"Marlin 4 Gen 2 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-4-gen-2-m000061142,569.,
+379,fahrrad-xxl,de,2021,Ghost,Lector FS SF LC U Universal - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ghost-lector-fs-sf-lc-u-universal-p00057589m001,3999.99,4499.
+380,fahrrad-xxl,de,2022,Lapierre,Edge 2.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"44 CM, 48 CM",https://www.fahrrad-xxl.de/lapierre-edge-2-9-m000049523,469.99,589.
+381,fahrrad-xxl,de,2023,Ghost,"Lanao Pro 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-pro-27-5-al-m000047261,1049.,
+382,fahrrad-xxl,de,2021,Cannondale,Scalpel Carbon SE 2 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"MD, LG, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-carbon-se-2-m000010158,3999.99,4499.
+383,fahrrad-xxl,de,2023,Ghost,Nirvana Tour - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-m000047278,1399.,
+384,fahrrad-xxl,de,2023,Marin,"Bolinas Ridge 2 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/marin-bolinas-ridge-2-m000055848,719.,
+385,fahrrad-xxl,de,2021,Cannondale,Trail Women's 6 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"MD, LG",https://www.fahrrad-xxl.de/cannondale-trail-women-s-6-p00061091m001,639.99,799.
+386,fahrrad-xxl,de,2023,Marin,"Bolinas Ridge 1 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/marin-bolinas-ridge-1-m000055846,599.,
+387,fahrrad-xxl,de,2023,Liv,"Tempt 2 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/liv-tempt-2-m000020829,899.,
+388,fahrrad-xxl,de,2023,Focus,"Whistler 3.9 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"34 CM, 38 CM",https://www.fahrrad-xxl.de/focus-whistler-3-9-m000046945,999.99,1149.
+389,fahrrad-xxl,de,2022,Orbea,Onna 29 30 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-onna-29-30-m000041262,759.99,849.
+390,fahrrad-xxl,de,2023,Liv,Tempt 3+ - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/liv-tempt-3-m000020834,799.,
+391,fahrrad-xxl,de,2023,Giant,"Talon 0 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-talon-0-m000020384,1099.,
+392,fahrrad-xxl,de,2022,Lapierre,"Edge 3.7 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"36 CM, 40 CM, 44 CM",https://www.fahrrad-xxl.de/lapierre-edge-3-7-p00060630m001,539.99,669.
+393,fahrrad-xxl,de,2023,Marin,Bobcat Trail 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/marin-bobcat-trail-3-m000055841,799.,
+394,fahrrad-xxl,de,2022,Bergamont,"Revox 3 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS7,https://www.fahrrad-xxl.de/bergamont-revox-3-m000046238,559.99,699.
+395,fahrrad-xxl,de,2022,Bergamont,Revox 4 FMN - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XL9,https://www.fahrrad-xxl.de/bergamont-revox-4-fmn-m000046241,599.99,749.
+396,fahrrad-xxl,de,2022,Cannondale,Trail - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/cannondale-kids-trail-26-m000010109,549.99,689.
+397,fahrrad-xxl,de,2023,Giant,ATX - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"XXS, XS, S",https://www.fahrrad-xxl.de/giant-atx-26-m000020291,529.,
+398,fahrrad-xxl,de,2022,Orbea,"Onna 27 10 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/orbea-onna-27-10-m000041250,989.99,1099.
+399,fahrrad-xxl,de,2023,Liv,"Tempt 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/liv-tempt-3-m000020831,679.,
+400,fahrrad-xxl,de,2023,Focus,"Whistler 3.7 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"34 CM, 38 CM",https://www.fahrrad-xxl.de/focus-whistler-3-7-m000046941,849.,
+401,fahrrad-xxl,de,2022,Lapierre,"Edge 3.7 W - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"36 CM, 40 CM, 44 CM",https://www.fahrrad-xxl.de/lapierre-edge-3-7-w-p00060648m001,499.99,669.
+402,fahrrad-xxl,de,2023,Giant,"Talon 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/giant-talon-3-27-5-m000020390,679.,
+403,fahrrad-xxl,de,2021,Orbea,MX 29 30 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-mx-29-30-p00057461m001,649.99,749.
+404,fahrrad-xxl,de,2023,Marin,"Wildcat Trail 3 WFG - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/marin-wildcat-trail-3-wfg-m000055906,799.,
+405,fahrrad-xxl,de,2022,BH Bikes,Ultimate Evo 8.0 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"MD, LA, XL",https://www.fahrrad-xxl.de/bh-bikes-ultimate-evo-8-0-m000055797,3299.99,3599.90
+406,fahrrad-xxl,de,2021,Cannondale,"Trail Women's 6 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, SM",https://www.fahrrad-xxl.de/cannondale-trail-women-s-6-p00061091m002,639.99,799.
+407,fahrrad-xxl,de,2022,Cube,"Access WS Race - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-race-m000041848,949.,
+408,fahrrad-xxl,de,2021,Cannondale,Trail 6 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/cannondale-trail-6-p00061069m002,639.99,799.
+409,fahrrad-xxl,de,2022,Bergamont,Revox St. Pauli - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-st-pauli-m000046257,619.99,779.
+410,fahrrad-xxl,de,2022,Orbea,"Onna 27 XS Junior 20 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-onna-27-xs-junior-20-m000041256,899.99,999.
+411,fahrrad-xxl,de,2022,Cannondale,"Trail 6 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/cannondale-trail-6-m000048510,719.99,899.
+412,fahrrad-xxl,de,2022,Merida,"Matts 7.60 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M (17), L (18.5)",https://www.fahrrad-xxl.de/merida-matts-7-60-3x-p00060393m001,669.99,899.
+413,fahrrad-xxl,de,2022,Scott,Contessa Active 40 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-40-m000043031,619.99,779.
+414,fahrrad-xxl,de,2022,Orbea,Onna 29 20 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-onna-29-20-m000041261,899.99,999.
+415,fahrrad-xxl,de,2022,Cannondale,Trail 7 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-7-m000048513,639.99,799.
+416,fahrrad-xxl,de,2022,Lapierre,XR 6.9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"43 CM, 47 CM, 51 CM",https://www.fahrrad-xxl.de/lapierre-xr-6-9-m000049602,3699.99,4099.
+417,fahrrad-xxl,de,2021,Orbea,"MX 27 40 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/orbea-mx-27-40-p00057453m001,549.99,649.
+418,fahrrad-xxl,de,2023,Marin,Bolinas Ridge 1 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/marin-bolinas-ridge-1-m000055847,599.,
+419,fahrrad-xxl,de,2023,Focus,"Whistler 3.6 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"34 CM, 38 CM",https://www.fahrrad-xxl.de/focus-whistler-3-6-m000046939,749.,
+420,fahrrad-xxl,de,2022,Bergamont,"Revox St. Pauli - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS7,https://www.fahrrad-xxl.de/bergamont-revox-st-pauli-m000046256,779.,
+421,fahrrad-xxl,de,2022,Merida,Big.Nine SLX-Edition - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"L (18.5), XL (20), XXL (22)",https://www.fahrrad-xxl.de/merida-big-nine-slx-edition-p00060419m001,1449.,
+422,fahrrad-xxl,de,2021,Orbea,MX 29 40 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/orbea-mx-29-40-p00057459m001,579.99,649.
+423,fahrrad-xxl,de,2022,Orbea,Onna 29 40 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/orbea-onna-29-40-m000041263,669.99,749.
+424,fahrrad-xxl,de,2022,Orbea,"Onna 27 20 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/orbea-onna-27-20-m000041251,899.99,999.
+425,fahrrad-xxl,de,2022,Scott,Contessa Active 50 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-50-m000043035,559.99,699.
+426,fahrrad-xxl,de,2023,Ghost,"Kato Essential 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-essential-27-5-al-m000047238,729.,
+427,fahrrad-xxl,de,2023,Ghost,"Lanao 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-27-5-al-m000047256,629.,
+428,fahrrad-xxl,de,2023,Cube,"Aim SLX - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-slx-m000065241,799.,
+429,fahrrad-xxl,de,2023,Cube,"Acid - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-acid-m000065216,1199.,
+430,fahrrad-xxl,de,2023,Giant,"ATX - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/giant-atx-27-5-m000020292,529.,
+431,fahrrad-xxl,de,2022,Cannondale,Trail 6 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-trail-6-m000048511,719.99,899.
+432,fahrrad-xxl,de,2022,Scott,"Contessa Active 50 EQ - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/scott-contessa-active-50-eq-m000043032,599.99,749.
+433,fahrrad-xxl,de,2023,Ghost,"Kato Pro 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-pro-27-5-al-m000062882,1049.,
+434,fahrrad-xxl,de,2023,Liv,Tempt 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/liv-tempt-3-m000020832,679.,
+435,fahrrad-xxl,de,2022,Orbea,"Onna 27 40 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/orbea-onna-27-40-m000041253,669.99,749.
+436,fahrrad-xxl,de,2023,Ghost,Kato Advanced 29 AL - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-advanced-29-al-m000062881,949.,
+437,fahrrad-xxl,de,2023,Ghost,Riot Trail AL - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/ghost-riot-trail-al-m000062904,2699.,
+438,fahrrad-xxl,de,2023,Cube,"Access WS Race - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-race-m000065191,999.,
+439,fahrrad-xxl,de,2023,Focus,Whistler 3.7 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"42 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/focus-whistler-3-7-m000060974,849.,
+440,fahrrad-xxl,de,2023,Trek,Top Fuel 9.7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML",https://www.fahrrad-xxl.de/trek-top-fuel-9-7-m000061209,4999.99,5499.
+441,fahrrad-xxl,de,2022,Orbea,"Onna 27 30 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/orbea-onna-27-30-m000041252,749.99,849.
+442,fahrrad-xxl,de,2022,Scott,"Contessa Active 30 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/scott-contessa-active-30-m000043028,679.99,849.
+443,fahrrad-xxl,de,2023,Cube,Access WS Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-pro-m000065190,799.,
+444,fahrrad-xxl,de,2023,Cube,Reaction C:62 ONE - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-c-62-one-m000065418,1599.,
+445,fahrrad-xxl,de,2023,Marin,Bolinas Ridge 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/marin-bolinas-ridge-2-m000055849,719.,
+446,fahrrad-xxl,de,2023,Bianchi,Magma 9.2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"38 CM, 48 CM, 53 CM",https://www.fahrrad-xxl.de/bianchi-magma-9-2-m000060244,849.,
+447,fahrrad-xxl,de,2023,BMC,Twostroke AL One - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-one-m000060931,2299.,
+448,fahrrad-xxl,de,2023,Trek,Slash 7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, L, XL",https://www.fahrrad-xxl.de/trek-slash-7-m000061193,3799.,
+449,fahrrad-xxl,de,2023,Focus,Whistler 3.6 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"42 CM, 46 CM, 50 CM",https://www.fahrrad-xxl.de/focus-whistler-3-6-m000060973,749.,
+450,fahrrad-xxl,de,2022,Lapierre,Edge 3.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"44 CM, 48 CM, 52 CM",https://www.fahrrad-xxl.de/lapierre-edge-3-9-m000049524,539.99,669.
+451,fahrrad-xxl,de,2022,Giant,Trance Advanced Pro 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-trance-advanced-pro-1-m000020420,6079.99,6799.
+452,fahrrad-xxl,de,2022,Cannondale,"Trail 8 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/cannondale-trail-women-s-8-p00061074m002,559.99,699.
+453,fahrrad-xxl,de,2023,Marin,Alpine Trail 7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/marin-alpine-trail-7-m000055832,3199.,
+454,fahrrad-xxl,de,2023,Ghost,"Kato Universal 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-universal-27-5-al-m000047249,829.,
+455,fahrrad-xxl,de,2023,Marin,Bobcat Trail 4 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/marin-bobcat-trail-4-m000055843,899.,
+456,fahrrad-xxl,de,2023,Marin,Alpine Trail C1 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/marin-alpine-trail-c1-m000055833,3999.,
+457,fahrrad-xxl,de,2023,Ghost,"Lanao Universal 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-universal-27-5-al-m000047262,829.,
+458,fahrrad-xxl,de,2022,Ghost,Riot AM AL Universal - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-am-al-universal-m000047289,3019.99,3399.
+459,fahrrad-xxl,de,2022,Bergamont,"Revox 3 FMN - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS7,https://www.fahrrad-xxl.de/bergamont-revox-3-fmn-m000046236,559.99,699.
+460,fahrrad-xxl,de,2023,Ghost,"Kato Advanced 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-advanced-27-5-al-m000062880,949.,
+461,fahrrad-xxl,de,2022,Ghost,Riot Trail AL - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/ghost-riot-trail-al-m000047299,2499.,
+462,fahrrad-xxl,de,2023,Marin,"Wildcat Trail 1 WFG - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M, L",https://www.fahrrad-xxl.de/marin-wildcat-trail-1-wfg-m000055904,599.,
+463,fahrrad-xxl,de,2021,Orbea,MX 29 ENT 40 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/orbea-mx-29-ent-40-p00057468m001,549.99,649.
+464,fahrrad-xxl,de,2021,Orbea,"MX 27 20 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/orbea-mx-27-20-p00057456m001,699.99,849.
+465,fahrrad-xxl,de,2021,Orbea,"MX 27 30 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/orbea-mx-27-30-p00057455m001,649.99,749.
+466,fahrrad-xxl,de,2022,Scott,Contessa Active 50 EQ - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-50-eq-m000043033,599.99,749.
+467,fahrrad-xxl,de,2023,Ghost,"Nirvana Tour Universal - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-universal-m000047275,1799.,
+468,fahrrad-xxl,de,2023,Liv,"Tempt 3+ - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/liv-tempt-3-m000020833,799.,
+469,fahrrad-xxl,de,2023,Marin,"Bobcat Trail 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/marin-bobcat-trail-3-m000055840,799.,
+470,fahrrad-xxl,de,2023,Liv,Tempt 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/liv-tempt-2-m000020830,899.,
+471,fahrrad-xxl,de,2022,Merida,"Matts 7.20 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/merida-matts-7-20-p00060396m001,639.99,799.
+472,fahrrad-xxl,de,2022,BH Bikes,Lynx Trail Carbon 9.5 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"MD, LA, XL",https://www.fahrrad-xxl.de/bh-bikes-lynx-trail-carbon-9-5-m000055768,5999.90,
+473,fahrrad-xxl,de,2022,Ghost,"Lanao Advanced 27.5 AL - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/ghost-lanao-advanced-27-5-al-m000047257,719.99,899.
+474,fahrrad-xxl,de,2022,Orbea,"Onna 27 XS Junior 30 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-onna-27-xs-junior-30-m000041257,759.99,849.
+475,fahrrad-xxl,de,2023,BMC,Twostroke AL Four - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/bmc-twostroke-al-four-m000001705,1399.,
+476,fahrrad-xxl,de,2022,Bergamont,"Revox 4 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S7,https://www.fahrrad-xxl.de/bergamont-revox-4-m000046242,599.99,749.
+477,fahrrad-xxl,de,2023,Ghost,"Kato FS Universal - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-kato-fs-universal-m000047243,2199.,
+478,fahrrad-xxl,de,2023,Trek,"Marlin 5 Gen 2 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-marlin-5-p00063170m002,669.,
+479,fahrrad-xxl,de,2022,Ghost,Lector FS SF LC Essential - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-fs-sf-lc-essential-m000047263,3919.99,4399.
+480,fahrrad-xxl,de,2022,BH Bikes,Lynx Trail Carbon 9.0 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"SM, MD, LA, XL",https://www.fahrrad-xxl.de/bh-bikes-lynx-trail-carbon-9-0-m000055767,4699.90,
+481,fahrrad-xxl,de,2023,Ghost,"Nirvana Tour - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-m000047277,1399.,
+482,fahrrad-xxl,de,2022,Scott,Contessa Active 20 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-20-m000043027,759.99,949.
+483,fahrrad-xxl,de,2022,Ghost,"Kato Advanced 27.5 AL - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-kato-advanced-27-5-al-m000047234,719.99,899.
+484,fahrrad-xxl,de,2023,Ghost,Nirvana Tour Universal - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-universal-m000047276,1799.,
+485,fahrrad-xxl,de,2022,Centurion,Backfire Fit Comp 50.29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M (48),https://www.fahrrad-xxl.de/centurion-backfire-fit-comp-50-p00060195m001,559.99,699.
+486,fahrrad-xxl,de,2021,Orbea,"MX 27 ENT 40 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/orbea-mx-27-ent-40-p00057465m001,549.99,649.
+487,fahrrad-xxl,de,2023,Ghost,"Lanao Essential 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/ghost-lanao-essential-27-5-al-m000047260,729.,
+488,fahrrad-xxl,de,2023,Raymon,NineRay 1.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM",https://www.fahrrad-xxl.de/raymon-nineray-1-0-m000019200,419.99,529.
+489,fahrrad-xxl,de,2022,NS Bikes,Movement 2 - 2022 - 26 Zoll - Dirt,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/movement-2-m000030139,999.99,1129.
+490,fahrrad-xxl,de,2021,Cannondale,Trail SL 4 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"SM, LG, XL",https://www.fahrrad-xxl.de/cannondale-trail-sl-4-p00061089m001,999.99,1099.
+491,fahrrad-xxl,de,2023,Ghost,Kato 29 AL - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-29-al-m000047233,629.,
+492,fahrrad-xxl,de,2022,Focus,"Whistler 3.8 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,34 CM,https://www.fahrrad-xxl.de/focus-whistler-3-8-m000046943,699.99,869.
+493,fahrrad-xxl,de,2023,Ghost,Lector SF Advanced - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-sf-uc-advanced-m000051371,4499.,4799.
+494,fahrrad-xxl,de,2023,Ghost,Lector FS SF Essential - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-lector-fs-sf-essential-m000062885,4699.,
+495,fahrrad-xxl,de,2023,Cube,"Attention SLX - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-attention-slx-m000065256,1099.,
+496,fahrrad-xxl,de,2022,Bergamont,"Revox 4 FMN - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS7,https://www.fahrrad-xxl.de/bergamont-revox-4-fmn-m000046240,599.99,749.
+497,fahrrad-xxl,de,2022,Ghost,Riot AM AL Full Party - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/ghost-riot-am-al-full-party-m000047287,3559.99,3999.
+498,fahrrad-xxl,de,2023,Focus,Jam 8.9 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"39 CM, 42 CM, 45 CM, 47 CM",https://www.fahrrad-xxl.de/focus-jam-8-9-m000046924,4799.,
+499,fahrrad-xxl,de,2022,NS Bikes,Eccentric Alu 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/eccentric-alu-29-m000030122,1989.99,2149.
+500,fahrrad-xxl,de,2023,Cube,Flying Circus - 2023 - 26 Zoll - Dirt,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/cube-flying-circus-m000065300,1099.,
+501,fahrrad-xxl,de,2022,KTM,"Ultra Gloriette 27 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M / 42 CM, L / 47 CM",https://www.fahrrad-xxl.de/ktm-ultra-gloriette-27-m000041736,679.99,849.
+502,fahrrad-xxl,de,2023,Giant,Trance X 1 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/giant-trance-x-1-m000066200,3999.,
+503,fahrrad-xxl,de,2023,Giant,Talon 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/giant-talon-3-m000068173,679.,
+504,fahrrad-xxl,de,2022,Ghost,"Riot AM AL Universal - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-riot-am-al-universal-m000047288,3019.99,3399.
+505,fahrrad-xxl,de,2022,NS Bikes,Metropolis 3 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/metropolis-3-m000030137,699.99,899.
+506,fahrrad-xxl,de,2023,Ghost,Kato Universal 29 AL - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/ghost-kato-universal-29-al-m000047250,829.,
+507,fahrrad-xxl,de,2023,Giant,"Talon 3+ - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S, M",https://www.fahrrad-xxl.de/giant-talon-3-27-5-m000020392,799.,
+508,fahrrad-xxl,de,2022,Bergamont,Revox 3 FMN - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M9,https://www.fahrrad-xxl.de/bergamont-revox-3-fmn-m000046237,559.99,699.
+509,fahrrad-xxl,de,2023,Trek,"X-Caliber 8 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/trek-x-caliber-8-m000061217,1499.,
+510,fahrrad-xxl,de,2022,Cannondale,"Trail 5 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/cannondale-trail-women-s-5-p00061102m001,799.99,999.
+511,fahrrad-xxl,de,2022,Cube,Reaction C:62 One - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"15 ZOLL, 19 ZOLL, 23 ZOLL",https://www.fahrrad-xxl.de/cube-reaction-c-62-one-m000042025,1349.99,1499.
+512,fahrrad-xxl,de,2022,Cube,"Two15 Pro 27.5 - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/cube-two15-pro-p00058217m001,2799.,
+513,fahrrad-xxl,de,2022,Cube,Reaction C:62 Race - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"19 ZOLL, 21 ZOLL, 23 ZOLL",https://www.fahrrad-xxl.de/cube-reaction-c-62-race-m000042027,1979.99,2199.
+514,fahrrad-xxl,de,2021,Cube,Aim Pro - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 19 ZOLL, 21 ZOLL",https://www.fahrrad-xxl.de/cube-aim-pro-p00057661m001,429.99,479.
+515,fahrrad-xxl,de,2022,Cube,Reaction C:62 Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-c-62-pro-m000042026,1709.99,1899.
+516,fahrrad-xxl,de,2022,Cube,"Stereo 140 HPC SL 27.5 - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/cube-stereo-140-hpc-sl-m000042125,2879.99,3199.
+517,fahrrad-xxl,de,2022,Cube,"Stereo 140 HPC Race 27.5 - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-stereo-140-hpc-race-m000042123,2429.99,2699.
+518,fahrrad-xxl,de,2022,Cube,Two15 HPC SL 29 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/cube-two15-hpc-sl-p00058219m001,3509.99,3899.
+519,fahrrad-xxl,de,2022,Cube,Reaction Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-reaction-pro-m000042091,1169.99,1299.
+520,fahrrad-xxl,de,2022,Cube,Elite C:62 Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,22 ZOLL,https://www.fahrrad-xxl.de/cube-elite-c-62-pro-m000041923,3199.,
+521,fahrrad-xxl,de,2021,Cube,Aim Race - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 19 ZOLL, 23 ZOLL",https://www.fahrrad-xxl.de/cube-aim-race-p00057662m002,479.99,529.
+522,fahrrad-xxl,de,2022,Cube,Stereo 150 C:62 Race 29 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cube-stereo-150-c-62-race-m000042127,3199.,
+523,fahrrad-xxl,de,2022,Cube,Attention SL - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-attention-sl-m000041897,999.,
+524,fahrrad-xxl,de,2021,Cube,"Access WS - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"13,5 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-p00058201m001,389.99,429.
+525,fahrrad-xxl,de,2021,Ghost,"Kato FS Essential AL U - 2021 - 27,5 Zoll - Fully",new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/ghost-kato-fs-essential-al-u-p00057626m001,1399.,
+526,fahrrad-xxl,de,2021,Giant,Stance 2 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/giant-stance-2-p00058970m001,1549.99,1699.
+527,fahrrad-xxl,de,2022,Cube,Reaction TM - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,18 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-tm-m000042092,1399.,
+528,fahrrad-xxl,de,2022,Cube,Reaction TM - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,18 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-tm-m000042092,1399.,
+529,fahrrad-xxl,de,2022,Scott,Spark 940 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L, XL",https://www.fahrrad-xxl.de/scott-spark-940-m000043145,3359.99,3799.
+530,fahrrad-xxl,de,2022,Specialized,Epic Hardtail - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/specialized-epic-hardtail-m000046790,2399.99,2700.
+531,fahrrad-xxl,de,2022,Cube,Stereo One77 Race - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XL, XXL",https://www.fahrrad-xxl.de/cube-stereo-one77-race-m000042170,3699.,
+532,fahrrad-xxl,de,2022,Cube,Elite C:62 One - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"16 ZOLL, 20 ZOLL, 22 ZOLL",https://www.fahrrad-xxl.de/cube-elite-c-62-one-m000041922,2799.,
+533,fahrrad-xxl,de,2022,Trek,Supercaliber 9.8 GX - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/trek-supercaliber-9-8-gx-m000045130,5499.99,6099.
+534,fahrrad-xxl,de,2022,Cube,Stereo 120 HPC TM - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/cube-stereo-120-hpc-tm-m000042119,2999.,
+535,fahrrad-xxl,de,2021,Cannondale,Habit 5 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/cannondale-habit-5-p00061146m001,2159.99,2399.
+536,fahrrad-xxl,de,2022,Scott,Scale 950 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/scott-scale-950-m000043119,1569.99,1899.
+537,fahrrad-xxl,de,2020,Specialized,Stumpjumper Comp Carbon Evo 29 - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-stumpjumper-comp-carbon-evo-29-x0051372,3839.99,4799.
+538,fahrrad-xxl,de,2022,Cube,Stereo 150 C:62 SL - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/cube-stereo-150-c-62-sl-m000042128,3999.,
+539,fahrrad-xxl,de,2022,Merida,Big.Trail 600 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,L (17),https://www.fahrrad-xxl.de/merida-big-trail-600-p00059355m001,1699.99,1899.
+540,fahrrad-xxl,de,2021,Cube,AMS 100 C:68 SL - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/cube-ams-100-c-68-sl-p00058186m001,3749.,
+541,fahrrad-xxl,de,2022,Cube,Stereo One77 Pro - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/cube-stereo-one77-pro-m000042169,3199.,
+542,fahrrad-xxl,de,2021,Ghost,"Kato FS Universal AL U - 2021 - 27,5 Zoll - Fully",new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/ghost-kato-fs-universal-al-u-p00057625m001,1529.99,1699.
+543,fahrrad-xxl,de,2023,Cube,Elite C:68X Race - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,20 ZOLL,https://www.fahrrad-xxl.de/cube-elite-c-68x-race-m000065290,4699.,
+544,fahrrad-xxl,de,2021,Bergamont,Revox 3 silver - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-3-silver-p00057979m001,399.99,499.
+545,fahrrad-xxl,de,2022,Merida,Big.Nine XT - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,XL (21),https://www.fahrrad-xxl.de/merida-big-nine-xt-p00059272m001,2499.99,2999.
+546,fahrrad-xxl,de,2022,Cannondale,"Bad Boy 2 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/cannondale-bad-boy-2-x0048297,1079.99,1299.
+547,fahrrad-xxl,de,2021,Trek,Marlin 6 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/trek-marlin-6-p00056971m001,479.99,629.
+548,fahrrad-xxl,de,2021,Cube,Analog RS - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,23 ZOLL,https://www.fahrrad-xxl.de/cube-analog-rs-p00058131m001,699.99,749.
+549,fahrrad-xxl,de,2021,Cube,Access WS EXC - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 19 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-exc-p00058199m002,449.99,559.
+550,fahrrad-xxl,de,2021,Giant,Reign 29 2 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/giant-reign-29-2-p00058956m001,2699.99,2999.
+551,fahrrad-xxl,de,2022,Specialized,Epic Evo Comp - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/specialized-epic-evo-comp-m000046782,4559.99,5700.
+552,fahrrad-xxl,de,2022,Cube,"Stereo 140 HPC Rookie - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,"13,5 ZOLL",https://www.fahrrad-xxl.de/cube-stereo-140-hpc-rookie-m000042124,2399.,
+553,fahrrad-xxl,de,2021,Cube,"Stereo 140 HPC Race - 2021 - 27,5 Zoll - Fully",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/cube-stereo-140-hpc-race-p00057670m001,2549.,
+554,fahrrad-xxl,de,2022,Cube,Stereo 120 HPC EX - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/cube-stereo-120-hpc-ex-m000042117,3699.,
+555,fahrrad-xxl,de,2022,Cube,"Two15 Race 27.5 - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/cube-two15-race-p00058218m001,3199.,
+556,fahrrad-xxl,de,2020,Haibike,Seet HardNine 2.0 - 2020 - 29 Zoll - Diamant,new,MountainBikes,1,,55 CM,https://www.fahrrad-xxl.de/haibike-seet-hardnine-2-0-x0043260,399.99,499.
+557,fahrrad-xxl,de,2022,Specialized,Rockhopper Comp 29 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M, XXL",https://www.fahrrad-xxl.de/specialized-rockhopper-comp-29-m000046807,659.99,825.
+558,fahrrad-xxl,de,2021,Cube,Aim EX - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,19 ZOLL,https://www.fahrrad-xxl.de/cube-aim-ex-p00058130m001,519.99,579.
+559,fahrrad-xxl,de,2022,Trek,Slash 9.7 SLX/XT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, L",https://www.fahrrad-xxl.de/trek-slash-9-7-slx-xt-m000045119,4569.99,4999.
+560,fahrrad-xxl,de,2021,Focus,"SAM 9.9 - 2021 - 27,5 Zoll - Fully",new,MountainBikes,1,,"40 CM, 44 CM",https://www.fahrrad-xxl.de/focus-sam-9-9-x0048685,3999.99,4499.
+561,fahrrad-xxl,de,2022,Kron,"XC 75 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/xc-75-m000057203,319.99,399.
+562,fahrrad-xxl,de,2021,Cube,Access WS - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,19 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-p00058201m002,399.99,429.
+563,fahrrad-xxl,de,2021,Scott,Spark RC 900 SL AXS - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-spark-rc-900-sl-axs-p00058433m001,9999.99,12999.
+564,fahrrad-xxl,de,2021,Ghost,Kato Base 29 AL U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-kato-base-29-al-u-p00057619m001,399.99,499.
+565,fahrrad-xxl,de,2021,Cube,Hyde Pro - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"46 CM, 50 CM",https://www.fahrrad-xxl.de/cube-hyde-pro-p00058189m002,949.,
+566,fahrrad-xxl,de,2022,Cannondale,Jekyll 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/cannondale-jekyll-2-p00061154m001,3959.99,4999.
+567,fahrrad-xxl,de,2022,Scott,Genius 920 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/scott-genius-920-m000043076,3959.99,4499.
+568,fahrrad-xxl,de,2022,Cube,Access WS C:62 Pro - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"15 ZOLL, 17 ZOLL, 19 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-c-62-pro-m000041837,1709.99,1899.
+569,fahrrad-xxl,de,2021,Giant,Reign 29 1 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/giant-reign-29-1-p00058959m001,3699.99,4199.
+570,fahrrad-xxl,de,2022,Cube,"Access WS SL - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-sl-m000041850,989.99,1099.
+571,fahrrad-xxl,de,2022,Trek,Supercaliber 9.7 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML",https://www.fahrrad-xxl.de/trek-supercaliber-9-7-m000045128,4799.,
+572,fahrrad-xxl,de,2021,Cube,Stereo 150 C:68 SLT - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/cube-stereo-150-c-68-slt-p00058213m001,5549.99,6549.
+573,fahrrad-xxl,de,2021,Ghost,"Lanao 26"" Base AL U - 2021 - 26 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/ghost-lanao-26-base-al-u-p00057603m001,399.99,499.
+574,fahrrad-xxl,de,2021,Giant,"ATX - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/giant-atx-p00058922m001,319.99,399.
+575,fahrrad-xxl,de,2022,Specialized,Epic Evo S-Works - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/specialized-epic-evo-s-works-m000046784,11199.99,14000.
+576,fahrrad-xxl,de,2022,Specialized,Epic Evo S-Works - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/specialized-epic-evo-s-works-m000046784,11199.99,14000.
+577,fahrrad-xxl,de,2021,Cube,Aim - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/cube-aim-p00058129m002,429.,
+578,fahrrad-xxl,de,2023,Specialized,Stumpjumper Comp Alloy - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S4",https://www.fahrrad-xxl.de/specialized-stumpjumper-comp-alloy-m000046826,3750.,3900.
+579,fahrrad-xxl,de,2018,Leaderfox,MXC Lady - 2018 - 26 Zoll - Damen Sport,new,MountainBikes,1,,18 ZOLL,https://www.fahrrad-xxl.de/leaderfox-mxc-lady-x0051126,249.99,399.
+580,fahrrad-xxl,de,2022,Scott,Contessa Spark 920 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/scott-contessa-spark-920-m000043056,3219.99,3799.
+581,fahrrad-xxl,de,2022,KTM,Myroon Elite - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ktm-myroon-elite-m000041701,1999.99,2499.
+582,fahrrad-xxl,de,2021,Cube,Reaction C:62 One - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,23 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-c-62-one-p00058175m001,1349.99,1449.
+583,fahrrad-xxl,de,2022,Specialized,Epic Hardtail Expert - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/specialized-epic-hardtail-expert-m000046788,4959.99,5700.
+584,fahrrad-xxl,de,2021,Cube,"Access WS EXC - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"13,5 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-exc-p00058199m001,469.99,559.
+585,fahrrad-xxl,de,2021,Ghost,"Kato Base 27.5 AL U - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ghost-kato-base-27-5-al-u-p00057624m001,399.99,499.
+586,fahrrad-xxl,de,2021,Giant,Trance X 3 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-trance-x-3-p00058935m001,2299.99,2599.
+587,fahrrad-xxl,de,2021,Cube,Stereo 170 TM - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/cube-stereo-170-tm-p00058215m001,3549.,
+588,fahrrad-xxl,de,2022,Lapierre,Prorace 4.9 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"44 CM, 48 CM",https://www.fahrrad-xxl.de/lapierre-prorace-4-9-p00060616m001,1099.99,1499.
+589,fahrrad-xxl,de,2022,Cube,Elite C:62 SL Rookie - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,15 ZOLL,https://www.fahrrad-xxl.de/cube-elite-c-62-sl-rookie-m000041925,1529.99,1699.
+590,fahrrad-xxl,de,2022,BMC,Fourstroke 01 Three - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/bmc-fourstroke-01-three-m000001659,4729.99,5499.
+591,fahrrad-xxl,de,2022,Scott,Gambler 900 Tuned - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-gambler-900-tuned-m000043071,7639.99,9599.
+592,fahrrad-xxl,de,2021,Cube,Aim SL - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 23 ZOLL",https://www.fahrrad-xxl.de/cube-aim-sl-p00057663m002,629.,
+593,fahrrad-xxl,de,2022,Cube,TWO15 HPC SLT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/cube-two15-hpc-slt-m000042237,5399.99,5999.
+594,fahrrad-xxl,de,2022,Cube,Elite C:68X Race - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"16 ZOLL, 22 ZOLL",https://www.fahrrad-xxl.de/cube-elite-c-68x-race-m000041926,4399.,
+595,fahrrad-xxl,de,2023,Trek,Supercaliber 9.7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/trek-supercaliber-9-7-m000061200,4999.,
+596,fahrrad-xxl,de,2021,Cube,Reaction C:62 Pro - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,23 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-c-62-pro-p00058174m001,1749.,
+597,fahrrad-xxl,de,2021,Haibike,"Seet 8 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,40 CM,https://www.fahrrad-xxl.de/haibike-seet-8-p00058814m002,519.99,649.
+598,fahrrad-xxl,de,2021,Ghost,Riot Enduro AL Universal - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ghost-riot-enduro-al-universal-p00057572m001,2699.99,2999.
+599,fahrrad-xxl,de,2022,Scott,Contessa Scale 920 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/scott-contessa-scale-920-m000043052,1569.99,1899.
+600,fahrrad-xxl,de,2022,Specialized,Stumpjumper Alloy - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S3,https://www.fahrrad-xxl.de/specialized-stumpjumper-alloy-m000046825,2700.,
+601,fahrrad-xxl,de,2022,Trek,Session 9 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,R1,https://www.fahrrad-xxl.de/trek-session-9-p00062446m001,6699.99,7099.
+602,fahrrad-xxl,de,2021,Cube,"Aim Pro - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,14 ZOLL,https://www.fahrrad-xxl.de/cube-aim-pro-p00057661m002,479.,
+603,fahrrad-xxl,de,2022,Cannondale,Scalpel HT Hi-Mod 1 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/cannondale-scalpel-ht-hi-mod-1-m000048475,5559.99,6999.
+604,fahrrad-xxl,de,2022,Orbea,Rallon M Team - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/orbea-rallon-m-team-m000041290,6299.99,6999.
+605,fahrrad-xxl,de,2021,Ghost,Riot AM AL Essential - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/ghost-riot-am-al-essential-p00057576m001,2349.99,2599.
+606,fahrrad-xxl,de,2021,Ghost,Nirvana Tour SF Base - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-base-p00057009m001,719.99,899.
+607,fahrrad-xxl,de,2021,Trek,Slash 7 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/trek-slash-7-p00058754m001,3199.,
+608,fahrrad-xxl,de,2022,Scott,Contessa Scale 910 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-contessa-scale-910-m000043051,1899.99,2099.
+609,fahrrad-xxl,de,2022,Cube,Elite C:68X SLT - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,20 ZOLL,https://www.fahrrad-xxl.de/cube-elite-c-68x-slt-m000041928,6099.,
+610,fahrrad-xxl,de,2020,Scott,Genius 900 Ultimate AXS - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/scott-genius-900-ultimate-axs-x0050915,8999.99,11499.
+611,fahrrad-xxl,de,2021,Specialized,S-Works Enduro - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-s-works-enduro-p00060799m001,9999.99,12000.
+612,fahrrad-xxl,de,2022,Scott,Ransom 910 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-ransom-910-m000043096,5159.99,6499.
+613,fahrrad-xxl,de,2022,Cube,"Reaction Pro - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-pro-m000042090,1299.,
+614,fahrrad-xxl,de,2021,Orbea,Alma H50 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-alma-h50-p00057470m001,799.99,999.
+615,fahrrad-xxl,de,2022,Scott,"Contessa Active 60 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/scott-contessa-active-60-m000043036,499.99,629.
+616,fahrrad-xxl,de,2021,Raymon,NineRay 1.0 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"43 CM, 48 CM",https://www.fahrrad-xxl.de/raymon-nineray-1-0-p00059387m002,339.99,429.
+617,fahrrad-xxl,de,2023,Trek,FX 1 - 2023 - 28 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/trek-fx-1-p00056978m001,569.,
+618,fahrrad-xxl,de,2022,Cannondale,Scalpel Carbon SE 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/cannondale-scalpel-carbon-se-1-m000048467,4759.99,5999.
+619,fahrrad-xxl,de,2021,Orbea,"MX 27 50 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/orbea-mx-27-50-p00057452m001,479.99,549.
+620,fahrrad-xxl,de,2023,Trek,Session 9 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,R1,https://www.fahrrad-xxl.de/trek-session-9-m000061190,7999.,
+621,fahrrad-xxl,de,2022,Cube,Access WS C:62 SL - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 19 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-c-62-sl-m000041839,2429.99,2699.
+622,fahrrad-xxl,de,2021,Cube,Acid - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,,https://www.fahrrad-xxl.de/cube-acid-p00057667m001,1049.,
+623,fahrrad-xxl,de,2022,Trek,Fuel EX 7 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, ML, L, XL",https://www.fahrrad-xxl.de/trek-fuel-ex-7-m000061042,2679.99,3199.
+624,fahrrad-xxl,de,2022,Scott,Spark 950 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-spark-950-m000043146,3199.99,3599.
+625,fahrrad-xxl,de,2023,Santa Cruz,Hightower 3 C S-Kit - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,SM,https://www.fahrrad-xxl.de/santa-cruz-hightower-3-c-s-kit-m000058961,6599.,
+626,fahrrad-xxl,de,2022,Cube,"Elite C:62 SL Rookie - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"13,5 ZOLL",https://www.fahrrad-xxl.de/cube-elite-c-62-sl-rookie-m000041924,1699.,
+627,fahrrad-xxl,de,2023,Trek,Session 8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,R1,https://www.fahrrad-xxl.de/trek-session-8-m000061189,5499.,5999.
+628,fahrrad-xxl,de,2022,Bianchi,Methanol CV FS 9.3 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"38 CM, 43 CM",https://www.fahrrad-xxl.de/bianchi-methanol-cv-fs-9-3-m000043820,3999.99,4629.
+629,fahrrad-xxl,de,2020,Carver,Strict 140 - 2020 - 29 Zoll - Diamant,new,MountainBikes,1,,54 CM,https://www.fahrrad-xxl.de/carver-strict-140-x0047523,559.99,699.99
+630,fahrrad-xxl,de,2020,Cube,Aim SL - 2020 - 29 Zoll - Diamant,new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/cube-aim-sl-x0049032,599.,
+631,fahrrad-xxl,de,2021,Ghost,Nirvana Tour SF Universal - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-universal-p00057580m002,1259.99,1399.
+632,fahrrad-xxl,de,2023,Trek,"Dual Sport 2 Gen 5 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/trek-dual-sport-2-gen-5-m000061081,849.,
+633,fahrrad-xxl,de,2022,Cube,"Aim EX - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-aim-ex-m000041869,699.,
+634,fahrrad-xxl,de,2021,Orbea,Oiz H30 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/orbea-oiz-h30-p00057437m001,2499.,
+635,fahrrad-xxl,de,2022,Santa Cruz,"Nomad 5 CC X01-Kit Coil - 2022 - 27,5 Zoll - Fully",new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/santa-cruz-nomad-5-cc-x01-kit-coil-m000045696,8499.,
+636,fahrrad-xxl,de,2022,Trek,Fuel EX 9.8 GX - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/trek-fuel-ex-9-8-gx-m000045050,5079.99,6399.
+637,fahrrad-xxl,de,2022,BMC,Speedfox AL One - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-speedfox-al-one-m000001671,2539.99,2999.
+638,fahrrad-xxl,de,2022,Santa Cruz,Highball 3 CC X01 AXS-Kit Reserve - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/santa-cruz-highball-3-cc-x01-axs-kit-reserve-m000045668,8499.,
+639,fahrrad-xxl,de,2021,Cannondale,Trail 8 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"MD, LG",https://www.fahrrad-xxl.de/cannondale-trail-8-p00061051m001,499.99,629.
+640,fahrrad-xxl,de,2021,Ghost,"Riot AM AL Universal - 2021 - 27,5 Zoll - Fully",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-riot-am-al-universal-p00057575m001,2599.99,2999.
+641,fahrrad-xxl,de,2022,Cube,Access WS SL - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-sl-m000041851,989.99,1099.
+642,fahrrad-xxl,de,2022,Scott,Gambler 910 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-gambler-910-m000043072,4999.99,5499.
+643,fahrrad-xxl,de,2022,BMC,Fourstroke 01 LT One - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/bmc-fourstroke-01-lt-one-m000001656,6799.99,8499.
+644,fahrrad-xxl,de,2022,Wilier,101X - XT 1x12 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/wilier-101x-xt-1x12-m000033023,2459.99,2800.
+645,fahrrad-xxl,de,2021,Trek,"X-Caliber 9 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-x-caliber-9-p00056959m002,1349.,
+646,fahrrad-xxl,de,2022,Trek,Top Fuel 9.8 XT - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"ML, L",https://www.fahrrad-xxl.de/trek-top-fuel-9-8-xt-m000045142,5999.99,6599.
+647,fahrrad-xxl,de,2022,Specialized,Enduro Comp - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S5,https://www.fahrrad-xxl.de/specialized-enduro-comp-m000046779,5700.,
+648,fahrrad-xxl,de,2021,Ghost,Lector LC Base U - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ghost-lector-lc-base-u-p00057591m001,1699.99,1999.
+649,fahrrad-xxl,de,2021,Giant,Trance 1 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-trance-1-p00058944m001,2799.99,3099.
+650,fahrrad-xxl,de,2023,Raymon,HardRay Nine 6.0 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,48 CM,https://www.fahrrad-xxl.de/raymon-hardray-nine-6-0-p00059407m001,1159.99,1249.
+651,fahrrad-xxl,de,2021,NS Bikes,Metropolis 3 - 2021 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-metropolis-3-p00057264m001,689.99,859.
+652,fahrrad-xxl,de,2022,BMC,Fourstroke 01 One - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L, XL",https://www.fahrrad-xxl.de/bmc-fourstroke-01-one-m000001658,9559.99,11999.
+653,fahrrad-xxl,de,2022,Cube,Flying Circus - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/cube-flying-circus-m000041939,999.,
+654,fahrrad-xxl,de,2022,Santa Cruz,Hightower 2 C S-Kit - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"L, XXL",https://www.fahrrad-xxl.de/santa-cruz-hightower-2-c-s-kit-m000045673,5999.,
+655,fahrrad-xxl,de,2023,Trek,Slash 8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/trek-slash-8-m000061194,4399.,
+656,fahrrad-xxl,de,2022,Orbea,Rallon M10 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-rallon-m10-m000041291,5129.99,5699.
+657,fahrrad-xxl,de,2022,Cube,"Attention SL - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-attention-sl-m000041896,999.,
+658,fahrrad-xxl,de,2020,Carver,Strict 150 - 2020 - 29 Zoll - Diamant,new,MountainBikes,1,,54 CM,https://www.fahrrad-xxl.de/carver-strict-150-x0047525,639.99,799.99
+659,fahrrad-xxl,de,2022,NS Bikes,Movement 1 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/movement-1-m000030138,1299.99,1569.
+660,fahrrad-xxl,de,2022,Scott,Genius 930 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-genius-930-m000043077,3999.,
+661,fahrrad-xxl,de,2023,Specialized,Rockhopper Expert 29 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"L, XL",https://www.fahrrad-xxl.de/specialized-rockhopper-expert-29-m000067541,1400.,1450.
+662,fahrrad-xxl,de,2022,Orbea,"Laufey 27 H20 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-laufey-27-h20-m000041215,989.99,1099.
+663,fahrrad-xxl,de,2022,NS Bikes,Fuzz 1 29 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/fuzz-1-29-m000030132,5499.99,6299.
+664,fahrrad-xxl,de,2021,Cannondale,Habit Carbon SE - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"SM, MD",https://www.fahrrad-xxl.de/cannondale-habit-carbon-se-p00061153m001,4409.99,4899.
+665,fahrrad-xxl,de,2021,Cannondale,Trail SL 1 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/cannondale-trail-sl-1-p00061114m001,1529.99,1699.
+666,fahrrad-xxl,de,2022,Cannondale,"Bad Boy 1 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/cannondale-bad-boy-1-x0048295,2299.,
+667,fahrrad-xxl,de,2022,Kron,XC 150 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"17 ZOLL, 19 ZOLL",https://www.fahrrad-xxl.de/xc-150-m000057201,479.99,599.
+668,fahrrad-xxl,de,2020,Scott,Genius 940 - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-genius-940-x0050919,2879.99,3599.
+669,fahrrad-xxl,de,2021,Cube,Reaction Pro - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,21 ZOLL,https://www.fahrrad-xxl.de/cube-reaction-pro-p00058177m001,1249.,
+670,fahrrad-xxl,de,2021,Cannondale,Scalpel Carbon 3 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/cannondale-scalpel-carbon-3-p00057133m001,4229.99,4699.
+671,fahrrad-xxl,de,2023,Trek,Slash 9.7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/trek-slash-9-7-m000061195,5599.,
+672,fahrrad-xxl,de,2023,Trek,Slash 9.7 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/trek-slash-9-7-m000061195,5599.,
+673,fahrrad-xxl,de,2023,Specialized,Stumpjumper Evo Comp Alloy - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-stumpjumper-evo-comp-alloy-m000067545,4200.,4400.
+674,fahrrad-xxl,de,2021,Cube,Access WS EAZ - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-eaz-p00058200m001,509.,
+675,fahrrad-xxl,de,2022,Scott,Gambler 920 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-gambler-920-m000043073,4699.,
+676,fahrrad-xxl,de,2021,Cube,Flying Circus - 2021 - 26 Zoll - Dirt,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/cube-flying-circus-p00058167m001,969.99,1049.
+677,fahrrad-xxl,de,2023,BMC,Twostroke 01 One - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/bmc-twostroke-01-one-m000060924,5999.,
+678,fahrrad-xxl,de,2021,Lapierre,Prorace 5.9 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,M/44CM,https://www.fahrrad-xxl.de/lapierre-prorace-5-9-p00060617m001,1249.99,1699.
+679,fahrrad-xxl,de,2022,Kron,XC 100 - 2022 - 26 Zoll - Diamant,new,MountainBikes,1,,15 ZOLL,https://www.fahrrad-xxl.de/xc-100-m000057197,399.99,499.
+680,fahrrad-xxl,de,2021,Bergamont,Revox 4 grey - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL9,https://www.fahrrad-xxl.de/bergamont-revox-4-grey-p00057976m001,479.99,599.
+681,fahrrad-xxl,de,2022,Scott,Contessa Ransom 910 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/scott-contessa-ransom-910-m000043050,5159.99,6499.
+682,fahrrad-xxl,de,2021,Specialized,Rockhopper Sport 29 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"XL, XXL",https://www.fahrrad-xxl.de/specialized-rockhopper-sport-29-p00056884m001,519.99,649.
+683,fahrrad-xxl,de,2021,Ghost,"Lanao Pro 27.5 AL W - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/ghost-lanao-pro-27-5-al-w-p00057596m001,679.99,849.
+684,fahrrad-xxl,de,2021,BMC,Twostroke AL Two - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/bmc-twostroke-al-two-p00057799m001,999.99,1199.
+685,fahrrad-xxl,de,2022,Specialized,Stumpjumper S-Works - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-stumpjumper-s-works-m000046834,10399.99,13000.
+686,fahrrad-xxl,de,2022,Scott,Ransom 920 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/scott-ransom-920-m000043097,4499.,
+687,fahrrad-xxl,de,2022,Orbea,Alma M50 Eagle - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/orbea-alma-m50-eagle-m000041181,1999.,
+688,fahrrad-xxl,de,2022,NS Bikes,Define 150 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/define-150-2-m000030112,3999.99,4999.
+689,fahrrad-xxl,de,2022,Orbea,"Laufey 27 H10 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/orbea-laufey-27-h10-m000041214,1349.99,1499.
+690,fahrrad-xxl,de,2021,Cube,Access WS Pro - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,19 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-pro-p00058198m002,569.99,629.
+691,fahrrad-xxl,de,2022,Specialized,S-Works Epic - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/specialized-s-works-epic-p00057226m001,11199.99,14000.
+692,fahrrad-xxl,de,2023,Trek,"Roscoe 8 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/trek-roscoe-8-m000045113,2449.,
+693,fahrrad-xxl,de,2021,NS Bikes,Movement 1 - 2021 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-movement-1-p00057263m001,1249.99,1399.
+694,fahrrad-xxl,de,2022,Kron,XC 100 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"18 ZOLL, 20 ZOLL",https://www.fahrrad-xxl.de/xc-100-m000057199,499.,
+695,fahrrad-xxl,de,2022,Scott,Contessa Active 30 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/scott-contessa-active-30-m000043029,679.99,849.
+696,fahrrad-xxl,de,2022,Orbea,Occam M LTD - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-m-ltd-m000041233,7559.99,8399.
+697,fahrrad-xxl,de,2021,Cannondale,"Trail 8 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,SM,https://www.fahrrad-xxl.de/cannondale-trail-8-p00061051m002,499.99,629.
+698,fahrrad-xxl,de,2021,NS Bikes,Movement 2 - 2021 - 26 Zoll - Dirt,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-movement-2-p00057262m001,1029.99,1149.
+699,fahrrad-xxl,de,2022,Cannondale,"Trail 7 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/cannondale-trail-7-m000048512,639.99,799.
+700,fahrrad-xxl,de,2021,Giant,Trance X Advanced Pro 0 - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-trance-x-advanced-pro-0-p00058934m001,8299.,
+701,fahrrad-xxl,de,2023,Ghost,Nirvana Tour SF Essential - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-essential-m000047274,1299.99,1399.
+702,fahrrad-xxl,de,2022,Giant,Trance X Advanced Pro 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/giant-trance-x-advanced-pro-1-m000020428,6399.99,7599.
+703,fahrrad-xxl,de,2023,Liv,Embolden 1 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/liv-embolden-1-m000020787,2499.,
+704,fahrrad-xxl,de,2022,Ghost,Kato Advanced 29 AL - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-kato-advanced-29-al-m000047235,719.99,899.
+705,fahrrad-xxl,de,2021,Liv,Pique - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/liv-pique-p00058718m001,1979.99,2199.
+706,fahrrad-xxl,de,2023,Giant,STP 26 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/giant-stp-26-fs-m000020383,1149.,
+707,fahrrad-xxl,de,2022,Cube,"Access WS C:62 Pro - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"13,5 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-c-62-pro-m000041836,1899.,
+708,fahrrad-xxl,de,2020,Specialized,Enduro Elite Carbon 29 - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-enduro-elite-carbon-29-x0051320,4499.,5999.
+709,fahrrad-xxl,de,2021,NS Bikes,Metropolis 2 - 2021 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-metropolis-2-p00057265m001,989.99,1099.
+710,fahrrad-xxl,de,2023,Santa Cruz,Hightower 3 C GX AXS-Kit RSV - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/santa-cruz-hightower-3-c-gx-axs-kit-rsv-m000058958,9199.,
+711,fahrrad-xxl,de,2023,Cube,Access WS C:62 Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,15 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-c-62-pro-m000065180,1999.,
+712,fahrrad-xxl,de,2023,Trek,"Marlin 6 Gen 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-marlin-6-gen-3-m000061145,819.,
+713,fahrrad-xxl,de,2023,Trek,"Marlin 7 Gen 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-marlin-7-gen-3-m000061147,1029.,
+714,fahrrad-xxl,de,2023,Orbea,Occam H20 LT - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-h20-lt-m000061845,3699.,
+715,fahrrad-xxl,de,2023,Trek,Top Fuel 8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/trek-top-fuel-8-m000061207,4499.,
+716,fahrrad-xxl,de,2022,Scott,Contessa Active 10 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-10-m000043025,889.99,1099.
+717,fahrrad-xxl,de,2022,Liv,Intrigue 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/liv-intrigue-2-m000020801,2499.99,2999.
+718,fahrrad-xxl,de,2021,Cannondale,Trail Women's 7 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/cannondale-trail-women-s-7-p00061085m001,559.99,699.
+719,fahrrad-xxl,de,2021,Ghost,"Nirvana Tour SF Universal - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-universal-p00057580m001,1259.99,1399.
+720,fahrrad-xxl,de,2022,Kron,"XC 150 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/xc-150-m000057200,599.,
+721,fahrrad-xxl,de,2021,Ghost,"Nirvana Tour SF Universal - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-universal-p00057580m001,1259.99,1399.
+722,fahrrad-xxl,de,2019,Cube,"Stereo 140 HPC Race - 2019 - 27,5 Zoll - Fully",new,MountainBikes,1,,22 ZOLL,https://www.fahrrad-xxl.de/cube-stereo-140-hpc-race-x0042069,2079.99,2499.
+723,fahrrad-xxl,de,2022,Liv,Intrigue 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/liv-intrigue-2-m000020801,2499.99,2999.
+724,fahrrad-xxl,de,2021,Cannondale,Trail Women's 7 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/cannondale-trail-women-s-7-p00061085m001,559.99,699.
+725,fahrrad-xxl,de,2022,Scott,Contessa Active 10 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/scott-contessa-active-10-m000043025,889.99,1099.
+726,fahrrad-xxl,de,2023,Giant,"Talon 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-talon-3-m000068168,679.,
+727,fahrrad-xxl,de,2023,Ghost,"Lanao Advanced 27.5 AL - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-lanao-advanced-27-5-al-m000064704,899.,
+728,fahrrad-xxl,de,2023,Santa Cruz,Hightower 3 C R-Kit - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"XL, XXL",https://www.fahrrad-xxl.de/santa-cruz-hightower-3-c-r-kit-m000058960,5499.,
+729,fahrrad-xxl,de,2023,Orbea,Occam H20 LT - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-h20-lt-m000061845,3699.,
+730,fahrrad-xxl,de,2023,Trek,Top Fuel 8 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/trek-top-fuel-8-m000061207,4499.,
+731,fahrrad-xxl,de,2023,Cube,Access WS C:62 Pro - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,15 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-c-62-pro-m000065180,1999.,
+732,fahrrad-xxl,de,2022,Cube,Stereo 240 Pro - 2022 - 24 Zoll - Fully,new,MountainBikes,1,,33 CM,https://www.fahrrad-xxl.de/cube-stereo-240-pro-p00058221m001,1869.99,2199.
+733,fahrrad-xxl,de,2023,Santa Cruz,Hightower 3 C GX AXS-Kit RSV - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,LG,https://www.fahrrad-xxl.de/santa-cruz-hightower-3-c-gx-axs-kit-rsv-m000058958,9199.,
+734,fahrrad-xxl,de,2023,Trek,"Marlin 6 Gen 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-marlin-6-gen-3-m000061145,819.,
+735,fahrrad-xxl,de,2023,Trek,"Marlin 7 Gen 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-marlin-7-gen-3-m000061147,1029.,
+736,fahrrad-xxl,de,2023,Trek,"Marlin 8 Gen 3 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-marlin-8-gen-3-m000061150,1329.,
+737,fahrrad-xxl,de,2021,NS Bikes,Metropolis 2 - 2021 - 26 Zoll - Diamant,new,MountainBikes,1,,One Size,https://www.fahrrad-xxl.de/ns-bikes-metropolis-2-p00057265m001,989.99,1099.
+738,fahrrad-xxl,de,2023,Trek,Marlin 4 Gen 2 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,XXL,https://www.fahrrad-xxl.de/trek-marlin-4-gen-2-m000061143,569.,
+739,fahrrad-xxl,de,2020,Bergamont,"Revox FC St. Pauli - 2020 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, M",https://www.fahrrad-xxl.de/bergamont-revox-fc-st-pauli-p00056874m002,519.99,649.
+740,fahrrad-xxl,de,2021,Orbea,Alma M25 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,XL,https://www.fahrrad-xxl.de/orbea-alma-m25-p00057460m001,2519.99,2799.
+741,fahrrad-xxl,de,2023,Giant,"Talon 1 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/giant-talon-1-27-5-m000020386,999.,
+742,fahrrad-xxl,de,2023,Giant,Stance 2 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/giant-stance-2-m000068158,2199.,
+743,fahrrad-xxl,de,2023,Cube,"Access WS SLX - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"14 ZOLL, 16 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-slx-m000065193,1199.,
+744,fahrrad-xxl,de,2022,Cube,"Acid - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-acid-m000041858,1099.,
+745,fahrrad-xxl,de,2022,NS Bikes,Synonym TR 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/ns-bikes-synonym-tr-2-m000055286,3999.99,4999.
+746,fahrrad-xxl,de,2022,Specialized,Stumpjumper Evo Elite Alloy - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S2, S3, S5",https://www.fahrrad-xxl.de/specialized-stumpjumper-evo-elite-alloy-m000045925,6300.,
+747,fahrrad-xxl,de,2023,Ghost,"Riot EN AL Full Party - 2023 - 27,5 Zoll - Fully",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ghost-riot-en-al-full-party-m000047292,4699.,
+748,fahrrad-xxl,de,2023,Orbea,Occam M30 LT - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-m30-lt-m000061851,4599.,
+749,fahrrad-xxl,de,2022,Orbea,Rallon M LTD - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, XL",https://www.fahrrad-xxl.de/orbea-rallon-m-ltd-m000041289,9499.,
+750,fahrrad-xxl,de,2022,NS Bikes,"Define AL 170 2 - 2022 - 29/27,5 Zoll - Fully",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/define-al-170-2-m000030119,3759.,
+751,fahrrad-xxl,de,2020,Trek,Top Fuel 9.7 - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,ML,https://www.fahrrad-xxl.de/trek-top-fuel-9-7-x0047643,3299.99,3999.
+752,fahrrad-xxl,de,2020,Specialized,Enduro Elite Carbon 29 - 2020 - 29 Zoll - Fully,new,MountainBikes,1,,S2,https://www.fahrrad-xxl.de/specialized-enduro-elite-carbon-29-x0051320,4499.,5999.
+753,fahrrad-xxl,de,2022,Cube,"Access WS C:62 Pro - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"13,5 ZOLL",https://www.fahrrad-xxl.de/cube-access-ws-c-62-pro-m000041836,1899.,
+754,fahrrad-xxl,de,2021,Scott,"Aspect 50 FCB - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/scott-aspect-750-fc-bayern-muenchen-x0053599,519.99,649.
+755,fahrrad-xxl,de,2021,Liv,Pique - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,"XS, S",https://www.fahrrad-xxl.de/liv-pique-p00058718m001,1979.99,2199.
+756,fahrrad-xxl,de,2023,Liv,"Bliss - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/liv-bliss-m000020779,529.,
+757,fahrrad-xxl,de,2023,Giant,STP 26 - 2023 - 26 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/giant-stp-26-fs-m000020383,1149.,
+758,fahrrad-xxl,de,2021,Trek,Fuel EX 9.8 GX AXS - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,L,https://www.fahrrad-xxl.de/trek-fuel-ex-9-8-gx-axs-p00062443m002,5999.99,7299.
+759,fahrrad-xxl,de,2022,Bergamont,"Revox 5 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S7,https://www.fahrrad-xxl.de/bergamont-revox-5-m000046244,679.99,849.
+760,fahrrad-xxl,de,2021,NS Bikes,Eccentric Lite 1 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/ns-bikes-eccentric-lite-1-p00057269m001,1299.99,1499.
+761,fahrrad-xxl,de,2021,NS Bikes,Eccentric Lite 2 - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/ns-bikes-eccentric-lite-2-p00057268m001,989.,1099.
+762,fahrrad-xxl,de,2023,BMC,Twostroke AL Four - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, M",https://www.fahrrad-xxl.de/bmc-twostroke-al-four-m000060930,1599.,
+763,fahrrad-xxl,de,2023,Giant,"Talon 2 - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/giant-talon-2-27-5-m000020388,899.,
+764,fahrrad-xxl,de,2022,Scott,Ransom 930 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/scott-ransom-930-m000043098,3599.,
+765,fahrrad-xxl,de,2022,Trek,"X-Caliber 9 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-x-caliber-9-m000045148,1399.99,1649.
+766,fahrrad-xxl,de,2021,Cube,Access WS Race - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,17 ZOLL,https://www.fahrrad-xxl.de/cube-access-ws-race-p00058197m002,849.,
+767,fahrrad-xxl,de,2023,Orbea,Occam H10 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-h10-m000061844,3799.,
+768,fahrrad-xxl,de,2022,Trek,Fuel EX 7 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-fuel-ex-7-m000061041,2679.99,3199.
+769,fahrrad-xxl,de,2022,Trek,"X-Caliber 9 - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/trek-x-caliber-9-m000045148,1399.99,1649.
+770,fahrrad-xxl,de,2022,NS Bikes,Define AL 130 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ns-bikes-define-al-130-1-m000055284,3699.99,4399.
+771,fahrrad-xxl,de,2023,Orbea,Occam H10 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/orbea-occam-h10-m000061844,3799.,
+772,fahrrad-xxl,de,2022,Giant,Trance X Advanced Pro 2 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/giant-trance-x-advanced-pro-2-m000020429,5399.,
+773,fahrrad-xxl,de,2021,Cannondale,"Trail Women's 7 - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,"XS, SM",https://www.fahrrad-xxl.de/cannondale-trail-women-s-7-p00061085m002,559.99,699.
+774,fahrrad-xxl,de,2022,Kron,XC 75 - 2022 - 29 Zoll - Diamant,new,MountainBikes,1,,18 ZOLL,https://www.fahrrad-xxl.de/xc-75-m000057204,399.,
+775,fahrrad-xxl,de,2023,Trek,Marlin 7 Gen 3 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, ML, L",https://www.fahrrad-xxl.de/trek-marlin-7-gen-3-m000061148,1029.,
+776,fahrrad-xxl,de,2023,Marin,"Wildcat Trail 2 WFG - 2023 - 27,5 Zoll - Diamant",new,MountainBikes,1,,S,https://www.fahrrad-xxl.de/marin-wildcat-trail-2-wfg-m000055905,699.,
+777,fahrrad-xxl,de,2021,NS Bikes,Eccentric Cromo - 2021 - 29 Zoll - Diamant,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ns-bikes-eccentric-cromo-p00057271m001,1889.99,2099.
+778,fahrrad-xxl,de,2022,Ghost,"Nirvana Tour SF Essential - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,XS,https://www.fahrrad-xxl.de/ghost-nirvana-tour-sf-essential-m000047273,1299.99,1399.
+779,fahrrad-xxl,de,2023,Liv,Tempt 1 - 2023 - 29 Zoll - Diamant,new,MountainBikes,1,,"S, L",https://www.fahrrad-xxl.de/liv-tempt-1-m000020828,999.,
+780,fahrrad-xxl,de,2022,Cube,"Race One - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-race-one-m000042021,1119.99,1249.
+781,fahrrad-xxl,de,2022,Liv,Intrigue 1 - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"S, M, L",https://www.fahrrad-xxl.de/liv-intrigue-1-m000020800,3269.99,3899.
+782,fahrrad-xxl,de,2022,Ghost,Lector FS SF LC Universal - 2022 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/ghost-lector-fs-sf-lc-universal-m000047264,4909.99,5499.
+783,fahrrad-xxl,de,2021,Cube,"Aim EX - 2021 - 27,5 Zoll - Diamant",new,MountainBikes,1,,16 ZOLL,https://www.fahrrad-xxl.de/cube-aim-ex-p00058130m002,579.,
+784,fahrrad-xxl,de,2021,Focus,Jam 8.9 Nine - 2021 - 29 Zoll - Fully,new,MountainBikes,1,,S/41,https://www.fahrrad-xxl.de/focus-jam-8-9-nine-p00057881m001,3999.99,4399.
+785,fahrrad-xxl,de,2022,Marin,"Eldridge Grade - 2022 - 27,5 Zoll - Diamant",new,MountainBikes,1,,M,https://www.fahrrad-xxl.de/marin-eldridge-grade-m000061224,599.99,759.
+786,fahrrad-xxl,de,2023,Trek,Fuel EX 9.8 XT Gen 6 - 2023 - 29 Zoll - Fully,new,MountainBikes,1,,"M, L",https://www.fahrrad-xxl.de/trek-fuel-ex-9-8-xt-gen-6-m000061114,7299.,
