@@ -1,8 +1,10 @@
+
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 from copy import deepcopy
 from concurrent.futures import ThreadPoolExecutor
+import re
 
 dict_data = []
 
@@ -12,20 +14,21 @@ def scrap_list():
     url = "https://www.orbea.com/de-de/fahrrader/mountainbike/cat/"
     web_page = requests.get(url)
     soup = BeautifulSoup(web_page.content, features="lxml")
-    bikes = soup.find_all("li", class_="prod-bikes")
+    bikes = soup.find_all("div", class_="grid__item")
+    base_url = "https://www.orbea.com"
     shop_name = "orbea"
     language = "de"
     for bike in bikes:
-        prod_info = bike.find("div", class_="prod-info bikes")
-        base_url = "https://www.orbea.com"
-        url_detail = base_url + bike.find("a")["href"]
-        model = prod_info.find("h2").getText()
-        rrp = prod_info.find("strong", class_="outlet-original-price")
+        url_detail = bike.find("a", class_ = "card__name")
+        model = url_detail.text.strip()
+        url_detail = base_url + url_detail["href"]
+        
+        rrp = bike.find("span", class_="cp__original")
         if rrp:
-            rrp = rrp.getText().split()[0]
+            rrp = rrp.getText().strip().split()[0]
         else:
             rrp = ""
-        price = prod_info.find("strong", class_="main-price").getText().split()[0]
+        price = bike.find("span", class_="cp__current").getText().strip().split()[0]
 
         rows.append(
             {
@@ -48,39 +51,49 @@ def scrap_list():
 
 
 def scrap_each_page(rows):
+
+    #for Testing only
+    #rows = rows[:2]
+
     for row in rows:
         web_page = requests.get(row["url-detail"])
         soup = BeautifulSoup(web_page.content, features="lxml")
-        category_brand = soup.find("p", class_="breadcrumbs").find_all("a")
-        category = category_brand[0].getText()
-        brand = category_brand[1].getText()
         model = deepcopy(row["modell"])
-        colors = [color["title"] for color in soup.find_all("img", "tooltip-top")]
-        variants = soup.find_all("div", class_="sizes")
+        colors = [color["data-tippy-content"] for color in soup.find("div", class_="radio-image block-menu").find_all("div")]
+        variants = soup.find_all("div", class_="radio-text size-selection block-menu")
+        year = soup.find("div", class_="image left").find("img")["src"]
+        years = re.findall('[0-9]+', year)
+        for year_temp in years:
+            try:
+                year = int(year_temp)
+                if not (year > 1990 and year < 2050):
+                    year = ""
+                else:
+                    break
+                
+            except:
+                year = ""
         for variant, color in zip(variants, colors):
-            stock_infos = variant.find_all("li")
-            stock_sizes = []
-            for stock_info in stock_infos:
-                if "not-available-orbea" in stock_info["class"]:
-                    continue
-                stock_info = BeautifulSoup(
-                    str(stock_info).replace("<br/>", ", "), "html.parser"
-                )
-                stock_size = stock_info.find("span", class_="size-txt").getText()
-                stock_text = stock_info.find("span", class_="delivery").getText()
+            sizes = variant.find_all("span", class_="info-size")
+            dates = variant.find_all("span", class_="dates")
+            
+            stock_sizes = [size.text.strip() + ": " + date.text.strip() for size, date in zip(sizes, dates)]
+            stock_sizes = "\n".join(stock_sizes)
 
-                stock_sizes.append(stock_size + ": " + stock_text)
             stock_status = 1
             if len(stock_sizes) == 0:
                 stock_status = 0
-            stock_sizes = "\n".join(stock_sizes)
+
+            # individuell konfigurierbar
             row.update(
                 {
-                    "category_shop": category,
-                    "brand": brand,
-                    "modell": model + " | " + color,
+                    "category_shop": "MountainBike",
+                    "brand": "Orbea",
+                    "modell": "Orbea "+ model + " | " + color,
                     "stock_status": stock_status,
                     "stock_sizes": stock_sizes,
+                    "stock_text": "",
+                    "year":year
                 }
             )
             dict_data.append(deepcopy(row))
@@ -102,3 +115,5 @@ if __name__ == "__main__":
         executor.map(scrap_each_page, list_rows)
         
     pd.DataFrame.from_records(dict_data).to_csv("orbea.csv")
+
+
