@@ -16,7 +16,7 @@ Please note the project requires Python 3.7 or higher due to dependent libraries
 - Clone Repo. 
  
     ```
-    git clone https://github.com/option-trade/tradelib.git
+    git clone https://github.com/bi-kash/web_scrappers.git
     ```
 
 - Get inside root folder of this project
