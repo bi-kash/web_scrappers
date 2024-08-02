@@ -2,7 +2,3 @@ selenium == 4.1.0
 webdriver_manager
 pandas
 openpyxl
-pyautogui
-selenium-wire
-blinker==1.7.0
-selenium-stealth
