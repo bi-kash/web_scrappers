@@ -10,6 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 import time
 import re
 
+
 # Need these: shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
 def get_driver():
     chromeOptions = webdriver.ChromeOptions()
@@ -28,14 +29,17 @@ def get_driver():
     return driver
 
 
-start_url = 'https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c3-mountainbike/_/N-obq78x'
-url = 'https://www.decathlon.de'
+start_url = "https://www.decathlon.de/browse/c0-alle-sportarten-a-z/c1-fahrrad-welt/c3-mountainbike/_/N-obq78x"
+url = "https://www.decathlon.de"
 dict_data = []
+
 
 def check_overlay(driver):
     wait = WebDriverWait(driver, 5)
     try:
-        wait.until(EC.presence_of_all_elements_located((By.ID, "didomi-notice-agree-button" )))
+        wait.until(
+            EC.presence_of_all_elements_located((By.ID, "didomi-notice-agree-button"))
+        )
         agree = driver.find_element(By.ID, "didomi-notice-agree-button")
         agree.click()
     except:
@@ -49,21 +53,23 @@ def scrap_list():
 
     rows = []
     driver.get(start_url)
-    shop_name = 'decathlon'
-    language = 'de'
-    category = 'Mountainbike'
+    shop_name = "decathlon"
+    language = "de"
+    category = "Mountainbike"
     while True:
-    
+
         time.sleep(3)
-        bikes = driver.find_elements(By.CLASS_NAME, 'vtmn-z-0.dpb-holder')
+        bikes = driver.find_elements(By.CLASS_NAME, "vtmn-z-0.dpb-holder")
         for bike in bikes:
             try:
-                url_detail = bike.find_element(By.TAG_NAME, 'a').get_attribute('href')
-                brand_model = bike.find_element(By.CLASS_NAME, 'dpb-product-link').text.split('\n')
+                url_detail = bike.find_element(By.TAG_NAME, "a").get_attribute("href")
+                brand_model = bike.find_element(
+                    By.CLASS_NAME, "dpb-product-link"
+                ).text.split("\n")
                 brand = brand_model[0]
                 model = brand_model[1]
                 year = ""
-                years = re.findall('[0-9]+', model)
+                years = re.findall("[0-9]+", model)
                 for year_temp in years:
                     try:
                         year = int(year_temp)
@@ -71,15 +77,17 @@ def scrap_list():
                             year = ""
                         else:
                             break
-                        
+
                     except:
                         year = ""
-                rrp = bike.find_elements(By.CLASS_NAME, 'vtmn-price_size--small')
+                rrp = bike.find_elements(By.CLASS_NAME, "vtmn-price_size--small")
                 if rrp:
                     rrp = rrp[0].text.split()[0]
                 else:
-                    rrp = ''
-                price = bike.find_element(By.CLASS_NAME, 'vtmn-price_size--medium').text.split()[0]
+                    rrp = ""
+                price = bike.find_element(
+                    By.CLASS_NAME, "vtmn-price_size--medium"
+                ).text.split()[0]
 
                 rows.append(
                     {
@@ -100,12 +108,15 @@ def scrap_list():
                 )
             except:
                 pass
-        next = driver.find_element(By.CLASS_NAME, 'pagination').find_elements(By.TAG_NAME, 'a')[-1]
-        if 'disabled' in next.get_attribute('class'):
+        next = driver.find_element(By.CLASS_NAME, "pagination").find_elements(
+            By.TAG_NAME, "a"
+        )[-1]
+        if "disabled" in next.get_attribute("class"):
             break
         else:
             next.click()
     return rows
+
 
 def scrape_pages(rows):
     driver = get_driver()
@@ -114,33 +125,55 @@ def scrape_pages(rows):
 
     wait = WebDriverWait(driver, 10)
     for row in rows:
-        driver.get(row['url-detail'])
+        driver.get(row["url-detail"])
         stock_status = 1
         try:
-            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'select.svelte-1q3l5n3')))
-            driver.find_element(By.CLASS_NAME, 'select.svelte-1q3l5n3').find_element(By.TAG_NAME, 'button').click()
-            WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'size-option')))
-            stock_sizes = [': '.join(item.text.split('\n')) for item in driver.find_elements(By.CLASS_NAME, 'size-option')]
-            if ': ' not in stock_sizes[0]:
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "select.svelte-1q3l5n3"))
+            )
+            driver.find_element(By.CLASS_NAME, "select.svelte-1q3l5n3").find_element(
+                By.TAG_NAME, "button"
+            ).click()
+            WebDriverWait(driver, 10).until(
+                EC.presence_of_element_located((By.CLASS_NAME, "size-option"))
+            )
+            stock_sizes = [
+                ": ".join(item.text.split("\n"))
+                for item in driver.find_elements(By.CLASS_NAME, "size-option")
+            ]
+            if ": " not in stock_sizes[0]:
                 time.sleep(4)
-                stock_sizes = [': '.join(item.text.split('\n')) for item in driver.find_elements(By.CLASS_NAME, 'size-option')]
+                stock_sizes = [
+                    ": ".join(item.text.split("\n"))
+                    for item in driver.find_elements(By.CLASS_NAME, "size-option")
+                ]
 
         except:
-            stock_sizes = [': '.join(driver.find_element(By.CLASS_NAME, 'size-option').text.split('\n'))]
-            if ': ' not in stock_sizes[0]:
+            stock_sizes = [
+                ": ".join(
+                    driver.find_element(By.CLASS_NAME, "size-option").text.split("\n")
+                )
+            ]
+            if ": " not in stock_sizes[0]:
                 time.sleep(4)
-                stock_sizes = [': '.join(item.text.split('\n')) for item in driver.find_elements(By.CLASS_NAME, 'size-option')]
+                stock_sizes = [
+                    ": ".join(item.text.split("\n"))
+                    for item in driver.find_elements(By.CLASS_NAME, "size-option")
+                ]
 
         stock_status = 0
         for stock_status_text in stock_sizes:
-            if ("auf lager" in stock_status_text.lower()) or ("verfügbar" in stock_status_text.lower()):
+            if ("auf lager" in stock_status_text.lower()) or (
+                "verfügbar" in stock_status_text.lower()
+            ):
                 stock_status = 1
                 break
-        
+
         stock_sizes = "\n".join(stock_sizes)
         row.update({"stock_sizes": stock_sizes, "stock_status": stock_status})
         dict_data.append(deepcopy(row))
     print(len(dict_data), ": Handled")
+
 
 if __name__ == "__main__":
     rows = scrap_list()
@@ -148,9 +181,9 @@ if __name__ == "__main__":
     max_workers = 4
     len_rows = len(rows)
     list_rows = []
-   
-    multiple = int(len_rows/(max_workers))
-    for i in range(max_workers-1):
+
+    multiple = int(len_rows / (max_workers))
+    for i in range(max_workers - 1):
         list_rows.append(rows[multiple * i : multiple * (i + 1)])
     list_rows.append(rows[multiple * (i + 1) :])
 

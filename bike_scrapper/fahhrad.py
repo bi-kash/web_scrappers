@@ -13,6 +13,8 @@ import requests
 import pandas as pd
 from concurrent.futures import ThreadPoolExecutor
 import re
+
+
 # Need these: shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
 def get_driver():
     chromeOptions = webdriver.ChromeOptions()
@@ -31,9 +33,9 @@ def get_driver():
     return driver
 
 
-
-
 dict_data = []
+
+
 def scrap_list():
     shop_name = "fahrrad"
     language = "de"
@@ -45,8 +47,8 @@ def scrap_list():
     n_page = int(soup.find("a", class_="last pagination__listiteminner").text.strip())
     bikes = soup.find_all("div", class_="js-product-tile-lazyload")
     for i in range(n_page):
-       
-        web_page = requests.get(base_url+"&page="+str(i+1))
+
+        web_page = requests.get(base_url + "&page=" + str(i + 1))
         soup = BeautifulSoup(web_page.content, features="lxml")
         bikes = soup.find_all("div", class_="js-product-tile-lazyload")
         for bike in bikes:
@@ -54,12 +56,12 @@ def scrap_list():
 
             model = url_detail.text
             brand = url_detail["title"].split()[0]
-            url_detail = url_detail['href']
+            url_detail = url_detail["href"]
             image = bike.find("div", class_="product-image").find("img")["src"]
             if "https" not in url_detail:
                 url_detail = "https://www.fahrrad.de" + url_detail
             year = ""
-            years = re.findall('[0-9]+', url_detail)
+            years = re.findall("[0-9]+", url_detail)
             for year_temp in years:
                 try:
                     year = int(year_temp)
@@ -67,7 +69,7 @@ def scrap_list():
                         year = ""
                     else:
                         break
-                    
+
                 except:
                     year = ""
             rrp = bike.find("span", "retail-price")
@@ -103,7 +105,7 @@ def scrap_list():
                     "url-detail": url_detail,
                     "price": price,
                     "rrp": rrp,
-                    "image": image
+                    "image": image,
                 }
             )
     return rows
@@ -117,10 +119,8 @@ def scrap_each_page(rows):
     driver.find_element(By.ID, "onetrust-accept-btn-handler").click()
     for row in rows:
         try:
-            driver.get(row['url-detail'])
-        
+            driver.get(row["url-detail"])
 
-                    
             variants = driver.find_elements(By.CLASS_NAME, "variation__option")
             dict_variant = {}
             sizes = []
@@ -135,16 +135,31 @@ def scrap_each_page(rows):
 
             stock_sizes = []
             for key, value in dict_variant.items():
-                stock_sizes.append(key + "\n" + ", ".join(value))   
+                stock_sizes.append(key + "\n" + ", ".join(value))
             stock_sizes = "\n\n".join(stock_sizes)
             row["stock_sizes"] = stock_sizes
-            top_features = driver.find_element(By.CLASS_NAME, "topfeatures.contentwrapper.tns-wrapper")
-            keys = [item.text for item in top_features.find_elements(By.CLASS_NAME, "cyc-color-text_secondary.is-center,cyc-typo_body")]
-            values = [item.text for item in top_features.find_elements(By.CLASS_NAME, "pdp_featurelist_value.cyc-color-text.cyc-typo_headline-3.is-center.cyc-margin_top-1")]
+            top_features = driver.find_element(
+                By.CLASS_NAME, "topfeatures.contentwrapper.tns-wrapper"
+            )
+            keys = [
+                item.text
+                for item in top_features.find_elements(
+                    By.CLASS_NAME, "cyc-color-text_secondary.is-center,cyc-typo_body"
+                )
+            ]
+            values = [
+                item.text
+                for item in top_features.find_elements(
+                    By.CLASS_NAME,
+                    "pdp_featurelist_value.cyc-color-text.cyc-typo_headline-3.is-center.cyc-margin_top-1",
+                )
+            ]
             for key, value in zip(keys, values):
-                row.update({key:value})
+                row.update({key: value})
 
-            driver.find_element(By.CLASS_NAME, "equipment-more.gtm-specificationsshowmore").click()
+            driver.find_element(
+                By.CLASS_NAME, "equipment-more.gtm-specificationsshowmore"
+            ).click()
             features = driver.find_elements(By.CLASS_NAME, "pdp_featureitem")
 
             for feature in features:
@@ -153,41 +168,55 @@ def scrap_each_page(rows):
                 if list:
                     vals = feature.find_elements(By.CLASS_NAME, "pdp_featurelist_value")
                     for item1, item2 in zip(list, vals):
-                        row[key + " " + item1.text.replace(":", "")] = item2.text 
+                        row[key + " " + item1.text.replace(":", "")] = item2.text
 
                 else:
-                    value = feature.find_element(By.CLASS_NAME, "pdp_featurelist_value").text
+                    value = feature.find_element(
+                        By.CLASS_NAME, "pdp_featurelist_value"
+                    ).text
                     row[key] = value
-                        
 
-                
-            row["image"] = driver.find_element(By.CLASS_NAME, "product-image.main-image.gtm-zoom").find_element(By.TAG_NAME, "img").get_attribute("src")
+            row["image"] = (
+                driver.find_element(By.CLASS_NAME, "product-image.main-image.gtm-zoom")
+                .find_element(By.TAG_NAME, "img")
+                .get_attribute("src")
+            )
             try:
-                driver.execute_script(
-                    "window.scrollTo(0, {});".format(0)
-                )
+                driver.execute_script("window.scrollTo(0, {});".format(0))
                 driver.find_elements(By.CLASS_NAME, "label-inner")[-1].click()
 
                 time.sleep(1)
-                driver.switch_to.frame(driver.find_element(By.ID, "trigger-geometries-widget"))
-                for tr in driver.find_element(By.TAG_NAME, "tbody").find_elements(By.TAG_NAME, "tr"):
+                driver.switch_to.frame(
+                    driver.find_element(By.ID, "trigger-geometries-widget")
+                )
+                for tr in driver.find_element(By.TAG_NAME, "tbody").find_elements(
+                    By.TAG_NAME, "tr"
+                ):
                     th = tr.find_element(By.TAG_NAME, "th").text
                     count = 0
                     for size, td in zip(sizes, tr.find_elements(By.TAG_NAME, "td")):
                         count += 1
-                        letter_size = re.findall(r'[A-Z]+', size)
+                        letter_size = re.findall(r"[A-Z]+", size)
                         if letter_size:
                             letter_size = letter_size[0]
                         else:
                             letter_size = "A"
                         if letter_size in sizes_ref:
-                            if (th + " " +  letter_size not in row): 
-                                row[th + " " +  letter_size] = td.text
+                            if th + " " + letter_size not in row:
+                                row[th + " " + letter_size] = td.text
                             else:
-                                row[th + " " +  letter_size] = row[th + " " +  letter_size] + ", " + td.text
+                                row[th + " " + letter_size] = (
+                                    row[th + " " + letter_size] + ", " + td.text
+                                )
                         else:
-                            row[th + " " + sizes_ref[int(len(sizes_ref) - len(sizes))/2 + count ]] = td.text
-                dict_data.append(row) 
+                            row[
+                                th
+                                + " "
+                                + sizes_ref[
+                                    int(len(sizes_ref) - len(sizes)) / 2 + count
+                                ]
+                            ] = td.text
+                dict_data.append(row)
                 if len(dict_data) % 25 == 0:
                     print("Handled: ", len(dict_data))
                     df = pd.DataFrame.from_records(dict_data)
@@ -195,7 +224,6 @@ def scrap_each_page(rows):
                     df.to_csv("fahrrad.csv")
             except:
                 pass
-                
 
         except:
             driver.quit()
@@ -204,8 +232,8 @@ def scrap_each_page(rows):
             driver.maximize_window()
             driver.find_element(By.ID, "onetrust-accept-btn-handler").click()
 
-   
     driver.quit()
+
 
 if __name__ == "__main__":
     rows = scrap_list()

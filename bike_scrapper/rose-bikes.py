@@ -8,6 +8,7 @@ from copy import deepcopy
 from concurrent.futures import ThreadPoolExecutor
 import time
 
+
 # Need these: shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
 def get_driver():
     chromeOptions = webdriver.ChromeOptions()

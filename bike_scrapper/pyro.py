@@ -1,4 +1,3 @@
-
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -30,9 +29,9 @@ def get_driver():
     return driver
 
 
-
-
 dict_data = []
+
+
 def scrap_list():
     base_url = "https://pyrobikes.de/collections/fahrrader"
     driver = get_driver()
@@ -42,7 +41,7 @@ def scrap_list():
     language = "de"
     category = "MountainBikes"
     rows = []
-    
+
     try:
         WebDriverWait(driver, 10).until(
             EC.presence_of_element_located((By.CLASS_NAME, "grid-product__content"))
@@ -59,12 +58,25 @@ def scrap_list():
             stock_status = ""
 
         model = bike.find_element(By.CLASS_NAME, "grid-product__title").text
-        price = bike.find_element(By.CLASS_NAME, "grid-product__price").text.strip().split()[0].replace(".", "").replace(",", ".").replace("€", "")
+        price = (
+            bike.find_element(By.CLASS_NAME, "grid-product__price")
+            .text.strip()
+            .split()[0]
+            .replace(".", "")
+            .replace(",", ".")
+            .replace("€", "")
+        )
         try:
             price = float(price)
         except:
-            price = bike.find_element(By.CLASS_NAME, "grid-product__price").text.strip().split()[1].replace(".", "").replace(",", ".").replace("€", "")
-
+            price = (
+                bike.find_element(By.CLASS_NAME, "grid-product__price")
+                .text.strip()
+                .split()[1]
+                .replace(".", "")
+                .replace(",", ".")
+                .replace("€", "")
+            )
 
         rows.append(
             {
@@ -83,33 +95,34 @@ def scrap_list():
                 "rrp": "",
             }
         )
-    
+
     driver.quit()
     return rows
+
 
 def scrap_each_page(rows):
     driver = get_driver()
 
     for row in rows:
-    
-        driver.get(row['url-detail'])
+
+        driver.get(row["url-detail"])
         fieldsets = driver.find_elements(By.TAG_NAME, "fieldset")
 
         variant_buttons = fieldsets[0].find_elements(By.CLASS_NAME, "variant-input")
         try:
             variant_sizes = fieldsets[1].find_elements(By.CLASS_NAME, "variant-input")
-            sizes = [size.get_attribute('data-value') for size in variant_sizes]
+            sizes = [size.get_attribute("data-value") for size in variant_sizes]
         except:
             sizes = ["one-size"]
-        
-          
+
         size = ", ".join(sizes)
         # wait until all buttons are loaded
 
-
         for i in range(len(variant_buttons)):
 
-            buttons = driver.find_element(By.XPATH, "//fieldset[@name='Farbe']").find_elements(By.CLASS_NAME, "variant-input")
+            buttons = driver.find_element(
+                By.XPATH, "//fieldset[@name='Farbe']"
+            ).find_elements(By.CLASS_NAME, "variant-input")
             try:
                 buttons[i].click()
             except:
@@ -118,25 +131,30 @@ def scrap_each_page(rows):
                     buttons[i].click()
                 except:
                     pass
-          
-      
-   
+
             row_copy = deepcopy(row)
-            model = row_copy['modell'] + " " + buttons[i].get_attribute("data-value")
+            model = row_copy["modell"] + " " + buttons[i].get_attribute("data-value")
 
-
-          
             try:
-                stock_text = driver.find_elements(By.CLASS_NAME, "product-block--sales-point")[-1].find_element(By.CLASS_NAME, "icon-and-text").find_elements(By.TAG_NAME, "span")[1].text
+                stock_text = (
+                    driver.find_elements(By.CLASS_NAME, "product-block--sales-point")[
+                        -1
+                    ]
+                    .find_element(By.CLASS_NAME, "icon-and-text")
+                    .find_elements(By.TAG_NAME, "span")[1]
+                    .text
+                )
             except:
                 stock_text = ""
-            
-            row_copy.update({"modell": model, "stock_sizes": size, 'stock_text': stock_text})
+
+            row_copy.update(
+                {"modell": model, "stock_sizes": size, "stock_text": stock_text}
+            )
             dict_data.append(row_copy)
     print("Handled: ", len(dict_data))
 
-   
     driver.quit()
+
 
 if __name__ == "__main__":
     rows = scrap_list()
@@ -151,7 +169,5 @@ if __name__ == "__main__":
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         executor.map(scrap_each_page, list_rows)
-    
-    pd.DataFrame(dict_data).to_csv("pyro.csv")
 
- 
+    pd.DataFrame(dict_data).to_csv("pyro.csv")

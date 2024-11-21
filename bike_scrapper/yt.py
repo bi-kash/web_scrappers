@@ -1,4 +1,3 @@
-
 import time
 import re
 from bs4 import BeautifulSoup
@@ -11,6 +10,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 from copy import deepcopy
+
 
 def get_driver():
     chromeOptions = webdriver.ChromeOptions()
@@ -28,7 +28,9 @@ def get_driver():
     )
     return driver
 
+
 data_dict = []
+
 
 def scrap_list():
     shop_name = "yt-industries"
@@ -38,23 +40,22 @@ def scrap_list():
     page = 0
     rows = []
     while True:
-        page+=1
+        page += 1
         print(page)
         base_url = "https://www.yt-industries.com/de/produkte/bikes/?p={}".format(page)
         print(base_url)
         web_page = requests.get(base_url)
         soup = BeautifulSoup(web_page.content, features="lxml")
 
-        
-        bikes =  soup.find_all("div", class_="product--info")
+        bikes = soup.find_all("div", class_="product--info")
         print(len(bikes))
         if len(bikes) == 0:
             break
-        
+
         for bike in bikes:
             url_detail = bike.find("a")
-            model = url_detail['title']
-            url_detail = url_detail['href']
+            model = url_detail["title"]
+            url_detail = url_detail["href"]
             price = bike.find("span", class_="price--default")
             try:
                 rrp = bike.find("span", class_="price--discount")
@@ -92,43 +93,43 @@ def dict_update(row, driver):
     model_list = []
     for color_option in color_options:
         a = deepcopy(row)
-        model = row['modell'] + " " + color_option.get_attribute('data-color')
+        model = row["modell"] + " " + color_option.get_attribute("data-color")
         if model in model_list:
             continue
         model_list.append(model)
         print(model)
-        size_frames = color_option.find_elements(By.CLASS_NAME, "ytind-frame-size-selection")
+        size_frames = color_option.find_elements(
+            By.CLASS_NAME, "ytind-frame-size-selection"
+        )
         sizes_dict = {}
         for size_frame in size_frames:
-            value = size_frame.find_element(By.CLASS_NAME, "ytind-availability-table-size").text
-            key = size_frame.find_element(By.CLASS_NAME, "ytind-availability-table-stock").text
-            
+            value = size_frame.find_element(
+                By.CLASS_NAME, "ytind-availability-table-size"
+            ).text
+            key = size_frame.find_element(
+                By.CLASS_NAME, "ytind-availability-table-stock"
+            ).text
+
             if key in sizes_dict:
                 sizes_dict[key].append(value)
             else:
                 sizes_dict[key] = [value]
-        
+
         stock_sizes = []
         for key, value in sizes_dict.items():
             stock_sizes.append(key + "\n" + ", ".join(value))
-        
-        stock_sizes = "\n\n".join(stock_sizes) 
-    
 
-        
-        a.update(
-            {
-                "modell": model,
-                "stock_sizes": stock_sizes
-            }
-        )
+        stock_sizes = "\n\n".join(stock_sizes)
+
+        a.update({"modell": model, "stock_sizes": stock_sizes})
         data_dict.append(a)
+
 
 def scrap_pages(rows):
     driver = get_driver()
     for row in rows:
         driver = get_driver()
-        base_url = row['url-detail']
+        base_url = row["url-detail"]
         driver.get(base_url)
         driver.maximize_window()
         wheels = driver.find_elements(By.CLASS_NAME, "ytind-wheelsize-option")
@@ -147,36 +148,36 @@ def scrap_pages(rows):
                     driver.find_element(By.CLASS_NAME, "ytind-wheelsize-option").click()
                     break
                 except:
-                    new_height = driver.execute_script("return document.body.scrollHeight")
-            
+                    new_height = driver.execute_script(
+                        "return document.body.scrollHeight"
+                    )
+
             wheels = driver.find_elements(By.CLASS_NAME, "ytind-wheelsize-option")
-            model = row['modell']
+            model = row["modell"]
             if wheels:
                 wheels_ = []
                 for wheel in wheels:
-                
-                    if wheel.text in row['modell'].split():
+
+                    if wheel.text in row["modell"].split():
                         wheels_ = [wheel]
                         break
                     else:
                         wheels_.append(wheel)
-                        
+
             for wheel in wheels_:
 
-                
                 wheel_size = wheel.text
-                
-                if wheel_size not in model.split(): 
-                    row['modell'] = model + " " + wheel.text
-        
-                
+
+                if wheel_size not in model.split():
+                    row["modell"] = model + " " + wheel.text
+
                 wheel.click()
                 time.sleep(1)
 
                 dict_update(row, driver)
     print("handled: ", len(data_dict))
     driver.quit()
- 
+
 
 if __name__ == "__main__":
     data_dict = []
@@ -194,7 +195,3 @@ if __name__ == "__main__":
         executor.map(scrap_pages, list_rows)
 
     pd.DataFrame(data_dict).to_csv("yt-industries.csv")
-
-
-
-

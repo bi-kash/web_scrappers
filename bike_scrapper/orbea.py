@@ -1,4 +1,3 @@
-
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -19,10 +18,10 @@ def scrap_list():
     shop_name = "orbea"
     language = "de"
     for bike in bikes:
-        url_detail = bike.find("a", class_ = "card__name")
+        url_detail = bike.find("a", class_="card__name")
         model = url_detail.text.strip()
         url_detail = base_url + url_detail["href"]
-        
+
         rrp = bike.find("span", class_="cp__original")
         if rrp:
             rrp = rrp.getText().strip().split()[0]
@@ -52,17 +51,22 @@ def scrap_list():
 
 def scrap_each_page(rows):
 
-    #for Testing only
-    #rows = rows[:2]
+    # for Testing only
+    # rows = rows[:2]
 
     for row in rows:
         web_page = requests.get(row["url-detail"])
         soup = BeautifulSoup(web_page.content, features="lxml")
         model = deepcopy(row["modell"])
-        colors = [color["data-tippy-content"] for color in soup.find("div", class_="radio-image block-menu").find_all("div")]
+        colors = [
+            color["data-tippy-content"]
+            for color in soup.find("div", class_="radio-image block-menu").find_all(
+                "div"
+            )
+        ]
         variants = soup.find_all("div", class_="radio-text size-selection block-menu")
         year = soup.find("div", class_="image left").find("img")["src"]
-        years = re.findall('[0-9]+', year)
+        years = re.findall("[0-9]+", year)
         for year_temp in years:
             try:
                 year = int(year_temp)
@@ -70,14 +74,17 @@ def scrap_each_page(rows):
                     year = ""
                 else:
                     break
-                
+
             except:
                 year = ""
         for variant, color in zip(variants, colors):
             sizes = variant.find_all("span", class_="info-size")
             dates = variant.find_all("span", class_="dates")
-            
-            stock_sizes = [size.text.strip() + ": " + date.text.strip() for size, date in zip(sizes, dates)]
+
+            stock_sizes = [
+                size.text.strip() + ": " + date.text.strip()
+                for size, date in zip(sizes, dates)
+            ]
             stock_sizes = "\n".join(stock_sizes)
 
             stock_status = 1
@@ -89,11 +96,11 @@ def scrap_each_page(rows):
                 {
                     "category_shop": "MountainBike",
                     "brand": "Orbea",
-                    "modell": "Orbea "+ model + " | " + color,
+                    "modell": "Orbea " + model + " | " + color,
                     "stock_status": stock_status,
                     "stock_sizes": stock_sizes,
                     "stock_text": "",
-                    "year":year
+                    "year": year,
                 }
             )
             dict_data.append(deepcopy(row))
@@ -113,7 +120,5 @@ if __name__ == "__main__":
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         executor.map(scrap_each_page, list_rows)
-        
+
     pd.DataFrame.from_records(dict_data).to_csv("orbea.csv")
-
-

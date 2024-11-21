@@ -1,4 +1,3 @@
-
 import pandas as pd
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -6,6 +5,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
 import time
+
 
 # Need these: shop_name,language,year,brand,modell,condition,category_shop,stock_status,stock_text,stock_sizes,url-detail,price,rrp
 def get_driver():
@@ -24,6 +24,7 @@ def get_driver():
     )
     return driver
 
+
 def scrap_list():
     shop_name = "buycycle"
     language = "de"
@@ -36,9 +37,11 @@ def scrap_list():
         time.sleep(4)
         bikes = driver.find_elements(By.CLASS_NAME, "shop-product-item")
         for bike in bikes:
-            url_detail = bike.find_element(By.TAG_NAME, "a").get_attribute('href')
+            url_detail = bike.find_element(By.TAG_NAME, "a").get_attribute("href")
             try:
-                condition = bike.find_element(By.CLASS_NAME, "bike-item-tag").get_attribute("innerText")
+                condition = bike.find_element(
+                    By.CLASS_NAME, "bike-item-tag"
+                ).get_attribute("innerText")
             except:
                 condition = "new"
 
@@ -50,15 +53,16 @@ def scrap_list():
             stock_sizes = infos[1].text
             model = infos[2].text
 
-            
-            brand_cat = bike.find_element(By.CLASS_NAME, "pr-3").find_elements(By.TAG_NAME, "p")
+            brand_cat = bike.find_element(By.CLASS_NAME, "pr-3").find_elements(
+                By.TAG_NAME, "p"
+            )
             brand = brand_cat[0].text
             model = brand_cat[1].text + " | " + model
             category = brand_cat[-1].text
-            
+
             rrp = bike.find_element(By.TAG_NAME, "del").text[:-1]
             price = bike.find_element(By.CLASS_NAME, "font-700").text[:-1]
-            
+
             rows.append(
                 {
                     "shop_name": shop_name,
@@ -82,14 +86,10 @@ def scrap_list():
         if next.get_attribute("aria-disabled") == "true":
             break
         else:
-            
+
             next.click()
     return rows
 
+
 if __name__ == "__main__":
     scrap_list()
-
-
-
-
-

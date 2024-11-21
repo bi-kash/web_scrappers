@@ -8,7 +8,7 @@ from pandas.api.types import CategoricalDtype
 import numpy as np
 import time
 
-#from settings import export_path 
+# from settings import export_path
 
 dict_data = []
 
@@ -29,14 +29,13 @@ def scrap_list():
         url_detail = base_url + bike.find("a")["href"]
         model = prod_info.find("h2").getText()
         price = prod_info.find("strong", class_="main-price").getText().split()[0]
-        price = price.replace(",","")
+        price = price.replace(",", "")
         rrp = prod_info.find("strong", class_="outlet-original-price")
         if rrp:
             rrp = rrp.getText().split()[0]
-            rrp = rrp.replace(",","")
+            rrp = rrp.replace(",", "")
         else:
             rrp = price
-        
 
         rows.append(
             {
@@ -57,14 +56,12 @@ def scrap_list():
         )
         print(rows)
     return rows
-    
-
 
 
 def scrap_each_page(rows):
 
-    #for Testing only
-    #rows = rows[:2]
+    # for Testing only
+    # rows = rows[:2]
 
     for row in rows:
         web_page = requests.get(row["url-detail"])
@@ -75,8 +72,8 @@ def scrap_each_page(rows):
         for variant, color in zip(variants, colors):
             stock_infos = variant.find_all("li")
             stock_sizes = []
-            
-            df = pd.DataFrame(columns=['stock_text','stock_size'])
+
+            df = pd.DataFrame(columns=["stock_text", "stock_size"])
 
             for stock_info in stock_infos:
                 if "not-available-orbea" in stock_info["class"]:
@@ -89,23 +86,15 @@ def scrap_each_page(rows):
 
                 stock_sizes.append(stock_size)
 
-                
+                # stock_text = stock_text.replace(", "," - ")
 
-                #stock_text = stock_text.replace(", "," - ")
-
-                
-
-
-
-                #df.loc[len(df.index)] = [stock_text,stock_size]
-
+                # df.loc[len(df.index)] = [stock_text,stock_size]
 
             stock_sizes = ", ".join(stock_sizes)
             print(row["url-detail"])
             print(stock_sizes)
 
-
-            '''
+            """
             #Ausgabe mit individuellen Lieferzeiten:
 
             df_new = df.groupby(by=["stock_text"])["stock_size"].agg(list)
@@ -119,16 +108,9 @@ def scrap_each_page(rows):
 
             stock_text = "<br>".join(stock_text_tmp)
 
-            '''
-
+            """
 
             stock_text = "lieferbar in:<br>" + stock_sizes
-
-
-    
-                
-
-            
 
             stock_status = 1
             if len(stock_sizes) == 0:
@@ -139,12 +121,11 @@ def scrap_each_page(rows):
 
             # individuell konfigurierbar
 
-
             row.update(
                 {
                     "category_shop": category,
                     "brand": "Orbea",
-                    "modell": "Orbea "+model + " | " + color,
+                    "modell": "Orbea " + model + " | " + color,
                     "stock_status": stock_status,
                     "stock_sizes": stock_sizes,
                     "stock_text": stock_text,
@@ -157,7 +138,7 @@ def scrap_each_page(rows):
 if __name__ == "__main__":
     rows = scrap_list()
 
-    '''
+    """
 
     max_workers = 16
     len_rows = len(rows)
@@ -169,10 +150,10 @@ if __name__ == "__main__":
 
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
         executor.map(scrap_each_page, list_rows)
-    '''
+    """
 
     print("Total Bikes crawled: ", len(rows))
 
-    #pd.DataFrame.from_records(rows).to_csv(export_path+"orbea.csv")
+    # pd.DataFrame.from_records(rows).to_csv(export_path+"orbea.csv")
 
     pd.DataFrame.from_records(rows).to_excel("orbea.xlsx")
